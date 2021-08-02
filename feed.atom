@@ -2,10 +2,1238 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryepenchi.github.io/osmosfeed-ryepenchi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T01:17:17.686Z</updated>
+    <updated>2021-08-02T01:08:52.896Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ryepenchi.github.io/osmosfeed-ryepenchi/index.html"/>
     <link rel="self" href="https://ryepenchi.github.io/osmosfeed-ryepenchi/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tokyo 2020 Olympics: athletics, cycling, weightlifting and more – live!]]></title>
+        <id>https://www.theguardian.com/sport/live/2021/aug/01/tokyo-2020-olympics-athletics-cycling-weightlifting-and-more-live</id>
+        <link href="https://www.theguardian.com/sport/live/2021/aug/01/tokyo-2020-olympics-athletics-cycling-weightlifting-and-more-live"/>
+        <updated>2021-08-02T00:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Games schedule | Results | Medal table | Full coverage
+Sign up for the Guardian’s daily Olympic briefing
+Marcell Jacobs becomes new 100m king with glory for Italy
+Email Tom, tweet or comment below the line
+
+ 1.49am BST 
+Alix Klineman and April Ross of the USA are through to the quarter-finals of the women’s beach volleyball with a 2-0 victory over Cuba’s Leila Martínez and Lidiannis Echevarria. 
+ 1.44am BST 
+A fairly slow few laps before a burst on the final one for a winning time of 4min 03sec. Laura Muir qualifies comfortably in a heat won by Canada’s Gabriela Debues-Stafford. Finland’s Sara Kuivisto ran a national record to make the next round alongside Winny Chebet of Kenya and Freweyni Hailu of Ethiopia. USA’s Cory McGee is eighth and probably won’t make it as a fastest loser. Australia’s Georgia Griffith was 14th and her campaign is over. 
+ Continue reading...]]></summary>
+        <author>
+            <name>Tom Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jacinda Ardern apologises for New Zealand ‘dawn raids’ on Pasifika people in 1970s]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/02/jacinda-ardern-apologises-for-new-zealand-dawn-raids-on-pasifika-people-in-1970s</id>
+        <link href="https://www.theguardian.com/world/2021/aug/02/jacinda-ardern-apologises-for-new-zealand-dawn-raids-on-pasifika-people-in-1970s"/>
+        <updated>2021-08-02T00:13:03.000Z</updated>
+        <summary type="html"><![CDATA[The raids on Pasifika migrants and their subsequent deportations separated families and devastated communities
+New Zealand’s prime minister, Jacinda Ardern, has issued a formal apology for historic racist policing of Pacific people and offered scholarships to Pacific students.
+Hundreds of people packed Auckland town hall on Sunday to hear the apology for the “dawn raids” of the 1970s during which authorities hunted for visa overstayers.
+ Continue reading...]]></summary>
+        <author>
+            <name>Australian Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China tests millions as Nanjing airport outbreak sees Covid cases surge]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/02/china-tests-millions-as-nanjing-airport-outbreak-sees-covid-cases-surge</id>
+        <link href="https://www.theguardian.com/world/2021/aug/02/china-tests-millions-as-nanjing-airport-outbreak-sees-covid-cases-surge"/>
+        <updated>2021-08-01T23:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The country fights its most widespread outbreak in months with cases in more than a dozen provinces
+
+See all our coronavirus coverage
+
+Chinese cities have rolled out mass testing of millions of people and imposed fresh travel restrictions as health authorities battle to contain the country’s most widespread coronavirus outbreak in months.
+China on Sunday reported 75 new coronavirus cases with 53 local transmissions, with a cluster linked to an eastern airport now reported to have spread to over 20 cities and more than a dozen provinces.
+ Continue reading...]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lewis Hamilton fears he has long Covid after Hungarian GP exhaustion]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/lewis-hamilton-fears-he-has-long-covid-after-hungarian-gp-exhaustion</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/lewis-hamilton-fears-he-has-long-covid-after-hungarian-gp-exhaustion"/>
+        <updated>2021-08-01T23:30:01.000Z</updated>
+        <summary type="html"><![CDATA[F1 world champion says he has not fully recovered from virus
+‘Everything got blurry on the podium,’ he said post-race
+
+Lewis Hamilton believes he may still have not fully recovered from contracting Covid-19 after he experienced fatigue and dizziness at the Hungarian Grand Prix. The British driver finished third in a monumental effort to come back from last place at the Hungaroring – a position later raised to second when Sebastian Vettel was disqualified on a technicality – but admitted he fears he may be suffering from long Covid.
+After his immense recovery drive Hamilton missed the start of the post-race press conferences as he was being attended to by his Mercedes team doctor for fatigue. He said later he did not feel he had fully recovered from the effects of the virus he contracted in December last year. “I have been fighting all year with my health after what happened at the end of last year and it is still a battle,” he said. “I had really big dizziness and everything got a bit blurry on the podium.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Giles Richards at the Hungaroring</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Union calls on private NHS employers to match public-sector pay rises]]></title>
+        <id>https://www.theguardian.com/society/2021/aug/02/union-calls-on-private-nhs-employers-to-match-public-sector-pay-rises</id>
+        <link href="https://www.theguardian.com/society/2021/aug/02/union-calls-on-private-nhs-employers-to-match-public-sector-pay-rises"/>
+        <updated>2021-08-01T23:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Unison says workers employed by private firms should not miss out on 3% pay rise given to NHS staff
+Cleaners, porters, catering assistants, security guards and other health staff employed by private companies should receive the same pay rise as NHS staff, union leaders have said.
+Unison said private firms and subsidiary companies owned by individual NHS trusts should increase hourly pay to at least match new NHS rates (Agenda for Change), which are as yet unconfirmed.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Mistlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No traces of coronavirus found in tests at major English railway stations]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/02/no-traces-of-coronavirus-found-in-tests-at-major-english-railway-stations</id>
+        <link href="https://www.theguardian.com/world/2021/aug/02/no-traces-of-coronavirus-found-in-tests-at-major-english-railway-stations"/>
+        <updated>2021-08-01T23:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Trains and stations in Manchester, Birmingham, Liverpool and London free of surface and airborne particles
+
+Coronavirus – latest updates
+See all our coronavirus coverage
+
+No traces of coronavirus were found in tests at four major railway stations and on intercity train services, Network Rail has said.
+Places passengers regularly touch, such as escalator handles, ticket machines and benches, were swabbed, while hour-long air samples were taken.
+ Continue reading...]]></summary>
+        <author>
+            <name>PA Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premier League 2021-22 preview No 1: Arsenal]]></title>
+        <id>https://www.theguardian.com/football/blog/2021/aug/02/premier-league-2021-22-preview-no-1-arsenal</id>
+        <link href="https://www.theguardian.com/football/blog/2021/aug/02/premier-league-2021-22-preview-no-1-arsenal"/>
+        <updated>2021-08-01T23:01:11.000Z</updated>
+        <summary type="html"><![CDATA[After years of decline, it is time for the excuses to be cast aside and improvement to begin under Mikel Arteta 
+Guardian writers’ predicted position: 6th (NB: this is not necessarily Nick Ames’s prediction but the average of our writers’ tips)
+Last season’s position: 8th
+Odds to win the league (via Oddschecker): 50-1
+ Continue reading...]]></summary>
+        <author>
+            <name>Nick Ames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wellbeing in decline in England as loneliness rises, report shows]]></title>
+        <id>https://www.theguardian.com/society/2021/aug/02/wellbeing-in-decline-in-england-as-loneliness-rises-report-shows</id>
+        <link href="https://www.theguardian.com/society/2021/aug/02/wellbeing-in-decline-in-england-as-loneliness-rises-report-shows"/>
+        <updated>2021-08-01T23:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Decline started before Covid pandemic and continued to drop as country entered first lockdown in March 2020
+Wellbeing in England has decreased in the last year while loneliness and mistrust in government has increased, analysis of ONS data shows.
+The new report from Carnegie UK comes in advance of the publication on Tuesday of the latest ONS GDP figures, which are expected to show that the UK economy grew in the second quarter of 2021.
+ Continue reading...]]></summary>
+        <author>
+            <name>Nicola Slawson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Ambition review – a candid, charming take on sight and artistry]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2021/aug/01/blind-ambition-review-a-candid-charming-take-on-sight-and-artistry</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2021/aug/01/blind-ambition-review-a-candid-charming-take-on-sight-and-artistry"/>
+        <updated>2021-08-01T22:00:09.000Z</updated>
+        <summary type="html"><![CDATA[This stunt-filled documentary sees TV producer Jamie O’Leary and comic Jamie MacDonald consider how creatives with low vision and blindness both survive and thrive
+Blind Ambition (BBC Two) takes the tried and trusted format of putting two grumpy men together and sending them off on an exploratory adventure. The twist here is that Jamie O’Leary, a TV director, is partially sighted, and Jamie MacDonald, a standup comedian, is blind. O’Leary, who directed the series I’m Spazticus, explains that his passion projects cast disabilities in a different light. The idea here is to meet blind or partially sighted creatives, to see how their vision changes, well, their vision.
+Blind Ambition is part travelogue, part documentary, part art project, and it is a bit of a shambles, at times, but a charming one. O’Leary has myopia, and at the beginning the producers send him off to an appointment at the eye doctor: “I always get a ‘wow’.” On cue, his optician greets him with one, before asking MacDonald what he would say to O’Leary, if he were to lose his sight completely. Should he prepare himself for it, or act as if it will never happen? O’Leary says, frankly, that he is in denial and can’t even let himself go there.
+ Continue reading...]]></summary>
+        <author>
+            <name>Rebecca Nicholson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labour calls on Tories to reveal which ministers met elite donors’ club]]></title>
+        <id>https://www.theguardian.com/politics/2021/aug/01/labour-calls-on-tories-to-reveal-which-ministers-met-elite-donors-club</id>
+        <link href="https://www.theguardian.com/politics/2021/aug/01/labour-calls-on-tories-to-reveal-which-ministers-met-elite-donors-club"/>
+        <updated>2021-08-01T21:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Conservatives face questions after report that party co-chair created a club for most generous donors
+The Conservatives must publish the names of all ministers who secretly met an elite group of party donors, Labour has said.
+The party is facing questions over the conduct of the party’s co-chair, Ben Elliot, the nephew of the Duchess of Cornwall, after the Financial Times reported that he had created a club for some of the party’s most generous donors, some of whom gave £250,000 a year or more. The members are reported to have regular access to the prime minister and Rishi Sunak.
+ Continue reading...]]></summary>
+        <author>
+            <name>Jessica Elgot Chief political correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lions’ Kyle Sinckler cited for alleged bite on South Africa’s Franco Mostert]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/lions-stuart-hogg-categorically-denies-accusations-of-biting-in-second-test</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/lions-stuart-hogg-categorically-denies-accusations-of-biting-in-second-test"/>
+        <updated>2021-08-01T21:02:19.000Z</updated>
+        <summary type="html"><![CDATA[• Sinckler faces disciplinary panel on Tuesday
+• Guilty verdict carries minimum 12-week ban
+Kyle Sinckler is facing the prospect of a lengthy ban after he was cited for an alleged bite on South Africa’s Franco Mostert during the British & Irish Lions’ second Test defeat by the Springboks but several other controversial incidents have been overlooked.
+Sinckler was the only player cited from an ill-tempered second Test – won 27-9 by South Africa – over an incident in the 64th minute. He will face a disciplinary panel on Tuesday and if found guilty he will miss the decider on Saturday and face a minimum suspension of 12 weeks. The maximum is four years.
+ Continue reading...]]></summary>
+        <author>
+            <name>Gerard Meagher in Cape Town</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police appeal for information after teenager stabbed to death in Birmingham]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/police-appeal-for-information-after-teenager-stabbed-to-death-in-birmingham</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/police-appeal-for-information-after-teenager-stabbed-to-death-in-birmingham"/>
+        <updated>2021-08-01T20:55:31.000Z</updated>
+        <summary type="html"><![CDATA[West Midlands police seek contact details of family of Brahane Yordanos, who do not yet know of her killing
+Detectives are trying to find the family of a 19-year-old woman found fatally stabbed at her home in Birmingham. West Midlands police named the victim as Brahane Yordanos, from Eritrea in north-east Africa, on Sunday.
+Just after 6am on Saturday, officers were called to Unett Street, Newtown, where the teenager was discovered with stab wounds. She was pronounced dead at the scene.
+ Continue reading...]]></summary>
+        <author>
+            <name>PA Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man, woman and boy, 13, arrested over death of five-year-old in Bridgend]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/man-woman-and-boy-13-arrested-over-death-of-five-year-old-in-bridgend</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/man-woman-and-boy-13-arrested-over-death-of-five-year-old-in-bridgend"/>
+        <updated>2021-08-01T20:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Child’s body pulled from Ogmore River in Sarn, south Wales, on Saturday
+A 39-year-old man, a 30-year-old woman and a 13-year-old boy have been arrested on suspicion of murder following the death of a five-year-old boy who was pulled from a river in Bridgend, South Wales police said.
+The boy was found in the Ogmore River near Pandy Park, in the Sarn area of Bridgend, on Saturday.
+ Continue reading...]]></summary>
+        <author>
+            <name>PA Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds demand reparations for Windrush generation]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/hundreds-demand-reparations-for-windrush-generation</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/hundreds-demand-reparations-for-windrush-generation"/>
+        <updated>2021-08-01T20:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Event in Brixton marking end of slavery in British empire also hears calls for restored citizenship
+Hundreds of people have gathered in south London to call for reparations and restored citizenship for the Windrush generation and their descendants.
+The event, organised by a coalition of campaigning groups, was staged in Max Roach Park, Brixton, where the crowd listened to speeches expressing solidarity with African people as they marked the end of slavery in the British empire. 
+ Continue reading...]]></summary>
+        <author>
+            <name>PA Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnson faces rebellion over ‘intolerable’ hunger and poverty in home counties]]></title>
+        <id>https://www.theguardian.com/society/2021/aug/01/johnson-faces-rebellion-over-intolerable-hunger-and-poverty-in-home-counties</id>
+        <link href="https://www.theguardian.com/society/2021/aug/01/johnson-faces-rebellion-over-intolerable-hunger-and-poverty-in-home-counties"/>
+        <updated>2021-08-01T19:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Steve Baker, MP for Wycombe, urged ministers not to ignore the cost of living crisis in constituencies like his
+Boris Johnson faces another backbench rebellion over the Treasury’s spending this autumn, as a high-profile Tory MP hit out at “intolerable” levels of hunger and poverty in his affluent home counties constituency, and urged ministers to abandon plans to cut universal credit.
+Steve Baker, a leading Brexiter and MP for Wycombe in Buckinghamshire, called on ministers not to ignore the cost of living crisis faced by people “in real trouble” in constituencies like his who had been “tipped over the edge” financially by the pandemic.
+ Continue reading...]]></summary>
+        <author>
+            <name>Patrick Butler and Jessica Elgot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tourists evacuated from Pescara as Italy records more than 800 wildfires]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/tourists-evacuated-from-pescara-as-italy-records-over-800-wildfires</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/tourists-evacuated-from-pescara-as-italy-records-over-800-wildfires"/>
+        <updated>2021-08-01T19:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Wildfires burn across Italy,  Spain, Greece and Turkey in heatwave bringing temperatures above 40C
+At least five people have been wounded and holidaymakers evacuated after wildfires devastated a pine wood near a beach in Pescara, Italy, as one of the worst heatwaves in decades swept across south-east Europe.
+A five-year-old girl was taken to hospital but her condition is not believed to be life-threatening, according to reports.
+ Continue reading...]]></summary>
+        <author>
+            <name>Lorenzo Tondo and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Belarusian sprinter who criticised coaches refuses to be sent home]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/belarus-sprinter-krystsina-tsimanouskaya-criticised-coaches-says-she-will-not-return-to-country</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/belarus-sprinter-krystsina-tsimanouskaya-criticised-coaches-says-she-will-not-return-to-country"/>
+        <updated>2021-08-01T18:39:50.000Z</updated>
+        <summary type="html"><![CDATA[IOC says Krystsina Tsimanouskaya now with a Tokyo 2020 staff member at airport and ‘feels safe’
+The Belarusian sprinter Krystsina Tsimanouskaya has called on the International Olympic Committee (IOC) to intercede after claiming her criticisms of the national team’s coaches have led to her being dropped from the team and taken, against her wishes, to Tokyo airport.
+Tsimanouskaya, who was due to compete in the women’s 200m on Monday, told Reuters she did not plan to return to her country, adding that she had sought the protection of Japanese police at Haneda airport on Sunday so that she would not have to board the flight.
+ Continue reading...]]></summary>
+        <author>
+            <name>Staff and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK’s net zero goal ‘too far away’, says No 10 climate spokesperson]]></title>
+        <id>https://www.theguardian.com/environment/2021/aug/01/uks-net-zero-goal-too-far-away-says-no-10-climate-spokesperson</id>
+        <link href="https://www.theguardian.com/environment/2021/aug/01/uks-net-zero-goal-too-far-away-says-no-10-climate-spokesperson"/>
+        <updated>2021-08-01T18:22:37.000Z</updated>
+        <summary type="html"><![CDATA[Allegra Stratton says carbon emissions must change ‘right now’, as UK moves towards 2050 goal
+The UK’s goal of tackling the climate crisis by reducing carbon emissions to net zero by 2050 is “too far away”, the prime minister’s climate change spokesperson has said.
+Allegra Stratton, Boris Johnson’s former press secretary, said the “science is clear” that the UK must change its carbon emission output “right now”.
+ Continue reading...]]></summary>
+        <author>
+            <name>Nadeem Badshah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evictions crisis: Ocasio-Cortez says Democrats cannot blame Republicans]]></title>
+        <id>https://www.theguardian.com/us-news/2021/aug/01/evictions-alexandria-ocasio-cortez-democrats-blame-republicans</id>
+        <link href="https://www.theguardian.com/us-news/2021/aug/01/evictions-alexandria-ocasio-cortez-democrats-blame-republicans"/>
+        <updated>2021-08-01T17:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Progressive is angry her party allowed the clock to run out on renewing measure that lapsed Saturday night
+Democrats who control the House of Representatives cannot blame Republicans for a looming crisis over evictions, Alexandria Ocasio-Cortez said, after a federal moratorium lapsed on Saturday night.
+ Related: Fauci backs new masks guidance as Florida reports highest one-day Covid case total 
+ Continue reading...]]></summary>
+        <author>
+            <name>Richard Luscombe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myanmar junta leader declares himself PM as election timeline stalled]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/myanmars-military-ruler-promises-multi-party-elections</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/myanmars-military-ruler-promises-multi-party-elections"/>
+        <updated>2021-08-01T17:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Six months after seizing power, Min Aung Hlaing extends coup with promise of elections in 2023
+Myanmar’s military leader has declared himself prime minister and said he will lead the country under the nation’s state of emergency until elections are held in two years’ time – vastly extending the timeline given when the military deposed Aung San Suu Kyi six months ago.
+“We must create conditions to hold a free and fair multiparty general election,” Gen Min Aung Hlaing said on Sunday during a recorded televised address. “We have to make preparations. I pledge to hold the multiparty general election without fail.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Guardian staff and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ben Jennings on Latin and vaccines – cartoon]]></title>
+        <id>https://www.theguardian.com/commentisfree/picture/2021/aug/01/ben-jennings-on-latin-and-vaccines-cartoon</id>
+        <link href="https://www.theguardian.com/commentisfree/picture/2021/aug/01/ben-jennings-on-latin-and-vaccines-cartoon"/>
+        <updated>2021-08-01T17:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading...]]></summary>
+        <author>
+            <name>Ben Jennings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Guardian view on Fortress Europe: a continent losing its moral compass]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/aug/01/the-guardian-view-on-fortress-europe-a-continent-losing-its-moral-compass</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/aug/01/the-guardian-view-on-fortress-europe-a-continent-losing-its-moral-compass"/>
+        <updated>2021-08-01T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The increasingly draconian approach to irregular migration betrays the spirit of the 1951 refugee convention
+Seventy years ago, the 1951 UN refugee convention established the rights of refugees to seek sanctuary, and the obligations of states to protect them. Increasingly, it seems that much of Europe is choosing to commemorate the anniversary by ripping up some of the convention’s core principles.
+So far this year, close to 1,000 migrants have died attempting to cross the Mediterranean, more than four times the death toll for the same period in 2020. Many will have been economic migrants. Others will have been fleeing persecution. Increasingly, Europe does not care. All were “irregular”. And all must be discouraged and deterred through a strategy of cruelty.
+ Continue reading...]]></summary>
+        <author>
+            <name>Editorial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Employers offer golden hellos of up to £10k amid worker shortage]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/employers-offer-golden-hellos-of-up-to-10k-amid-worker-shortage</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/employers-offer-golden-hellos-of-up-to-10k-amid-worker-shortage"/>
+        <updated>2021-08-01T17:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Survey finds 5,000 vacancies, with signing-on bonuses for in-demand roles such as care workers and chefs
+Employers are offering signing-on fees of up to £10,000 to tempt “gold dust” applicants as more than 1.1m jobs in the UK remain unfilled, with the pingdemic worsening a shortage of workers caused by Brexit and a lack of skills.
+Care home operator HC One is offering a £10,000 “welcome bonus” on two jobs for registered night nurses, both in Scotland, as private health care providers battle with a shortage of workers partly caused by EU citizens returning home.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sarah Butler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Guardian view on adapting to global heating: risks must be faced | Editorial]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/aug/01/the-guardian-view-on-adapting-to-global-heating-risks-must-be-faced</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/aug/01/the-guardian-view-on-adapting-to-global-heating-risks-must-be-faced"/>
+        <updated>2021-08-01T17:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Investment in flood defences is overdue. But progress on climate resilience requires confronting vested interests too  
+Nothing about the climate crisis is easy. The challenge of adapting to global heating and the climate disruption it causes is particularly hard. It forces us to reckon with harms that cannot be undone and is sometimes viewed as jeopardising progress on reducing emissions, by drawing away resources and political will. After all, if we can adapt to climate chaos, why bother trying to prevent it?
+Since this argument is a staple of climate deniers, such fears are well founded. But unless we are prepared to stand by as people’s lives are destroyed by extreme weather, adaptation is required. For the relief and protection that they will bring to large numbers of people living in flood-prone areas, last week’s announcements of record funding for new defences in England, along with new guidance and insurance rules, must therefore be welcomed. Disastrous floods in Belgium, Germany and China, and the horror of the North American “heat dome”, have alarmed scientists and focused minds.
+ Continue reading...]]></summary>
+        <author>
+            <name>Editorial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok star Anthony Barajas dies after California movie theater shooting]]></title>
+        <id>https://www.theguardian.com/us-news/2021/aug/01/tiktok-star-anthony-barajas-dies-california-movie-theater-shooting</id>
+        <link href="https://www.theguardian.com/us-news/2021/aug/01/tiktok-star-anthony-barajas-dies-california-movie-theater-shooting"/>
+        <updated>2021-08-01T17:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Social media star was known as itsanthonymichael
+Suspect in double killing eligible for death penalty
+
+A young TikTok star who was on life support after he and a friend were shot at a southern California movie theater has died, police and his family said.
+Anthony Barajas, 19, was watching The Forever Purge at a theater in Corona with Rylee Goodrich, 18, on Monday when they were both shot in the head. They were found by an employee after the last showing of the night.
+ Continue reading...]]></summary>
+        <author>
+            <name>Associated Press in Corona, California</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marcell Jacobs has inspiring story to share in sprinting’s post-Bolt era]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/marcell-jacobs-has-inspiring-story-to-share-in-sprintings-post-bolt-era</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/marcell-jacobs-has-inspiring-story-to-share-in-sprintings-post-bolt-era"/>
+        <updated>2021-08-01T17:06:30.000Z</updated>
+        <summary type="html"><![CDATA[New men’s 100m Olympic champion credits reconnection with his estranged father for giving him ‘the energy to be here today’
+Ladies and gentlemen, introducing the fastest man on the planet, the face of the 2020 Games, your new Olympic champion, wait, wait, I’ve got it here somewhere, on one of these pieces of paper, yes: Marcell Jacobs. If you don’t know – and plenty didn’t – you do now. Jacobs, a 26-year-old former long jumper, born in Texas, raised in Italy, won a wildly unpredictable and wide-open men’s 100m in 9.80sec. Which is pretty damn quick. And would have won almost every other Olympic final, including, yes, the last one at Rio in 2016, when Usain Bolt finished in 9.81sec.
+And there he is, unavoidably. I say almost every Olympic final because there are two exceptions, Bolt’s twice-in-a-lifetime runs in Beijing in 2008 and London 2012. If you were watching on Sunday, you’ll have seen that World Athletics have started blacking out the stadium at the beginning of the sprint finals. It’s one of the new tricks they’re using to make the sport more appealing now that they’re having to do without their biggest star. Maybe they’re hoping that in the pitch blackness, no one will notice the shadow Bolt still casts over the sport.
+ Continue reading...]]></summary>
+        <author>
+            <name>Andy Bull at Tokyo Olympic Stadium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Parents are dressing up their children to be buried’: Syria’s war on young escalates]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/parents-are-dressing-up-their-children-to-be-buried-syrias-war-on-young-escalates</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/parents-are-dressing-up-their-children-to-be-buried-syrias-war-on-young-escalates"/>
+        <updated>2021-08-01T17:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Mural artist Hussein Sabbagh, 13, one of 27 children killed in government attacks in north-west Syria in two months
+Amid the rubble of bombed homes in Binnish, a town in north-west Syria, a brightly painted mural stands out. The image shows an intact house, with love hearts streaming from the windows. Overhead, however, the dark silhouettes of birds are accompanied by helicopters, warplanes and missiles, and the garden’s red and yellow flowers look like flames.
+ Related: Syria: Assad shells former opposition stronghold Deraa 
+ Continue reading...]]></summary>
+        <author>
+            <name>Bethan McKernanMiddle East correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Highly likely’ Iran was behind fatal oil tanker attack – Dominic Raab]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/highly-likely-iran-carried-out-deadly-oil-tanker-attack-says-dominic-raab</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/highly-likely-iran-carried-out-deadly-oil-tanker-attack-says-dominic-raab"/>
+        <updated>2021-08-01T16:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Foreign secretary backs Israeli PM’s claims Iran was behind drone strike that killed Briton and Romanian
+The UK has said it is “highly likely” that Iran carried out an “unlawful and callous attack” on a ship in the Middle East, which left a Briton dead.
+The foreign secretary, Dominic Raab, said the government believed the drone attack on the oil tanker off the coast of Oman was “deliberate, targeted, and a clear violation of international law by Iran”.
+ Continue reading...]]></summary>
+        <author>
+            <name>PA Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-SpaceX engineers in race to build first commercial electric speedboat]]></title>
+        <id>https://www.theguardian.com/business/2021/aug/01/ex-spacex-engineers-commercial-electric-speedboat</id>
+        <link href="https://www.theguardian.com/business/2021/aug/01/ex-spacex-engineers-commercial-electric-speedboat"/>
+        <updated>2021-08-01T16:44:38.000Z</updated>
+        <summary type="html"><![CDATA[LA-based Arc Boat company announces $4.25m seed fund to start work on 475-horsepower craft
+A team of former SpaceX rocket engineers have joined the race to build the first commercial electric speedboat.
+The Arc Boat company announced it had raised $4.25m (£3m) in seed funding to start work on a 24ft 475-horsepower craft that will cost about $300,000.
+ Continue reading...]]></summary>
+        <author>
+            <name>Rupert Neate Wealth correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetBlue ready to launch low-cost New York to London flights]]></title>
+        <id>https://www.theguardian.com/business/2021/aug/01/jetblue-ready-to-launch-low-cost-new-york-to-london-flights</id>
+        <link href="https://www.theguardian.com/business/2021/aug/01/jetblue-ready-to-launch-low-cost-new-york-to-london-flights"/>
+        <updated>2021-08-01T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[US-based airline aims to tread where others have failed – and in the teeth of the Covid pandemic
+A low-cost airline service with a brand new business class cabin, flying London to New York? As Frank Sinatra might have said: if you can make it there, in the teeth of a global pandemic when the US bars British citizens and advises its own to stay put … well, you can make it anywhere.
+On 11 August, nonetheless, JetBlue will launch transatlantic flights that could rattle one of aviation’s normally most lucrative markets. The airline, one of the biggest in America but without the global presence of the “big four” US carriers, will launch its first services to the UK with the promise of driving down fares, particularly for the business traveller.
+ Continue reading...]]></summary>
+        <author>
+            <name>Gwyn Topham Transport correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yulimar Rojas makes history for Venezuela with triple jump world record]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/yulimar-rojas-makes-olympic-history-for-venezuela-with-triple-jump-gold</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/yulimar-rojas-makes-olympic-history-for-venezuela-with-triple-jump-gold"/>
+        <updated>2021-08-01T16:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Rojas wins first female Olympic gold medal for Venezuela
+Italy’s Tamberi and Qatar’s Barshim share high jump gold
+
+Yulimar Rojas became the first female Venezuelan Olympic gold medallist in stunning style as she shattered the 26-year-old women’s world triple jump record with her final jump – and then thanked Facebook’s algorithm for connecting her with the coach who guided her to glory.
+Rojas, who is also a proud lesbian and prominent LGBT activist, jumped 15.67m to beat the previous world record of 15.50m, set by Ukraine’s Inessa Kravets in 1995 in Sweden.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sean Ingle at Tokyo Olympic Stadium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lollapalooza drops DaBaby performance after homophobic comments]]></title>
+        <id>https://www.theguardian.com/music/2021/aug/01/dababy-lollapalooza-drops-performance-homophobic-comments</id>
+        <link href="https://www.theguardian.com/music/2021/aug/01/dababy-lollapalooza-drops-performance-homophobic-comments"/>
+        <updated>2021-08-01T16:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Rapper appears to apologize in video on Wednesday
+
+Artists including Elton John and Madonna condemn remarks 
+
+Lollapalooza cancelled a Chicago performance by the rapper DaBaby on Sunday because, the music festival said, it was “founded on diversity, inclusivity, respect and love”.
+“With that in mind, DaBaby will no longer be performing at Grant Park tonight.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Guardian staff and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serious questions raised by solitary confinement in prisons | Letters]]></title>
+        <id>https://www.theguardian.com/society/2021/aug/01/serious-questions-raised-by-solitary-confinement-in-prisons</id>
+        <link href="https://www.theguardian.com/society/2021/aug/01/serious-questions-raised-by-solitary-confinement-in-prisons"/>
+        <updated>2021-08-01T16:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Emma Ginn and Annie Viswanathan on the effect of solitary confinement on immigration detainees and Dean Kingham on prisoners abandoned to close supervision centres. Plus, Howard Thomas on steps towards sending fewer people to prison
+Prolonged solitary confinement is an extreme form of treatment, prohibited in all circumstances under international law. Your article (Fifty-two prisoners in close supervision units ‘that may amount to torture’, 26 July) exposed this practice in highly restrictive prisons.
+Prolonged solitary confinement has in fact become routine in all prisons during the pandemic, with many individuals being confined alone or with a cellmate for 22 to 24 hours each day since March 2020.
+ Continue reading...]]></summary>
+        <author>
+            <name>Letters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Middle East problems stem from western and US interference | Letters]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/middle-east-problems-stem-from-western-and-us-interference</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/middle-east-problems-stem-from-western-and-us-interference"/>
+        <updated>2021-08-01T16:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Readers critique the west’s actions in the region in response to an editorial on Arab democracies
+Your editorial (29 July) is right that benevolent dictatorship is not the answer to the problems in the Middle East, but it is overly benevolent to Joe Biden and the US.
+The editorial says: “Tunisia’s presidential power grab is a test for Joe Biden’s democracy and human rights agenda.” Throughout history, US global aggression has always been justified by the mantra of “bringing democracy” to the rest of the world. From the occupation of the Philippines to Cuba, Nicaragua, Vietnam and the Middle East, US intervention has been nothing more than establishing and maintaining its economic and military hegemony.
+ Continue reading...]]></summary>
+        <author>
+            <name>Letters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunak’s letter to PM puts desire to crack down on Covid subsidies on record]]></title>
+        <id>https://www.theguardian.com/politics/2021/aug/01/sunaks-letter-to-pm-puts-desire-to-crack-down-on-covid-subsidies-on-record</id>
+        <link href="https://www.theguardian.com/politics/2021/aug/01/sunaks-letter-to-pm-puts-desire-to-crack-down-on-covid-subsidies-on-record"/>
+        <updated>2021-08-01T16:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Latest move by chancellor to wrest back some control of public finances will raise eyebrows in Westminster
+
+Coronavirus – latest updates
+See all our coronavirus coverage
+
+Last August, it was “eat out to help out”, launched by a beaming and maskless chancellor in Wagamama on London’s South Bank, carrying plates of noodles to nonplussed customers. This year, it’s “fly out to help out”.
+With just a few weeks left of the school summer holidays, the airline and tourism industries are facing another bleak summer. As the threat of possible new restrictions hangs over holidays, and the costs of testing prove prohibitive for many families, many have decided to take their vacation in the UK, even though travel restrictions will ease for fully vaccinated travellers from 16 August.
+ Continue reading...]]></summary>
+        <author>
+            <name>Jessica Elgot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists warn of risks in easing UK controls for vaccinated arrivals]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/scientists-warn-of-risks-in-lifting-restrictions-for-vaccinated-uk-arrivals</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/scientists-warn-of-risks-in-lifting-restrictions-for-vaccinated-uk-arrivals"/>
+        <updated>2021-08-01T16:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Edinburgh epidemiologist concerned about spread of ‘escape mutants’ that may defy vaccines
+Scientists have said that the lifting of restrictions for fully vaccinated arrivals to the UK from the EU and US, which begins from Monday, is not without risk.
+From 4am on Monday, those who have been fully vaccinated in the US and Europe will be treated the same as British residents, meaning arrivals from amber list countries will not have to quarantine when entering England, or test on day eight after arrival.
+ Continue reading...]]></summary>
+        <author>
+            <name>Nicola Davis Science correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Olympics 2020: day nine – in pictures]]></title>
+        <id>https://www.theguardian.com/sport/gallery/2021/aug/01/tokyo-olympics-2020-day-nine-in-pictures</id>
+        <link href="https://www.theguardian.com/sport/gallery/2021/aug/01/tokyo-olympics-2020-day-nine-in-pictures"/>
+        <updated>2021-08-01T16:16:13.000Z</updated>
+        <summary type="html"><![CDATA[The best images from the ninth day’s action in Tokyo, including athletics, boxing, gymnastics and table tennis
+ Continue reading...]]></summary>
+        <author>
+            <name>Steven Bloor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ‘safe space for racists’: antisemitism report criticises social media giants]]></title>
+        <id>https://www.theguardian.com/media/2021/aug/01/a-safe-space-for-racists-antisemitism-report-criticises-social-media-giants</id>
+        <link href="https://www.theguardian.com/media/2021/aug/01/a-safe-space-for-racists-antisemitism-report-criticises-social-media-giants"/>
+        <updated>2021-08-01T15:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Facebook, Twitter, Instagram, YouTube and TikTok failing to act on most reported anti-Jewish posts, says study
+There has been a serious and systemic failure to tackle antisemitism across the five biggest social media platforms, resulting in a “safe space for racists”, according to a new report.
+Facebook, Twitter, Instagram, YouTube and TikTok failed to act on 84% of posts spreading anti-Jewish hatred and propaganda reported via the platforms’ official complaints system.
+ Continue reading...]]></summary>
+        <author>
+            <name>Maya Wolfe-Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid isolation, medals and strife: how US fencing became a nexus of controversy]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/usa-fencing-bronze-foil-protest-covid-race-imboden-alen-hadzic</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/usa-fencing-bronze-foil-protest-covid-race-imboden-alen-hadzic"/>
+        <updated>2021-08-01T15:16:08.000Z</updated>
+        <summary type="html"><![CDATA[USA’s fencers have found themselves in the news over protests, coronavirus and reports of an unwanted teammate. They still performed on the piste
+Though soccer and rugby teams have taken a knee before matches at the Tokyo Olympics to protest racial injustice, how the authorities would react to a demonstration during a medal ceremony remains to be seen.
+Should the American hammer thrower Gwen Berry finish in the top three later this week, it seems likely the question will arise.
+ Continue reading...]]></summary>
+        <author>
+            <name>Tom Dart at Makuhari Messe Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollie Pope says Ben Stokes decision shows how mentally tough elite sport is]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/ollie-pope-says-ben-stokes-decision-shows-how-mentally-tough-elite-sport-is</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/ollie-pope-says-ben-stokes-decision-shows-how-mentally-tough-elite-sport-is"/>
+        <updated>2021-08-01T15:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Stokes has withdrawn from India series over mental wellbeing
+Pope: ‘It’s sad but I think it’s a reminder to everyone’
+
+Ollie Pope says the withdrawal of Ben Stokes for the Test series against India is a reminder of how mentally tough the demands of playing international sport are during a pandemic.
+Stokes, England’s Test vice-captain and heartbeat of the team, has taken an indefinite break from cricket to protect his mental wellbeing and rest the left-index finger he fractured playing in the Indian Premier League in April. The all-rounder’s absence is a blow to England’s chances in the five-Test series against India that starts at Trent Bridge on Wednesday.
+ Continue reading...]]></summary>
+        <author>
+            <name>Chris Stocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celtic’s dysfunctional state points to a club that has completely lost its way | Ewan Murray]]></title>
+        <id>https://www.theguardian.com/football/blog/2021/aug/01/celtics-dysfunctional-state-points-to-a-club-that-has-completely-lost-its-way</id>
+        <link href="https://www.theguardian.com/football/blog/2021/aug/01/celtics-dysfunctional-state-points-to-a-club-that-has-completely-lost-its-way"/>
+        <updated>2021-08-01T14:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Ange Postecoglou is not gregarious by nature but looks quietly troubled by what continues to transpire in front of him
+When once presented with a question about his philosophy, Martin O’Neill told the story of the new manager who lost his first three fixtures 3-2, 4-3 and 5-4. By the time a fourth high-scoring defeat in a row arrived, boardroom purring over style had given way to edginess and questions on whether victory was likely at any point in the future. O’Neill’s Celtic side would never win awards for artistic merit but the Irishman’s generally successful tenure meant supporters had little cause to bother. As Tiger Woods puts it, winning takes care of everything.
+Celtic do not make a habit of losing their opening league fixture; their defeat against Hearts on Saturday was their first at such a juncture since 1997. One must go back further decades to discover the last time Celtic did not win any of their first three competitive matches in a season. That a Champions League qualifying-stage exit to Midtjylland does not even register as a mild embarrassment says everything about Celtic’s dysfunctional state. This week, a club which prides itself on status far beyond Scotland will begin their quest to scrape towards the Europa League by seeing off Jablonec. It is far from a given.
+ Continue reading...]]></summary>
+        <author>
+            <name>Ewan Murray at Tynecastle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel supreme court decision expected on Sheikh Jarrah evictions]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/israel-decision-expected-sheikh-jarrah-evictions</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/israel-decision-expected-sheikh-jarrah-evictions"/>
+        <updated>2021-08-01T14:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Verdict due in case that could lead to Palestinians being forcibly displaced to make way for Jewish settlers
+Israel’s supreme court is due to make a decision on whether to evict Palestinian families from the East Jerusalem neighbourhood of Sheikh Jarrah, in a final hearing in the controversial case that helped spark communal violence inside Israel and a new war with Hamas earlier this year.
+A verdict in the deeply contentious case, which could lead to the neighbourhood’s current residents being forcibly displaced to make way for Jewish settlers in a decades-old dispute, is expected on Monday morning.
+ Continue reading...]]></summary>
+        <author>
+            <name>Bethan McKernan Middle East correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salmond blogger Craig Murray hands himself in to police to begin jail term]]></title>
+        <id>https://www.theguardian.com/politics/2021/aug/01/alex-salmond-blogger-craig-murray-hands-himself-into-police-to-begin-jail-term</id>
+        <link href="https://www.theguardian.com/politics/2021/aug/01/alex-salmond-blogger-craig-murray-hands-himself-into-police-to-begin-jail-term"/>
+        <updated>2021-08-01T14:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Ex-diplomat found in contempt of court over ‘jigsaw identification’ of women who accused former first minister of sexual assault
+Craig Murray, the former British ambassador to Uzbekistan, has handed himself into police in Edinburgh as he faces an eight-month prison sentence.
+The ex-diplomat, 62, arrived at St Leonard’s police station in Edinburgh on Sunday morning and was joined by family and supporters. Murray drank from what appeared to be a bottle of champagne and thanked the crowd for their attendance.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Mistlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS urged to redistribute near-expiry vaccines as take-up slows in young]]></title>
+        <id>https://www.theguardian.com/society/2021/aug/01/nhs-urged-to-redistribute-near-expiry-coronavirus-vaccines-as-take-up-slows-in-young</id>
+        <link href="https://www.theguardian.com/society/2021/aug/01/nhs-urged-to-redistribute-near-expiry-coronavirus-vaccines-as-take-up-slows-in-young"/>
+        <updated>2021-08-01T14:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Doctors across England raise alarm as 170,000 Moderna doses at risk of expiry within fortnight
+
+Coronavirus – latest updates
+See all our coronavirus coverage
+
+The NHS is facing pressure to redistribute tens of thousands of vaccine doses nearing expiry as demand from younger adults drops.
+An internal email seen by the Guardian warned of 170,000 doses of the Moderna vaccine at risk of expiry within the next fortnight, as doctors across England have raised alarm at the unpredictability of vaccine take-up among young people meaning more doses will go to waste.
+ Continue reading...]]></summary>
+        <author>
+            <name>Jessica Elgot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome 2 America by Prince review – sub-par album from the vaults]]></title>
+        <id>https://www.theguardian.com/music/2021/aug/01/welcome-2-america-prince-review-2010</id>
+        <link href="https://www.theguardian.com/music/2021/aug/01/welcome-2-america-prince-review-2010"/>
+        <updated>2021-08-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(Legacy Recordings)
+This shelved collection from 2010 is not peak Prince – and he knew it
+Every few months someone eagerly forwards me that clip of Prince’s majestic While My Guitar Gently Weeps solo at the 2004 Hall of Fame. It’s ages since anyone sent me an unreleased Prince song with similar enthusiasm. Recently discovered in Prince’s vault, this album won’t change that.
+Recorded in a week by a scratch band, its songs went unreleased and unplayed on his 2010 Welcome 2 America tour. It’s not immediately obvious why. The intriguing title track takes some spiky if unfocused shots at America’s frailties, and Prince deliberates on race, politics and religion elsewhere, but there’s no controversy – or anything like 1981’s classic Controversy. Perhaps he realised that, after writing “Slave” on his face to protest about his multimillion-dollar record deal, his thoughts on that topic might not be well received.
+ Continue reading...]]></summary>
+        <author>
+            <name>Damien Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dawn Raids apology and an injured cat in Turkey: Weekend’s best photos]]></title>
+        <id>https://www.theguardian.com/news/gallery/2021/aug/01/dawn-raids-apology-and-an-injured-cat-in-turkey-weekends-best-photos</id>
+        <link href="https://www.theguardian.com/news/gallery/2021/aug/01/dawn-raids-apology-and-an-injured-cat-in-turkey-weekends-best-photos"/>
+        <updated>2021-08-01T13:56:55.000Z</updated>
+        <summary type="html"><![CDATA[The Guardian’s picture editors select photo highlights from around the world
+ Continue reading...]]></summary>
+        <author>
+            <name>Arnel Hecimovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘We are upset to come second’: how culture change lifted GB swimming | Andy Bull]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/we-are-upset-to-come-second-how-culture-change-lifted-gb-swimming</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/we-are-upset-to-come-second-how-culture-change-lifted-gb-swimming"/>
+        <updated>2021-08-01T13:40:51.000Z</updated>
+        <summary type="html"><![CDATA[In 2012 British swimmers were happy to come fifth or sixth but we are now third in the medal table with eight medals
+James Guy leant back against the wall, too tired to think, too tired to talk. Guy swam seven races in the past five days, the last of them, the butterfly leg of the men’s 4x100m medley relay, just an hour earlier. It had been one of the hardest, and most intense races of his life, and they had lost it to the USA. Now the media wanted to ask him and his teammates all those familiar questions about how it felt, and whether he was disappointed or not. Guy’s usually happy to prattle but this time he closed his eyes, let his teammates do it for him. Until someone asked a question that got his attention.
+It was about how the culture of British swimming has changed in recent years. Guy is 25, which makes him one of the senior figures on this young team, and he wanted to tell a story which he thought summed it all up. “Eight years ago I made the senior team for the first time,” Guy said, “and I remember at my first world championships, every day we’d have a team meeting, and in it we’d all clap for whoever had made a final that day.” He laughs at it now. “And here we are, we’ve got second, and we’re upset with that, and that shows you the way things have moved on.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Andy Bull at Tokyo Aquatics Centre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish independence vote will happen if public wants it, says Michael Gove]]></title>
+        <id>https://www.theguardian.com/politics/2021/aug/01/scottish-independence-vote-will-happen-if-public-wants-it-says-michael-gove</id>
+        <link href="https://www.theguardian.com/politics/2021/aug/01/scottish-independence-vote-will-happen-if-public-wants-it-says-michael-gove"/>
+        <updated>2021-08-01T13:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Gove says referendum will occur if there is ‘a settled will in favour’, as Ian Blackford says voters have already spoken
+The UK government would not stand in the way of another vote on Scottish independence if it is the “settled will” of voters, Michael Gove has said.
+Westminster has repeatedly rejected requests from the Scottish government for the necessary powers to hold another vote but the Cabinet Office minister said if the public desire a second referendum, “one would occur”.
+ Continue reading...]]></summary>
+        <author>
+            <name>PA Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brexit and Covid have created the perfect moment for the politics of crackdown | John Harris]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/aug/01/brexit-covid-politics-crackdown-johnson-liberties</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/aug/01/brexit-covid-politics-crackdown-johnson-liberties"/>
+        <updated>2021-08-01T13:09:07.000Z</updated>
+        <summary type="html"><![CDATA[We feel besieged and imperilled, and the Johnson government is seizing the chance to weaken our most fundamental liberties
+
+If you were wondering when the widely predicted post-Brexit dystopia might move beyond the imaginings of TV scriptwriters and into the real world, we suddenly seem to be a lot of the way there. Supermarket shelves are either understocked or completely empty. The populist loudmouths who now try to make the political weather have been taking aim in the past week at the Royal National Lifeboat Institution and its supposedly “woke” lifesavers.
+Meanwhile, the Johnson government’s descent into whip-crack law enforcement continues apace. Last week’s announcement of a new “crime reduction plan” was centred around the permanent relaxation of restrictions on “suspicionless” (in other words, often arbitrary) stop and search, which had a clear performative aspect: ministers blithely batting away the fact that black people are a staggering 18 times more likely to be searched than white people under these specific powers, presumably to demonstrate a wretched kind of toughness. Johnson also launched plans for chain gangs dressed in hi-vis jackets.
+ Continue reading...]]></summary>
+        <author>
+            <name>John Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terry Cooper obituary]]></title>
+        <id>https://www.theguardian.com/football/2021/aug/01/terry-cooper-obituary</id>
+        <link href="https://www.theguardian.com/football/2021/aug/01/terry-cooper-obituary"/>
+        <updated>2021-08-01T13:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Exuberant defender for Leeds United and England who went on to become a successful football manager
+The footballer Terry Cooper, who has died aged 77, was England’s ebullient left-back in the 1970 World Cup finals in Mexico and Leeds United’s classy, exciting defender when they were at their brutal best in the late 1960s and early 70s.
+Although England were knocked out in the quarter-finals in Mexico, Cooper did not want for winners’ medals. With Leeds he won the First Division championship in 1968-69, the League Cup in 1968, and the Fairs Cup in Europe – twice – in 1968 and 1971. An offence-minded defender, he was particularly effective in partnership with the Leeds left-winger Eddie Gray, whom he would join in attacking forays.
+ Continue reading...]]></summary>
+        <author>
+            <name>Brian Glanville</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten years after the riots in Birmingham, a mother still seeks justice for sons’ death]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/ten-years-after-the-riots-in-birmingham-a-mother-still-seeks-justice-for-sons-death</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/ten-years-after-the-riots-in-birmingham-a-mother-still-seeks-justice-for-sons-death"/>
+        <updated>2021-08-01T13:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Shazad Ali and Abdul Musavir went into the city to protect their business as rioters clashed with police but never returned
+In her golden years Rukaya Begum’s home should have been full of the patter of grandchildren’s feet and the hustle of family get-togethers but instead there is an overwhelming silence.
+On 9 August 2011, Begum had been surrounded by her family; her husband, Ghazanfar, her three sons, Abdul Quddoos, Shazad Ali and Abdul Musavir, and her daughter, Sumera Ali. It was Ramadan and she remembers in detail the food that she had cooked that night – keema kebabs, masala haandi with warm chappattis and sweet fruits for pudding. Just before they sat down for the family meal her son, Shazad, had affectionately fed her a date to break her fast.
+ Continue reading...]]></summary>
+        <author>
+            <name>Nazia Parveen Community affairs correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Courts failed people ‘caught up’ in UK riots in 2011, says ex-chief prosecutor]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/courts-failed-people-caught-up-in-uk-riots-in-2011-says-ex-chief-prosecutor</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/courts-failed-people-caught-up-in-uk-riots-in-2011-says-ex-chief-prosecutor"/>
+        <updated>2021-08-01T13:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Custodial sentences for rioters were much harsher, despite a fifth never having committed a crime before
+Pressures in the criminal justice system meant it failed to distinguish between repeat offenders and people “caught up” in the 2011 English riots, a former chief prosecutor has said.
+More than 2,000 people were convicted of riot-related offences with harsh sentences doled out. The average custodial sentence for riot-related cases was more than double compared with similar offences in 2010 in magistrates courts, while in crown courts it rose by three-quarters, according to Ministry of Justice analysis.
+ Continue reading...]]></summary>
+        <author>
+            <name>Haroon Siddique Legal affairs correspondent and Maya Wolfe-Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Readers reply: how can you prevent dogs jumping at children? How should I respond when it happens?]]></title>
+        <id>https://www.theguardian.com/lifeandstyle/2021/aug/01/readers-reply-how-can-you-prevent-dogs-jumping-at-children-how-should-i-respond-when-it-happens</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/aug/01/readers-reply-how-can-you-prevent-dogs-jumping-at-children-how-should-i-respond-when-it-happens"/>
+        <updated>2021-08-01T13:00:07.000Z</updated>
+        <summary type="html"><![CDATA[The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts
+Whenever we go walking in the countryside with our three-year-old, dogs approach him and frighten him. He has never come to harm, but there is always a concern. It happens within seconds. Typically, the owners either airily tell us their dog is harmless, or they more aggressively say: “What are you afraid of?” Does anyone else have this problem? How can you prevent dogs jumping at children? How should I respond when it happens? Tracey Lewis, Diss, Suffolk
+Send new questions to nq@theguardian.com.
+ Continue reading...]]></summary>
+        <author>
+            <name>The Guardian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resurgent Taliban escalates nationwide offensive in Afghanistan]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/resurgent-taliban-escalates-nationwide-offensive-in-afghanistan</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/resurgent-taliban-escalates-nationwide-offensive-in-afghanistan"/>
+        <updated>2021-08-01T12:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Afghan forces defend western city of Herat and Lashkar Gah in south as Kandahar airport hit by rockets
+The Taliban escalated its nationwide offensive in Afghanistan on Sunday, renewing assaults on three major cities and rocketing a major airport in the south amid warnings that the conflict was rapidly worsening.
+As Afghan government forces struggled with a resurgent Taliban after the withdrawal of US-led foreign forces, hundreds of commandos were deployed to the economically important western city of Herat, while authorities in the southern city of Lashkar Gah called for more troops to rein in the assaults amid fierce fighting.
+ Continue reading...]]></summary>
+        <author>
+            <name>Peter Beaumont and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man, 19, arrested after girl, 15, dies at north Wales holiday park]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/man-arrested-girl-dies-ty-mawr-north-wales-holiday-park</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/man-arrested-girl-dies-ty-mawr-north-wales-holiday-park"/>
+        <updated>2021-08-01T12:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Man is in custody after what police described as ‘domestic incident’ in Ty Mawr in Towyn
+A man has been arrested after a 15-year-old girl died at a holiday park in north Wales.
+Police officers were called to Ty Mawr holiday park in Towyn, near Abergele, on Saturday afternoon to attend what police described as a “domestic disturbance”.
+ Continue reading...]]></summary>
+        <author>
+            <name>Maya Wolfe-Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Grandmas buying shotguns’: US dealers see ammunition shortage as sales surge]]></title>
+        <id>https://www.theguardian.com/us-news/2021/aug/01/us-gun-dealers-ammunition-shortage-sales-surge</id>
+        <link href="https://www.theguardian.com/us-news/2021/aug/01/us-gun-dealers-ammunition-shortage-sales-surge"/>
+        <updated>2021-08-01T12:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Gun store owners say bullets are selling out as pandemic fuels public fears around safety and crime
+The coronavirus pandemic in the US has been accompanied by soaring gun sales attributed to fears around social unrest and crime and, in some cases, people having more time for hunting.
+ Related: ‘We have to break through that wall’: inside America’s battle for gun control 
+ Continue reading...]]></summary>
+        <author>
+            <name>Edward Helmore in New York and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Joshua Coombes became hairdresser to the homeless and example to us all]]></title>
+        <id>https://www.theguardian.com/society/2021/aug/01/how-joshua-coombes-became-hairdresser-to-the-homeless-and-example-to-us-all</id>
+        <link href="https://www.theguardian.com/society/2021/aug/01/how-joshua-coombes-became-hairdresser-to-the-homeless-and-example-to-us-all"/>
+        <updated>2021-08-01T12:00:06.000Z</updated>
+        <summary type="html"><![CDATA[The 34-year-old has given free haircuts on the street since 2015, and has put the stories of some of those he has helped in a book
+One evening in spring 2015, Joshua Coombes did something that changed his life for ever. He was walking to a friend’s house after finishing work at a hairdressing salon when he stopped to talk to a homeless man he’d seen many times in the same spot. In the past, he had bought the man something to eat or given him some spare change, but this time a thought occurred to Coombes: how about I offer him a haircut? He had his gear in his backpack and he cut the man’s hair right there on the street. As he worked, the pair of them fell into the chatty intimacies of barber and client, opening up to each other. The next time they met, the man introduced Coombes to a couple of his friends and he got his clippers and scissors out for them too.
+Soon, he says, he was out on the streets of London as often as he could be, enjoying the chance to change often desperate lives in a small, surprising way. “A haircut is not the first thing on your list of things you’ve thought you were going to do that day, if you’re sat there on the street,” he told me when we met for a coffee near his home in Peckham, south London, last week. “You’re thinking of where you’re getting your next meal or where you might be staying that night. So me walking up and offering a haircut was unexpected and most of the time people were really receptive. And if they’re not, that’s totally fine too. I’ll just have a chat with someone and see where that goes.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Tim Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dave: We’re All Alone in This Together review – a rival to his classic debut]]></title>
+        <id>https://www.theguardian.com/music/2021/aug/01/dave-were-all-alone-in-this-together-review-stormzy</id>
+        <link href="https://www.theguardian.com/music/2021/aug/01/dave-were-all-alone-in-this-together-review-stormzy"/>
+        <updated>2021-08-01T12:00:06.000Z</updated>
+        <summary type="html"><![CDATA[(Neighbourhood)
+With introspective but operatic rap, Dave paints pictures on an album that’s part confessional, part social critique  
+In 2019, Dave’s Mercury prize- and Brit award-winning debut, Psychodrama, became a classic overnight; now it has a rival for introspection, operatic quality and wordplay. Tender piano arrangements, unadulterated storytelling and sermon-like verses flood this topical album that is part confessional poetry, part social commentary. “I’m a young black belligerent. Child of an immigrant. Lifestyle frivolous,” he raps on opener We’re All Alone. The seeming juxtaposition of these realities means that while he can be bragging about Rolexes with Stormzy on Clash, he’ll peel away at his own materialism on Survivor’s Guilt with the admission that, behind the glitz and glamour, he is “cryin’ in the driver’s seat”. It’s not all about the self. “My Jamaicans, the entire party, you can’t see?” he proclaims, honouring the island’s enormous contribution to British culture on the violin-rich Three Rivers, a track about migration that discusses the Windrush scandal.
+The highlight is Heart Attack, a glorious nine-minute stream of consciousness where his feelings spill out in abundance, on everything from knife crime to politicians doing cocaine. “Round here, the main way to provide for your kin is in a flick blade, little push-bike and a sim.” When Dave raps, he paints murals. James Blake production, Daniel Kaluuya cameos and Wizkid vocals are just surplus.
+ Continue reading...]]></summary>
+        <author>
+            <name>Kadish Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The pandemic property boom is pricing locals out of the British countryside | Jade Angeles Fitton]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/aug/01/pandemic-property-boom-british-countryside-affordable-housing</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/aug/01/pandemic-property-boom-british-countryside-affordable-housing"/>
+        <updated>2021-08-01T11:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Rural areas suffer from an undersupply of affordable housing. Cracking down on second homes is one part of the solution
+Devon, where I grew up and have lived on and off my whole life, always had a surplus of affordable places to live. Even a couple of years ago many private rentals stood empty for months. This year, when my husband and I needed to move back from Lundy, an island off the north Devon coast, things were very different.
+There was such a dearth of long-term rentals that I found myself jumping on anything listed. We competed with 50 others for an overpriced place that had flooded the previous winter, and had our application rejected for a bungalow with a scoreboard above the bed. For most properties, we didn’t even get to the application process. Many listed in the morning would be fully booked for viewings by lunchtime. Soon, we expanded our search from north Devon to the entire county, and then to Cornwall, Somerset and Dorset. Wherever we looked, I heard the same story: “Fully booked for viewings.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Jade Angeles Fitton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnson’s scapegoating the young over Covid jabs is not a wise tactic | Larry Elliott]]></title>
+        <id>https://www.theguardian.com/business/2021/aug/01/johnson-scapegoating-the-young-over-covid-jabs-is-not-a-wise-tactic</id>
+        <link href="https://www.theguardian.com/business/2021/aug/01/johnson-scapegoating-the-young-over-covid-jabs-is-not-a-wise-tactic"/>
+        <updated>2021-08-01T11:09:49.000Z</updated>
+        <summary type="html"><![CDATA[If the Conservatives want to win the hearts and minds of the under-25s they’d do better by incentivising vaccination
+
+Coronavirus – latest updates
+
+See all our coronavirus coverage
+
+The Conservative party has a problem with young people. In the last general election fewer than one in six of the under-25s voted for Boris Johnson, and it is unlikely that the pandemic has improved matters.
+While it’s the case that elderly people have been most at risk of contracting Covid-19 and dying from it, the economic cost has been highest for teenagers and those in their 20s. It is young people, whose jobs are disproportionately concentrated in the retailing and hospitality sectors, that have been most likely to be furloughed or had their roles made redundant.
+ Continue reading...]]></summary>
+        <author>
+            <name>Larry Elliott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not all narcissists are grandiose – the ‘vulnerable’ type can be just as dangerous]]></title>
+        <id>https://www.theguardian.com/lifeandstyle/2021/aug/01/not-all-narcissists-are-grandiose-the-vulnerable-type-can-be-just-as-dangerous</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/aug/01/not-all-narcissists-are-grandiose-the-vulnerable-type-can-be-just-as-dangerous"/>
+        <updated>2021-08-01T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[The introverted narcissist is harder to spot and may be more sinister
+We pretty much know what narcissism is by now. The description “narcissist” is a buzzword, a darling of amateur analysts. Those needy, charismatic attention-grabbers stride across the world’s stage, using and confusing those who fall for their charms. They have the perfect platform in a culture obsessed with both celebrity and social media. They rule countries, they mesmerise, they manipulate and wreak havoc.
+But beyond the more showy and recognisable type lurks a lesser known and essentially more dangerous sub-species. Where your standard overt narcissist is a wolf in wolf’s clothing, the covert narcissist is a wolf in sheep’s clothing. “The more silent and subtle variation is often more confusing and sinister,” says Dr Sarah Davies, psychologist and author of Never Again – Moving on from Narcissistic Abuse and Other Toxic Relationships.
+ Continue reading...]]></summary>
+        <author>
+            <name>Joanna Briscoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ana Raquel Nunes: ‘Extreme weather reveals the fragility of people and places’]]></title>
+        <id>https://www.theguardian.com/science/2021/aug/01/ana-raquel-nunes-extreme-weather-reveals-the-fragility-of-people-and-places</id>
+        <link href="https://www.theguardian.com/science/2021/aug/01/ana-raquel-nunes-extreme-weather-reveals-the-fragility-of-people-and-places"/>
+        <updated>2021-08-01T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[The environmental social scientist and expert on the impact of heatwaves on why we must prepare for dangerous heat
+Ana Raquel Nunes is a senior research fellow at Warwick medical school who studies the links between global heating and human health. She has leant her expertise to the World Health Organization, the intergovernmental panel on climate change, the International Science Council and more. Her interest in extreme weather was prompted by a family holiday in the Algarve during the European heatwave of 2003, in which tens of thousands of people died. This year has seen record temperatures, forest fires, melting glaciers and crumbling infrastructure.
+We know that heatwaves are becoming more frequent, more intense and more prolonged both in terms of temperature and humidity. What can we expect?
+The heatwave of 2003 was really, really bad. I was young and struggled to cope with the heat. I felt very hot, thirsty and tired. My mother and grandma struggled even more. People were getting ill, being hospitalised. The vulnerable were dying.
+ Continue reading...]]></summary>
+        <author>
+            <name>Katherine Latham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max Whitlock retains his Olympic title with pommel horse gold for Team GB]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/max-whitlock-retains-his-olympic-title-with-pommel-horse-gold-for-team-gb</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/max-whitlock-retains-his-olympic-title-with-pommel-horse-gold-for-team-gb"/>
+        <updated>2021-08-01T10:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Whitlock holds nerve to win his sixth Olympic medal
+Chinese Taipei’s Lee takes silver, Japan’s Kazuma bronze
+
+Max Whitlock never watches his rivals’ performances – at least not until he has finished himself. Until then he focuses on his own actions and all the things that are within his power to control. It appears to have been a good tactic for him over the years but on the day of his third Olympic pommel horse final it was rendered obsolete.
+Before the final Whitlock was drawn as the first man up, an experience he had never felt before in a big event. He was already feeling the abject stress of trying to retain a title the world was scrapping for and being thrust up as the opening routine only augmented the stress. But since he emerged on the world stage nine years ago Whitlock has consistently shown that his success is driven by rare mental fortitude. He did so again, outclassing the field to defend his Olympic gold medal on the pommel horse with a supreme routine that scored 15.583.
+ Continue reading...]]></summary>
+        <author>
+            <name>Tumaini Carayol at Ariake Gymnastics Centre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prince Harry should settle bird-shooting mystery in memoirs, say campaigners]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/prince-harry-should-settle-bird-shooting-mystery-in-memoirs-say-campaigners</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/prince-harry-should-settle-bird-shooting-mystery-in-memoirs-say-campaigners"/>
+        <updated>2021-08-01T10:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Wildlife campaigners hope Harry will shed light on the killing of two of Britain’s rarest birds over Sandringham in 2007
+Wildlife campaigners have called on Prince Harry to use his forthcoming memoirs to help solve a 14-year mystery about the killing of two of Britain’s rarest birds over one of the Queen’s estates.
+In October 2007, just a few weeks after his 23rd birthday, Harry was questioned by the police after two hen harriers, a legally protected species, were seen being shot over Sandringham in Norfolk.
+ Continue reading...]]></summary>
+        <author>
+            <name>Matthew Weaver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are northern English accents dying out? Are they eck as like | Stuart Maconie]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/are-northern-english-accents-dying-out-are-they-eck-as-like</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/are-northern-english-accents-dying-out-are-they-eck-as-like"/>
+        <updated>2021-08-01T10:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Academics predict that northern dialects will soon fade away. That’s nobbut a load of soft southern blether
+Ah, the stalwarts of summer! Cowes, Goodwood, the Proms and, these days, gloomy academic prognostications about the future of northern accents. Last summer, Manchester University claimed that the speech differences of the big northern cities were fading, merging into a generalised uber-northern that, implausibly, might include Alan Bennett, Ant and Dec and Atomic Kitten. This year, Cambridge and Portsmouth “eggheads” (compulsory designation) tell us, yet more gloomily, that northern accents could start dying out within 45 years, drowned by the rising tide of “estuary” English and the dominance of southern dialects which apparently are “easier to pick up” for children.
+Really? Easier to pick up where? Where are these weird kids? The mean streets of Cheltenham perhaps but not Chorlton. From my experience, Mancs are getting more Manc, Geordies more Geordie and Scousers more adenoidal with every passing football and festival season, brandishing their glottal stops and short a’s as if they were cudgels. But there is more.
+ Continue reading...]]></summary>
+        <author>
+            <name>Stuart Maconie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Office challenged over ‘sped-up’ removal of Vietnamese nationals]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/aug/01/home-office-challenged-over-sped-up-removal-of-vietnamese-nationals</id>
+        <link href="https://www.theguardian.com/uk-news/2021/aug/01/home-office-challenged-over-sped-up-removal-of-vietnamese-nationals"/>
+        <updated>2021-08-01T10:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Signs that detainees were victims of trafficking are being overlooked, say campaigners
+Lawyers are challenging the Home Office policy of deporting people to Vietnam who could be victims of trafficking after the UK sent a second charter flight to the country within a matter of weeks.
+The challenge follows concern from lawyers and charities that some victims of trafficking could be wrongly removed from the UK under a speedy processing system for migrants in detention known as “detained asylum casework”.
+ Continue reading...]]></summary>
+        <author>
+            <name>Diane Taylor and Chris Humphrey in Hanoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adrian Lester: ‘I’ll never leave the stage’]]></title>
+        <id>https://www.theguardian.com/stage/2021/aug/01/adrian-lester-return-theatre-hymn-almeida-interview</id>
+        <link href="https://www.theguardian.com/stage/2021/aug/01/adrian-lester-return-theatre-hymn-almeida-interview"/>
+        <updated>2021-08-01T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[As he prepares to return to live theatre – in his wife’s acclaimed play about male friendship – the actor reflects on a tumultuous 18 months, and on why he needs an audience
+In the short and possibly quite nerve-racking break between an afternoon rehearsal and an evening preview, Adrian Lester is trying both to eat a sandwich and to find the right words to describe to me (via Zoom) what he and his co-star have been doing to their already much acclaimed production of Lolita Chakrabarti’s play Hymn ahead of its long-delayed opening at the Almeida theatre in Islington. “I suppose you could say that we’ve had to ‘un-camera’ it for the stage,” he tells me, wiping what might be mayonnaise from the corner of his mouth. “But of course what we’ve really done is to go back to the original idea of it…]]></summary>
+        <author>
+            <name>Rachel Cooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this Switzerland? No, I’m in the Shropshire Hills]]></title>
+        <id>https://www.theguardian.com/travel/2021/aug/01/is-this-switzerland-shropshire-hills</id>
+        <link href="https://www.theguardian.com/travel/2021/aug/01/is-this-switzerland-shropshire-hills"/>
+        <updated>2021-08-01T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[The peaks around Church Stretton put Victorian tourists in mind of the Swiss Alps – and that tranquillity still exerts a strong pull
+The first time I saw the Shropshire Hills it was through a misty car window during a frigid winter drive from Birmingham to Snowdonia. Scrunching up my jumper sleeve and wiping away the steam for a better look, I saw a hazy collection of dull green lumps rising starkly from their pastoral surroundings beneath a blanket of grey cloud. Though my interest had been piqued, this wasn’t the ideal way to view a landscape once described by the Victorians as Little Switzerland.
+ Continue reading...]]></summary>
+        <author>
+            <name>James March</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There are 11,656 athletes at the Olympics. Guy Fraser wanted them all on Wikipedia]]></title>
+        <id>https://www.theguardian.com/sport/2021/aug/01/olympics-wikipedia-guy-fraser-tokyo</id>
+        <link href="https://www.theguardian.com/sport/2021/aug/01/olympics-wikipedia-guy-fraser-tokyo"/>
+        <updated>2021-08-01T10:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Fans across the world enjoy complementing their Olympic viewing with some research. We meet the man who wants everyone’s story told
+In 1992, 11-year-old Guy Fraser spent his summer vacation fiddling with a radio. He was searching, sometimes in vain, for an English-language broadcast of the Olympics in Barcelona. He was trapped in France. Oblivious to the Olympics – and her son’s devotion to them – Fraser’s mother had booked a two-week break that coincided almost perfectly with the Games. Fraser was heartbroken, but he made the best of it. He found French broadcasts he could mostly understand as he sussed out how his favourite athletes were faring in Spain.
+Nearly three decades later, the Englishman is just as enthusiastic about the Games, especially after more than a year of Covid-19 lockdowns. So in the leadup to Tokyo, he began to do some research. Fraser is an equal‑opportunity viewer – “Once you properly understand the rules and tactics, any sport is inherently fascinating,” he told the Guardian in an email – and he wanted to be as informed as he could be. So he scrolled his phone from his home in Bath perusing rosters, trying to learn a thing or two about the people who’d earned spots on teams across the world. 
+ Continue reading...]]></summary>
+        <author>
+            <name>Joan Niesen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legalising same-sex marriages made even the unwed happy | Torsten Bell]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/aug/01/legalising-same-sex-marriage-made-even-the-unwed-happy</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/aug/01/legalising-same-sex-marriage-made-even-the-unwed-happy"/>
+        <updated>2021-08-01T09:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Anxiety and depression fell among those who were finally allowed down the aisle
+Most people getting married think it’ll make them happy. At least I hope they do – it’s not worth it for the ring or the £5-a-week embarrassment of the marriage allowance.
+Luckily, even if not everyone getting hitched reaches cloud nine, we have proof that changing who is allowed to get married does boost wellbeing. That’s the conclusion of research on the 2001 Dutch decision to legalise same-sex marriage. By linking data about people’s sexuality with a health survey, researchers are able to show that before 2001 there was a big mental health gap by sexuality: people in same-sex relationships had markedly higher levels of depression and anxiety than people in non-same-sex relationships.
+ Continue reading...]]></summary>
+        <author>
+            <name>Torsten Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nigel Slater’s recipes for ice-cream sandwiches, and aubergines with coconut]]></title>
+        <id>https://www.theguardian.com/food/2021/aug/01/nigel-slaters-recipes-for-ice-cream-sandwiches-and-aubergines-with-coconut</id>
+        <link href="https://www.theguardian.com/food/2021/aug/01/nigel-slaters-recipes-for-ice-cream-sandwiches-and-aubergines-with-coconut"/>
+        <updated>2021-08-01T09:30:03.000Z</updated>
+        <summary type="html"><![CDATA[A gently spiced dinner and summer’s most fun dessert
+It is the fleeting nature of ice-cream that appeals to me – the idea of catching something at its brief moment of perfection. In the case of ice-cream, that’s somewhere along the road from rock hard to milky puddle. They may bring with them a sense of peace and lazy summer days, but ices also come with a sense of urgency. I was the kid that would always choose a wafer over a cornet, fascinated by the way the fragile biscuits stuck to your lips, but also enjoying the race to finish before the block of vanilla ice-cream dripped down my shirt.
+The ice-cream sandwich has come a long way since I was in short trousers. Its flavourless wafers have now been ditched in favour of crisp cookies that flatter the flavour of the ice. I made a lemon version this week – a simple no-churn job with yoghurt, cream and lemon curd – and held it between thin, crisp biscuits speckled with grated orange zest. Matching wafer to ice-cream can be fun: chocolate ice-cream and ginger cookies; almond wafers to raspberry sorbet; pistachio biscuits holding saffron ice-cream. You can make almond tuiles, ginger snaps or the one I especially like, a softer shortbread-style cookie that doesn’t go too hard in the freezer.
+ Continue reading...]]></summary>
+        <author>
+            <name>Nigel Slater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Political journals ring the changes in a battle of ideas – and a fight for readers]]></title>
+        <id>https://www.theguardian.com/media/2021/aug/01/political-journals-ring-the-changes-in-a-battle-of-ideas-and-a-fight-for-readers</id>
+        <link href="https://www.theguardian.com/media/2021/aug/01/political-journals-ring-the-changes-in-a-battle-of-ideas-and-a-fight-for-readers"/>
+        <updated>2021-08-01T09:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Former Guardian editor Alan Rusbridger’s arrival at Prospect is part of a trend that is raising the stakes of debate in Britain
+The battle between Britain’s political magazines has intensified this summer as editorial changes at leading names on the newsstand mark a serious attempt to get ahead.
+Last week, Alan Rusbridger, the former editor of the Guardian, was announced as the new editor at Prospect, the centrist magazine that was set up in 1995 by the author and social analyst David Goodhart.
+ Continue reading...]]></summary>
+        <author>
+            <name>Vanessa Thorpe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to raise a boy: my mission to bring up a son fit for the 21st century]]></title>
+        <id>https://www.theguardian.com/lifeandstyle/2021/aug/01/how-to-raise-a-boy-my-mission-to-bring-up-a-son-fit-for-the-21st-century</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/aug/01/how-to-raise-a-boy-my-mission-to-bring-up-a-son-fit-for-the-21st-century"/>
+        <updated>2021-08-01T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Increasing awareness of the price of toxic masculinity has led many parents to wonder how best to prepare the young men of the future. One father consults the experts
+My little son has a gang he roots for. All boys, dudes everywhere – they’re his gang. I figured this out, recently, when we sat down to watch the Grand National. He’d picked a horse in the family sweepstake and his choice was out in front for most of the race. When it fell back, out of contention, my son paled a bit. Possibly he’d already spent the sweepstake winnings in his head (on stickers, sweets, toy balls) but he took the disappointment quite well, I thought, for a four-year-old. The race was won in the end by a female jockey. It was the only time a woman had ever finished first in a Grand National, the commentators shouted. And all at once my son did cry, real fat gushers, instant snot moustache, the works. Now this was too much, if a girl had gone and beaten all the boys.
+Where does it come from, I wondered, this kneejerk allegiance that distances little boys from little girls and makes an us-v-them of gender distinctions, right from the get-go? Where does it lead, as those boys become men? These are questions I’ve been wondering about a lot as my son gets older. He’s a friendly, curious kid who adores his older sister but his sense of himself, just now, seems to come across most clearly when he emphasises the contrasts between them. Along with millions of other little boys he will be coming of age during a richly complicated time for young men, and I want to help him get this right.
+ Continue reading...]]></summary>
+        <author>
+            <name>Tom Lamont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boris Johnson’s crime strategy was another pile of mud | Stewart Lee]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/aug/01/turns-out-boris-johnsons-strategy-was-just-another-pile-of-mud</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/aug/01/turns-out-boris-johnsons-strategy-was-just-another-pile-of-mud"/>
+        <updated>2021-08-01T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The PM’s talk of ‘fluorescent-jacketed chain gangs’ had a similar effect to that of a misfiring new Oxford Street attraction
+Earlier this week a pile of mud was dumped at the west end of Oxford Street. Then some squares of grass were stuck on the mud. Then people were charged £8 to go up it. Visitor Emma Wright tweeted that going up the mud was “the worst thing I have ever done in London”. But I believe it was Dr Johnson who wrote: “A woman who thinks going up some mud is the worst thing she has ever done in London has not visited the ladies’ toilets in Crystal Palace park. And neither have I.”
+The mud’s purpose is to promote Oxford Street, where 17% of shops have closed since March 2020. But in the long term, the best way to save shops is to force Amazon to pay proper tax, so it cannot undercut them. Making people pay £8 to go up mud will not do this. Though British Amazon goods are delivered from British Amazon warehouses to British Amazon customers on British roads by British drivers, the sales of those goods are processed in lightly regulated Luxembourg. Can it be a coincidence that as the net tightens on Amazon, its founder, Jeff Bezos, is lobbying Nasa to put Amazon in charge of outer space?
+ Continue reading...]]></summary>
+        <author>
+            <name>Stewart Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘It’s feasible to start a war’: how dangerous are ransomware hackers?]]></title>
+        <id>https://www.theguardian.com/technology/2021/aug/01/crypto-criminals-hack-the-computer-systems-of-governments-firms-even-hospitals</id>
+        <link href="https://www.theguardian.com/technology/2021/aug/01/crypto-criminals-hack-the-computer-systems-of-governments-firms-even-hospitals"/>
+        <updated>2021-08-01T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Secretive gangs are hacking the computers of governments, firms, even hospitals, and demanding huge sums. But if we pay these ransoms, are we  creating a ticking time bomb?
+They have the sort of names that only teenage boys or aspiring Bond villains would dream up (REvil, Grief, Wizard Spider, Ragnar), they base themselves in countries that do not cooperate with international law enforcement and they don’t care whether they attack a hospital or a multinational corporation. Ransomware gangs are suddenly everywhere, seemingly unstoppable – and very successful.
+In June, meat producer JBS, which supplies over a fifth of all the beef in the US, paid a £7.8m ransom to regain access to its computer systems. The same month, the US’s largest national fuel pipeline, Colonial Pipeline, paid £3.1m to ransomware hackers after they locked the company’s systems, causing days of fuel shortages and paralysing the east coast. “It was the hardest decision I’ve made in my 39 years in the energy industry,” said a deflated-looking Colonial CEO Joseph Blount in an evidence session before Congress. In July, hackers attacked software firm Kaseya, demanding £50m. As a result, hundreds of supermarkets had to close in Sweden, because their cash registers didn’t work.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sirin Kale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doggerland: Lost ‘Atlantis’ of the North Sea gives up its ancient secrets]]></title>
+        <id>https://www.theguardian.com/science/2021/aug/01/doggerland-lost-atlantis-of-the-north-sea-gives-up-its-ancient-secrets</id>
+        <link href="https://www.theguardian.com/science/2021/aug/01/doggerland-lost-atlantis-of-the-north-sea-gives-up-its-ancient-secrets"/>
+        <updated>2021-08-01T08:45:02.000Z</updated>
+        <summary type="html"><![CDATA[The land mass that linked Britain to continental Europe was rich in early human life until it flooded
+The idea of a “lost Atlantis” under the North Sea connecting Britain by land to continental Europe had been imagined by HG Wells in the late 19th century, with evidence of human inhabitation of the forgotten world following in 1931 when the trawler Colinda dredged up a lump of peat containing a spear point.
+But it is only now, after a decade of pioneering research and the extraordinary finds of an army of amateur archaeologists scouring the Dutch coastline for artefacts and fossils, that a major exhibition is able to offer a window into Doggerland, a vast expanse of territory submerged following a tsunami 8,000 years ago, cutting the British Isles off from modern Belgium, the Netherlands and southern Scandinavia.
+ Continue reading...]]></summary>
+        <author>
+            <name>Daniel Boffey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eimear McBride: ‘Women grapple with shame because we’re held to a higher standard’]]></title>
+        <id>https://www.theguardian.com/books/2021/aug/01/eimear-mcbride-women-grapple-with-shame-because-were-held-to-a-higher-standard</id>
+        <link href="https://www.theguardian.com/books/2021/aug/01/eimear-mcbride-women-grapple-with-shame-because-were-held-to-a-higher-standard"/>
+        <updated>2021-08-01T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[The novelist on her first book of nonfiction – about women and disgust – and the complexities of prize culture
+Eimear McBride, 44, is the bestselling author of three novels: A Girl Is a Half-Formed Thing, which won the Women’s prize for fiction and the Goldsmith’s prize, The Lesser Bohemians and Strange Hotel. Her first work of nonfiction, Something Out of Place: Women and Disgust, is the result of an invitation by the Wellcome Collection to explore its museum and library, housed on Euston Road in London. She lives in east London with her family.
+How did your new book come about?
+Wellcome was a place where I was a temp, back in the old days before I was a full-time writer. I worked in the library: I was the stack monkey. So when I was asked about doing this, I was very open to the idea; I’ve always been fond of Wellcome. I didn’t go to university, so I’d never had the experience of spending a lot of time just reading.
+ Continue reading...]]></summary>
+        <author>
+            <name>Rachel Cooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell us: how are you affected by the end of quarantine for vaccinated arrivals from the EU and US?]]></title>
+        <id>https://www.theguardian.com/travel/2021/aug/01/end-of-quarantine-vaccinated-arrivals-eu-and-us</id>
+        <link href="https://www.theguardian.com/travel/2021/aug/01/end-of-quarantine-vaccinated-arrivals-eu-and-us"/>
+        <updated>2021-08-01T08:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Restrictions have been lifted on quarantines for people vaccinated in US and EU who arrive in England from amber list countries. Are you affected?
+ Fully vaccinated people from the EU or US, who are travelling from amber list countries, will no longer have to quarantine in England, from 0400BST on Monday. 
+ We would like to hear from those affected by this rule change. What does the end of these quarantines mean for your own travel plans? Do you have any concerns?
+ Continue reading...]]></summary>
+        <author>
+            <name>Guardian community team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When moral pieties get in the way of doing the right thing, children suffer | Sonia Sodha]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/aug/01/when-moral-pieties-get-in-the-way-of-doing-the-right-thing-children-suffer</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/aug/01/when-moral-pieties-get-in-the-way-of-doing-the-right-thing-children-suffer"/>
+        <updated>2021-08-01T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[The 1980s child abuse scandal reminds us that now, as then, being ‘on the side of the angels’ has to be backed with action
+A council’s most important job is not emptying the bins or filling in potholes, the stuff most people see day to day. It has by far and away one of the most important jobs anyone could have: to be a parent. Local authorities, between them, have parental responsibility for more than 100,000 children in care in the UK. These are some of society’s most vulnerable children, removed from their parents’ care because they have experienced or are at risk of abuse and neglect. Anybody disinclined to take that responsibility seriously should come nowhere near elected office or senior management at a local council.
+How, then, did Lambeth council in south London get itself into a position where members and senior managers, at best, looked the other way while children in its care were subject to the most depraved sexual, physical and emotional abuse and, at worst, were complicit? The report of the independent inquiry into child sexual abuse (IICSA) into Lambeth, published last week, sets out the horrific scale and nature of what went on over several decades from the 1960s. More than 705 former residents of Lambeth children’s homes have come forward with complaints of sexual abuse; the inquiry says the true scale will be significantly higher.
+ Continue reading...]]></summary>
+        <author>
+            <name>Sonia Sodha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anger as Poland plans law that will stop Jews reclaiming wartime homes]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/anger-as-poland-plans-law-that-will-stop-jews-reclaiming-wartime-homes</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/anger-as-poland-plans-law-that-will-stop-jews-reclaiming-wartime-homes"/>
+        <updated>2021-08-01T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Daughter of Holocaust survivor pledges to continue her fight for family property seized by Nazi occupiers
+A few years ago, Shoshana Greenberg stood outside a building in Lodz, Poland, once owned by her family, with an old photograph in her hands and tears running down her face.
+Greenberg, now 74 and living in Tel Aviv, was on a quest to reclaim property lost during the Holocaust. Her father was head of a prominent, wealthy Jewish family in Lodz that owned industrial buildings, residential homes and holiday properties.
+ Continue reading...]]></summary>
+        <author>
+            <name>Harriet Sherwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shailene Woodley: ‘Authenticity is my love language’]]></title>
+        <id>https://www.theguardian.com/film/2021/aug/01/shailene-woodley-interview-authenticity-is-my-love-language</id>
+        <link href="https://www.theguardian.com/film/2021/aug/01/shailene-woodley-interview-authenticity-is-my-love-language"/>
+        <updated>2021-08-01T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Despite being only 29, Shailene Woodley already has 25 years’ acting experience under her belt. Here, the star of Big Little Lies and Divergent talks about being free-willed, her hippy passions and her late-night calls with Kate Winslet
+The one and only time Shailene Woodley beams during our time together – a long conversation over Zoom, on a bright weekday morning – is when my young son sneaks into the room in which I’m bent over a laptop, points at the stranger appearing on-screen, and asks, not quietly, “Who’s that?”
+There is nothing to do but introduce them.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Moshakis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen up: why indie podcasts are in peril]]></title>
+        <id>https://www.theguardian.com/media/2021/aug/01/listen-up-why-indie-podcasts-are-in-peril</id>
+        <link href="https://www.theguardian.com/media/2021/aug/01/listen-up-why-indie-podcasts-are-in-peril"/>
+        <updated>2021-08-01T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[As big spenders such as Amazon and Spotify fill our ears with more commercial, celebrity-driven fare, can grassroots, diverse shows survive?
+
+Miranda Sawyer picks 20 indie podcast gems
+
+The British Podcast Awards were different this year. Held in a south London park, they had a boutique festival feel, with wristbands and tokens for drinks, an open-sided tent for the actual awards, and people lounging on blankets in front of the stage. There were also sponsor areas – those small, picket-fenced areas where invitees could drink and mix with brand bigwigs. Awards are expensive to stage, and to give any sort of a professional sheen, money is needed. In 2017, the BPA sponsors included Radioplayer and Whistledown, an independent audio creator. In 2021, the BPA was “powered by Amazon Music”. Spotify, Stitcher, Audible, Acast, Global, BBC Sounds, Podfollow and Sony Music also dipped into their sponsorship pockets. Clearly, podcasting has gone up in the world.
+Over the past 18 months, podcasting has hit the corporate big time. Apple, long the most recognisable name in podcasting, its iTunes chart being the public measure of any show’s success, is attempting, clumsily, to move from being a neutral platform that hosts shows into one that makes money from podcasting (by, for example, charging creators for highlighted spots).
+ Continue reading...]]></summary>
+        <author>
+            <name>Miranda Sawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big tech’s big week raises fears of ‘Blade Runner future’ of mega-company rule]]></title>
+        <id>https://www.theguardian.com/technology/2021/aug/01/big-techs-big-week-blade-runner-future-amazon-google-apple-microsoft</id>
+        <link href="https://www.theguardian.com/technology/2021/aug/01/big-techs-big-week-blade-runner-future-amazon-google-apple-microsoft"/>
+        <updated>2021-08-01T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon, Google, Apple and Microsoft all reported record-breaking profits amid a pandemic bonanza but recent Biden administration moves suggest US tech’s easy ride is over
+Big tech provided the world with some startling numbers this week. In the last three months Amazon’s sales have averaged over $1.2bn a day. It took the company less than four seconds to earn the $52,000 the average American makes in a year. Apple is now sitting on nearly $200bn in cash, more than this year’s expected sales of Covid 19 vaccines.
+The coronavirus shook the world economy to its core but for the US tech giants it has proven a bonanza of historic proportions.
+ Continue reading...]]></summary>
+        <author>
+            <name>Dominic Rushe in New York</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How climate crisis made my British butterfly hunt a race against time]]></title>
+        <id>https://www.theguardian.com/environment/2021/aug/01/how-climate-crisis-made-my-british-butterfly-hunt-a-race-against-time</id>
+        <link href="https://www.theguardian.com/environment/2021/aug/01/how-climate-crisis-made-my-british-butterfly-hunt-a-race-against-time"/>
+        <updated>2021-08-01T06:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The naturalist Stephen Moss finally achieved his aim to see all 61 of the UK’s  butterfly species. But those that thrive on the margins could vanish as temperatures rise
+It was a long walk up the steep, rocky path, on an unexpectedly warm day – but well worth the effort. Along the banks of a stream, on the slopes of Ben Lawers in the Scottish Highlands, I finally came across my quarry.
+A small, unassuming, chocolate-brown butterfly, with a row of black spots edged with orange on its wings: the mountain ringlet. For me, this marked a natural history milestone: the last of Britain’s 61 regularly occurring butterflies which I had yet to see.
+ Continue reading...]]></summary>
+        <author>
+            <name>Stephen Moss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lily Allen: from chart-topping handbag kid to the heart of London’s West End]]></title>
+        <id>https://www.theguardian.com/music/2021/aug/01/lily-allen-singer-west-end-play-2-22-a-ghost-story</id>
+        <link href="https://www.theguardian.com/music/2021/aug/01/lily-allen-singer-west-end-play-2-22-a-ghost-story"/>
+        <updated>2021-08-01T06:15:04.000Z</updated>
+        <summary type="html"><![CDATA[The singer is back in front of a live audience this week, playing ‘a woman with a real point of view’ in a spooky new play, 2:22 – A Ghost Story
+There, in the background, wearing drop pearl earrings, is 13-year-old Lily Allen dressed up as a little lady-in-waiting. Cinema audiences watching Cate Blanchett as Elizabeth when the film of that name came out in 1998 might have been concentrating on the queen’s courtly dancing in the middle of the frame, but yes, it really was Allen playing a mini royal favourite in director Shekhar Kapur’s lavish production.
+Now, more than two decades later, the 36-year-old singer-songwriter is taking centre stage as an actress in the West End, appearing in a spooky new play, 2:22 – A Ghost Story, which opens this week.
+ Continue reading...]]></summary>
+        <author>
+            <name>Vanessa Thorpe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 of Britain’s best off-grid cabins, lodges and cottages]]></title>
+        <id>https://www.theguardian.com/travel/2021/aug/01/10-best-britain-uk-off-grid-cabins-lodges-and-cottages</id>
+        <link href="https://www.theguardian.com/travel/2021/aug/01/10-best-britain-uk-off-grid-cabins-lodges-and-cottages"/>
+        <updated>2021-08-01T06:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Turn off, zone out and settle into the peace of nature
+A six-acre hideaway surrounded by the glorious expanse of the Cairngorms National Park, the Lazy Duck features three gorgeous wooden eco-cabins. Choose from the Duck’s Nest, a luxury lakeside hide that offers great wildlife-spotting and photography opportunities; the entirely off-grid Woodman’s Hut, buried deep in centuries-old pine forest; or the Homestead Eco cabin, which has a stargazing window above the bed. Mountain biking, pony-trekking, archery and 4x4 driving are all on offer nearby, and Aviemore is just a 20-minute drive away. 
+• Three-night weekend breaks from £354, lazyduck.co.uk
+ Continue reading...]]></summary>
+        <author>
+            <name>Annabelle Thorpe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The big picture: vodka and sunshine in southern Siberia, 1993]]></title>
+        <id>https://www.theguardian.com/artanddesign/2021/aug/01/the-big-picture-vodka-and-sunshine-in-southern-siberia-1993</id>
+        <link href="https://www.theguardian.com/artanddesign/2021/aug/01/the-big-picture-vodka-and-sunshine-in-southern-siberia-1993"/>
+        <updated>2021-08-01T06:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Bertien van Manen snaps five young Russians enjoying a brief escape from the seismic shift in their country’s fortunes
+In the years immediately after the collapse of the Soviet Union, the Dutch photographer Bertien van Manen travelled through some of the outlying states, living with families and documenting ordinary lives. One of the books she produced about those travels was called Let’s Sit Down Before We Go, a reference to the Russian custom of taking a quiet moment before a long journey to reflect on the place you were leaving and imagine where you were going next.
+Van Manen’s pictures captured a whole empire in that kind of limbo. Sometimes, as here, temporary refuge might be found in a vodka bottle. The young men on this camping trip, to the shores of Lake Baikal in southern Siberia, have hung their empties on a line, a trophy each for the five of them, and one for luck. The two boys standing appear to be enjoying the sunlit freedoms of the holiday; the two staring into Van Manen’s camera under the piratical flag might fancy themselves in Lord of the Flies.
+ Continue reading...]]></summary>
+        <author>
+            <name>Tim Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Covid-19 on the run in the UK?]]></title>
+        <id>https://www.theguardian.com/world/2021/aug/01/is-covid-19-on-the-run-in-the-uk-fall-case-numbers-herd-immunity</id>
+        <link href="https://www.theguardian.com/world/2021/aug/01/is-covid-19-on-the-run-in-the-uk-fall-case-numbers-herd-immunity"/>
+        <updated>2021-08-01T06:00:04.000Z</updated>
+        <summary type="html"><![CDATA[A fall in case numbers last month raised hopes that Britain may be reaching herd immunity, but experts warn against complacency, given uncertainty about new variants and autumn’s return to school
+
+Coronavirus – latest updates
+UK can expect thousands of Covid deaths every year, warn scientists
+
+John Edmunds has been at the centre of the unravelling of the Covid-19 pandemic since cases first appeared in January 2020. A member of Sage, the government’s scientific advisory group, and a professor of epidemiology at the London School of Hygiene & Tropical Medicine, he has consistently warned ministers about the threats posed by the disease.
+These risks have often been clear in their nature. But today, 18 months after Covid-19 first appeared, he believes the nation stands at a point of maximum uncertainty about the future of the pandemic.
+ Continue reading...]]></summary>
+        <author>
+            <name>Robin McKie Science Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bradley Hare, Wiltshire: ‘The meat is impeccable’: restaurant review]]></title>
+        <id>https://www.theguardian.com/food/2021/aug/01/jay-rayner-restaurant-review-the-bradley-hare-wiltshire-the-meat-is-impeccable</id>
+        <link href="https://www.theguardian.com/food/2021/aug/01/jay-rayner-restaurant-review-the-bradley-hare-wiltshire-the-meat-is-impeccable"/>
+        <updated>2021-08-01T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[This old country pub has raised its game. Some will groan, but for me it’s a winner
+The Bradley Hare, Church Street, Maiden Bradley, Wiltshire BA12 7HW (01985 801018). Starters £6.50-£10, mains £13.50-£23, desserts £7.50, wines from £20
+If you wanted a single plate of food to symbolise the current state of the gussied-up country pub, you could do far worse than study my main course at what is now the Bradley Hare in the village of Maiden Bradley, a few miles outside Warminster in Wiltshire. It is steak and chips. Except, of course, it isn’t steak and chips; or at least not just steak and chips. The meat is impeccable, in keeping with the noisy commitment here to quality ingredients. They don’t just have a butcher. They also have a game dealer. They say they are against waste and very much for community involvement, so they have a barter arrangement with the local allotment society, allowing them to commission certain vegetables and “botanicals” for the bar. The Bradley Hare has the kind of bar that needs botanicals. I suspect it didn’t when it was the somewhat less titivated Somerset Arms.
+ Continue reading...]]></summary>
+        <author>
+            <name>Jay Rayner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baked barnacles, scorched cherries: the disastrous impact of heatwaves on plants and animals]]></title>
+        <id>https://www.theguardian.com/us-news/2021/jul/31/global-heating-climate-crisis-animals-water-crops</id>
+        <link href="https://www.theguardian.com/us-news/2021/jul/31/global-heating-climate-crisis-animals-water-crops"/>
+        <updated>2021-08-01T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[More than a billion sea creatures across the Pacific north-west perished in this year’s heatwave. And it’s just a taste of what’s to come
+When forecasts foreshadowed the Pacific north-west’s devastating heatwave at the end of June, marine biologist Christopher Harley was alarmed and intrigued.
+Then came the smell, and his feelings somberly shifted.
+ Continue reading...]]></summary>
+        <author>
+            <name>Gabrielle Canon in San Francisco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GB’s Charlotte Worthington cooks up BMX freestyle shock for Olympic gold]]></title>
+        <id>https://www.theguardian.com/sport/2021/jul/31/charlotte-worthington-bmx-freestyle-park-gold-medal-olympics-hannah-roberts</id>
+        <link href="https://www.theguardian.com/sport/2021/jul/31/charlotte-worthington-bmx-freestyle-park-gold-medal-olympics-hannah-roberts"/>
+        <updated>2021-08-01T02:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Favourite Hannah Roberts takes silver medal
+As it happened: Read Beau Dure’s minute-by-minute report
+
+From pan-flips in Chorlton to backflips on a bike in Tokyo, it has been quite a ride for Charlotte Worthington.
+After leaving college Worthington worked full-time in restaurants near Manchester cooking pies and Mexican food. It was a recipe for late nights, fatigue, and the kind of diet not typically associated with Olympic athletes.
+ Continue reading...]]></summary>
+        <author>
+            <name>Tom Dart at Ariake Urban Sports Park</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokyo 2020 Olympics: men’s golf, athletics, boxing and more – live!]]></title>
         <id>https://www.theguardian.com/sport/live/2021/jul/31/tokyo-2020-olympics-athletics-swimming-gymnastics-boxing-golf-and-more-live</id>
@@ -17377,36 +18605,6 @@ Chris Whitty suggests guidelines for use of masks after 19 July
         <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Brazilian protest leader determined to bring Bolsonaro’s ‘genocidal’ government down - video]]></title>
-        <id>https://www.theguardian.com/world/video/2021/jul/03/the-brazilian-protest-leader-determined-to-bring-bolsonaros-genocidal-government-down-video</id>
-        <link href="https://www.theguardian.com/world/video/2021/jul/03/the-brazilian-protest-leader-determined-to-bring-bolsonaros-genocidal-government-down-video"/>
-        <updated>2021-07-03T09:33:10.000Z</updated>
-        <summary type="html"><![CDATA[The Guardian follows Guilherme Boulos, who ran against Bolsonaro in the last elections, as he leads thousands through the streets of São Paulo, calling for the country’s president to be impeached. 
-The pressure is mounting on Bolsonaro as he faces a scandal over allegedly corrupt Covid vaccine deals and public rage over his handling of a pandemic that has killed more than half a million people. 
-
-Boulos has helped lead and organise two mass demonstrations already in the past month and will be at the forefront of a third protest this Saturday. Tens of thousands of people are expected to turn out. 
-
-Pressure mounts on Bolsonaro amid rising anger over vaccine corruption scandal
-
-
- Continue reading...]]></summary>
-        <author>
-            <name>Kyri Evangelou, Marina Costa, Christian Braga and Katie Lamborn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Under 25s: how has the pandemic affected you economically?]]></title>
-        <id>https://www.theguardian.com/society/2021/jul/02/under-25s-how-has-the-pandemic-affected-you-economically</id>
-        <link href="https://www.theguardian.com/society/2021/jul/02/under-25s-how-has-the-pandemic-affected-you-economically"/>
-        <updated>2021-07-02T15:21:14.000Z</updated>
-        <summary type="html"><![CDATA[We would like to hear from people under the age of 25 about how they’ve been affected by financially by the pandemic
-We would like to hear from people under the age of 25 about how they’ve been affected by the pandemic economically. How have you coped financially? Have you lost your job, or struggled to find one? 
- Continue reading...]]></summary>
-        <author>
-            <name>Guardian community team</name>
         </author>
     </entry>
 </feed>
