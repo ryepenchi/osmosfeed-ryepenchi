@@ -451,24 +451,6 @@
           "publishedOn": "2021-07-12T14:30:34.000Z",
           "wordCount": 999,
           "title": "Using the Specificity of :where() as a CSS Reset"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344334",
-          "author": "Chris Coyier",
-          "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/",
-          "publishedOn": "2021-07-09T18:53:51.000Z",
-          "wordCount": 1281,
-          "title": ":focus-visible in WebKit"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343598",
-          "author": "Philippe Bernard",
-          "description": "Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?\nThe task is more non-trivial than you might think. As we will see in this …\nThe post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-favicons-in-action/",
-          "publishedOn": "2021-07-09T14:31:57.000Z",
-          "wordCount": 2485,
-          "title": "SVG Favicons in Action"
         }
       ]
     },
@@ -1452,6 +1434,807 @@
       "feedUrl": "https://www.theguardian.com/mostviewed/rss",
       "siteUrl": "https://www.theguardian.com/uk",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/business/2021/aug/09/police-launch-investigation-into-alibaba-sexual-assault-allegations",
+          "author": "Agence France-Presse",
+          "description": "Chinese e-commerce company says it is cooperating with the investigation  \nChinese e-commerce company Alibaba has announced that it is cooperating with a police investigation into sexual assault allegations aired by a company employee.\nA statement on Sunday by the company said it had also had suspended “relevant parties suspected of violating our policies and values,” asserting that it had a “zero-tolerance policy against sexual misconduct.”\n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/aug/09/police-launch-investigation-into-alibaba-sexual-assault-allegations",
+          "publishedOn": "2021-08-09T00:37:19.000Z",
+          "wordCount": 502,
+          "title": "Police launch investigation into Alibaba sexual assault allegations"
+        },
+        {
+          "id": "https://www.theguardian.com/science/2021/aug/09/golden-history-of-kazakhstans-saka-warrior-people-revealed",
+          "author": "Ben Quinn",
+          "description": "Exhibition at Fitzwilliam Museum in Cambridge to tell story of little known civilization that flourished from eighth to third century BC\nWisdom, as Bob Marley put it, is better than gold. From next month however, the precious metal is central to a major new historical exhibition in Cambridge using loaned artefacts telling the story of an ancient civilization little known beyond Kazakhstan.\nGolden objects unearthed from ancient burial mounds built by the Saka warrior people of central Asia – a culture which flourished from around the eighth century BC to the third century BC – will go on display at the Fitzwilliam Museum.\n Continue reading...",
+          "link": "https://www.theguardian.com/science/2021/aug/09/golden-history-of-kazakhstans-saka-warrior-people-revealed",
+          "publishedOn": "2021-08-08T23:01:35.000Z",
+          "wordCount": 688,
+          "title": "Golden history of Kazakhstan’s Saka warrior people revealed"
+        },
+        {
+          "id": "https://www.theguardian.com/football/2021/aug/09/premier-league-2021-22-preview-no-11-liverpool",
+          "author": "Andy Hunter",
+          "description": "Winning mentality was plain in late run and with defenders coming back the key may be how much Wijnaldum is missed\nGuardian writers’ predicted position: 4th (NB: this is not necessarily Andy Hunter’s prediction but the average of our writers’ tips)\nLast season’s position: 3rd\n Continue reading...",
+          "link": "https://www.theguardian.com/football/2021/aug/09/premier-league-2021-22-preview-no-11-liverpool",
+          "publishedOn": "2021-08-08T23:01:35.000Z",
+          "wordCount": 1595,
+          "title": "Premier League 2021-22 preview No 11: Liverpool"
+        },
+        {
+          "id": "https://www.theguardian.com/stage/2021/aug/09/sex-education-xplorers-sex-review-summerhall-edinburgh-festival",
+          "author": "Mark Fisher",
+          "description": "Summerhall, Edinburgh\nMamoru Iriguchi and Afton Moran raid their dressing-up box to give us a cheery guide to the evolutionary history of reproduction, and what it says about gender fluidity in humans\nI imagine the curriculum has changed since my day but, even so, I’m pretty sure not many biology lessons look like this one by Mamoru Iriguchi. With a dressing-up-box aesthetic and a naive enthusiasm, the Edinburgh performer casts the audience in the role of 14-year-old pupils at “Summerhall secondary school”. Ably assisted by Afton Moran, using hand-knitted pubic hair and clownfish costumes as visual aids, and making natty use of a computer monitor that turns real-world objects into screen animations, he takes us through the evolutionary story of reproduction. It’s an illustrated lecture that traces the journey from the earliest sea creatures to the appearance of land animals and onwards to the present day.\nThe show has a rough-and-ready charm, performed with more enthusiasm than subtlety, and an appropriately adolescent sense of humour. It takes a wide-eyed approach to the allure of human nudity (no other creature is turned on by nakedness) and the magic of organisms that can reproduce by severing parts of their own body .\n Continue reading...",
+          "link": "https://www.theguardian.com/stage/2021/aug/09/sex-education-xplorers-sex-review-summerhall-edinburgh-festival",
+          "publishedOn": "2021-08-08T23:01:35.000Z",
+          "wordCount": 502,
+          "title": "Sex Education Xplorers (SEX) review – a biology lesson for the 21st century"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2021/aug/09/nhs-england-delays-could-lead-to-thousands-of-deaths-says-heart-charity",
+          "author": "Denis Campbell Health policy editor",
+          "description": "Long waiting times for hospital care mean heart patients could miss ‘window of opportunity’, report finds\nThousands of people with heart problems could die over the next few years due to increasingly long delays in NHS care, ministers have been warned.\nThe British Heart Foundation (BHF) fears that those needing treatment for heart attacks and stroke, diagnostic tests and potentially life-saving surgery could lose their lives while they wait.\n Continue reading...",
+          "link": "https://www.theguardian.com/society/2021/aug/09/nhs-england-delays-could-lead-to-thousands-of-deaths-says-heart-charity",
+          "publishedOn": "2021-08-08T23:01:34.000Z",
+          "wordCount": 811,
+          "title": "NHS England delays could lead to thousands of deaths, says heart charity"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/09/no-strategic-plan-brexit-james-ramsbotham-north-east-chamber-of-commerce",
+          "author": "Phillip Inman",
+          "description": "James Ramsbotham, CEO of North East England Chamber of Commerce, says letter sent to Boris Johnson remains unanswered\nA letter to Boris Johnson sent a fortnight ago by James Ramsbotham called on the prime minister to save the north-east from the “damage being done to our economy” by Brexit and urged him to give it his “most urgent and personal attention”. Two weeks later, it remains unanswered.\nRamsbotham is the chief executive of the North East England Chamber of Commerce and speaks for thousands of businesses caught by the red tape and extra costs of complying with EU rules. In a recent survey, 38% of members said sales to Europe had fallen since January.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/09/no-strategic-plan-brexit-james-ramsbotham-north-east-chamber-of-commerce",
+          "publishedOn": "2021-08-08T23:01:34.000Z",
+          "wordCount": 916,
+          "title": "Business chief calls on PM to save north-east from Brexit damage"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/aug/09/uk-launches-4m-fund-to-run-fibre-optic-cables-through-water-pipes",
+          "author": "Sarah Butler",
+          "description": "Project that could bring fibre broadband to remote areas while monitoring pipes for water leaks\nThe government has launched a £4m fund to back projects trialling running fibre optic broadband cables through water pipes to help connect hard-to-reach homes without digging up roads.\nThe money will also be used to test out monitors in pipes that can help water companies identify and repair leaks more quickly. About a fifth of water put into public supply every day is lost via leaks and it is hoped that sensors could help deliver water companies’ commitment to reduce water loss by half.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/09/uk-launches-4m-fund-to-run-fibre-optic-cables-through-water-pipes",
+          "publishedOn": "2021-08-08T23:01:34.000Z",
+          "wordCount": 618,
+          "title": "UK launches £4m fund to run fibre optic cables through water pipes"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/aug/09/uk-recovery-still-unsteady-despite-july-job-surge-finds-report",
+          "author": "Graeme Wearden",
+          "description": "Even as Covid restrictions are lifted, staff shortages and Brexit could yet undermine revival, says BDO\nThe relaxation of lockdown rules in July sparked a surge of hiring among UK firms, but staff shortages caused by the pandemic and Brexit could still undermine the recovery, the professional services group BDO reported on Monday.\nBDO’s latest business trends report found that the jobs market strengthened last month, as hospitality venues such as restaurants and bars were allowed to operate without Covid-related capacity limits.\n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/aug/09/uk-recovery-still-unsteady-despite-july-job-surge-finds-report",
+          "publishedOn": "2021-08-08T23:01:34.000Z",
+          "wordCount": 643,
+          "title": "UK recovery still unsteady despite July job surge, finds report"
+        },
+        {
+          "id": "https://www.theguardian.com/money/2021/aug/09/drivers-urged-to-book-mots-as-september-surge-in-demand-looms",
+          "author": "PA Media",
+          "description": "Exemption following Covid outbreak has increased number of vehicles that must pass test next month\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nOwners of cars due an MOT next month are being urged to book early because of a surge in demand.\nThe MOT exemption introduced following the coronavirus outbreak has increased the number of vehicles that must pass the test in September to stay on the road.\n Continue reading...",
+          "link": "https://www.theguardian.com/money/2021/aug/09/drivers-urged-to-book-mots-as-september-surge-in-demand-looms",
+          "publishedOn": "2021-08-08T23:01:34.000Z",
+          "wordCount": 478,
+          "title": "Drivers urged to book MOTs as September surge in demand looms"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/08/rice-rice-baby-japanese-parents-send-relatives-rice-in-lieu-of-newborns",
+          "author": "Gavin Blair in Tokyo",
+          "description": "Each bag matches birth weight and features baby’s face, so new arrival can be hugged in pandemic \nParents in Japan are sending bags of rice that weigh the same as their newborn babies to relatives who are unable to visit them due to the pandemic.\nThe bags come in a wide range of designs, with some shaped like a baby wrapped in a blanket so that relatives can feel as though they are hugging the new arrival while looking at a picture of their face, which is attached to the front.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/08/rice-rice-baby-japanese-parents-send-relatives-rice-in-lieu-of-newborns",
+          "publishedOn": "2021-08-08T22:20:03.000Z",
+          "wordCount": 701,
+          "title": "Rice, rice baby: Japanese parents send relatives rice to hug in lieu of newborns"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/warren-gatland-favourite-among-lions-hierarchy-to-lead-2025-australia-tour",
+          "author": "Gerard Meagher in Cape Town",
+          "description": "Jason Leonard supports coach despite loss to South Africa\nLions concept is ‘alive and kicking’ says Ben Calveley\n\nWarren Gatland has been told by the British & Irish Lions hierarchy that the job of head coach for the 2025 tour of Australia is his if he wants it, despite the series defeat by South Africa. Gatland refused to rule out a fourth tour as head coach in the aftermath of the defeat by the Springboks and he has subsequently received the firm backing of the Lions chairman, Jason Leonard, and the managing director, Ben Calveley.\n Related: Warren Gatland refuses to rule out leading fourth Lions tour in 2025 \n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/warren-gatland-favourite-among-lions-hierarchy-to-lead-2025-australia-tour",
+          "publishedOn": "2021-08-08T21:00:31.000Z",
+          "wordCount": 906,
+          "title": "Warren Gatland favourite among Lions hierarchy to lead 2025 Australia tour"
+        },
+        {
+          "id": "https://www.theguardian.com/football/2021/aug/08/arsenals-joe-willock-set-for-22m-transfer-to-newcastle-united",
+          "author": "PA Media",
+          "description": "• Scored in seven consecutive games on loan at Newcastle\n• Midfielder did not play in Arsenal’s friendly against Spurs\nNewcastle have agreed a fee in the region of £22m with Arsenal to sign Joe Willock.\nThe midfielder, 21, spent the second half of last season on loan at St James’ Park, scoring eight goals as he helped the Magpies maintain their Premier League status.\n Continue reading...",
+          "link": "https://www.theguardian.com/football/2021/aug/08/arsenals-joe-willock-set-for-22m-transfer-to-newcastle-united",
+          "publishedOn": "2021-08-08T20:55:05.000Z",
+          "wordCount": 400,
+          "title": "Arsenal’s Joe Willock set for £22m transfer to Newcastle United"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/09/the-house-that-can-withstand-a-cyclone-how-traditional-dwellings-are-making-a-comeback-in-vanuatu",
+          "author": "Jon Letman",
+          "description": "Since Cyclone Pam devastated Vanuatu, locals are returning to the saeklon haos, made from vines, palm fronds and grasses\nWhen Cyclone Pam devastated Vanuatu and concrete buildings collapsed, their iron roofing blown away, there was no loss of life in the traditionally built structures known as saeklon haos (cyclone house).\nThough they normally sleep six, during the 2015 storm up to 30 villagers were able to squeeze in together, physically supporting the house posts from the inside if needed.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/09/the-house-that-can-withstand-a-cyclone-how-traditional-dwellings-are-making-a-comeback-in-vanuatu",
+          "publishedOn": "2021-08-08T20:00:30.000Z",
+          "wordCount": 961,
+          "title": "The house that can withstand a cyclone: how traditional dwellings are making a comeback in Vanuatu"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/picture/2021/aug/08/lorna-miller-on-boris-johnsons-trip-to-scotland-cartoon",
+          "author": "Lorna Miller",
+          "description": "Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/picture/2021/aug/08/lorna-miller-on-boris-johnsons-trip-to-scotland-cartoon",
+          "publishedOn": "2021-08-08T19:07:41.000Z",
+          "wordCount": 398,
+          "title": "Lorna Miller on Boris Johnson’s trip to Scotland — cartoon"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/tokyo-2020-played-out-in-empty-arenas-but-bound-eight-billion-people-together",
+          "author": "Andy Bull in Tokyo",
+          "description": "Japan spent $17bn on an Olympic party no one could attend yet a shared message of overcoming hardship resonated worldwide\nSo how was it for you? Whether you loved or hated them, you have to admit these Olympic Games were a crazy proposition. With 206 competing teams, they were bigger and more diverse than the United Nations and – with an estimated bill of at least £12bn, 111% over budget – the Japanese could have bought 300 new 300-bed hospitals, or 1,200 elementary schools, with what they cost to put on.\nThe Games always have been, and always will be, like this. Which is why, when the French aristocrat Pierre de Coubertin first suggested reviving the ancient Olympics in a speech at the Sorbonne in 1892, a lot of the people in the audience thought he was joking.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/tokyo-2020-played-out-in-empty-arenas-but-bound-eight-billion-people-together",
+          "publishedOn": "2021-08-08T19:00:29.000Z",
+          "wordCount": 1500,
+          "title": "Tokyo 2020 played out in empty arenas but bound eight billion people together | Andy Bull"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/08/cuomo-aide-accused-governor-groping-brittany-commisso",
+          "author": "Edward Helmore",
+          "description": "Brittany Commisso, a former aide, identified herself publicly and is one of 11 women who have accused Cuomo of sexual harassment\n\nA former executive assistant who filed a criminal complaint against New York governor Andrew Cuomo last week for allegedly groping her has said he “needs to be held accountable”.\nBrittany Commisso is one of 11 women Cuomo is accused of sexually harassing, according to a devastating investigative report released by the state attorney general’s office last week.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/08/cuomo-aide-accused-governor-groping-brittany-commisso",
+          "publishedOn": "2021-08-08T18:46:00.000Z",
+          "wordCount": 505,
+          "title": "Aide who accused Cuomo of groping says: ‘What he did to me was a crime’"
+        },
+        {
+          "id": "https://www.theguardian.com/stage/2021/aug/08/park-bench-review-park-theatre",
+          "author": "Kate Wyver",
+          "description": "Park theatre, London\nTori-Allen Martin’s two-hander opens with the audience watching at home – then the second half is performed in person\nThe concept is the strongest part of Tori Allen-Martin’s two-act play, the first half of which we watch prerecorded at home, the second live in the theatre. Following the performers from screen to stage is a smart form of storytelling, creating a sense of anticipation with the prebuilt backstory we uncover online. But that’s where the innovation stops with this two-hander.\nFilmed as if on Zoom, act one finds Liv (Allen-Martin) and Theo (Tim Bowie) catching up during the pandemic after a fraught break in their more-than-friendship. Online, they joke and push through small talk, clear that something harder to discuss lies underneath. Directed by Christa Harris, this first part has the natural pace of Zoom conversations that we’re now so familiar with, but after two years of jolting screens and missed sentences, it comes too late in the wave of pandemic theatre to feel anything other than formulaic.\n Continue reading...",
+          "link": "https://www.theguardian.com/stage/2021/aug/08/park-bench-review-park-theatre",
+          "publishedOn": "2021-08-08T18:24:58.000Z",
+          "wordCount": 645,
+          "title": "Park Bench review – innovative show starts online and ends on stage"
+        },
+        {
+          "id": "https://www.theguardian.com/football/2021/aug/08/liverpool-andy-robertson-bilbao-friendly",
+          "author": "Mark Dobson",
+          "description": "‘We don’t know in the moment how serious it is,’ says Klopp\nVirgil van Dijk plays 71 minutes of 1-1 draw with Athletic Bilbao\n\nLiverpool were dealt an injury blow less than a week before the start of the Premier League season after Andy Robertson hobbled off in a friendly against Athletic Bilbao at Anfield.\nThe Scotland left-back, who started every league match last season, had to be helped from the pitch by the medical team shortly before half-time after badly twisting his ankle while he attempted to stop a cross by Álex Berenguer.\n Continue reading...",
+          "link": "https://www.theguardian.com/football/2021/aug/08/liverpool-andy-robertson-bilbao-friendly",
+          "publishedOn": "2021-08-08T18:12:53.000Z",
+          "wordCount": 668,
+          "title": "Injury blow for Liverpool as Andy Robertson limps out of Athletic friendly"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/08/us-infrastructure-bill-senate-session-vote",
+          "author": "Edward Helmore",
+          "description": "Trump says it ‘will be very hard for me to endorse anyone foolish enough to vote in favor of this deal’ as session to resume at noon\nSenators resumed a weekend session toward passage of a $1tn bipartisan infrastructure package on Sunday amid threats from former president Donald Trump who raged against any Republicans who support the measure.\nMajority leader Chuck Schumer stressed to colleagues that they could proceed the “easy way or the hard way”, while a few Republican senators appeared determined to run out the clock for days. “We’ll keep proceeding until we get this bill done,” Schumer said.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/08/us-infrastructure-bill-senate-session-vote",
+          "publishedOn": "2021-08-08T17:59:18.000Z",
+          "wordCount": 748,
+          "title": "Senate resumes infrastructure debate as Trump threatens Republicans who back bill"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/us-children-covid-delta-latest-surge",
+          "author": "Edward Helmore",
+          "description": "National Institutes of Health director says 1,450 kids in hospital \n\nTeachers union shifts, calls for vaccine mandates for teachers \n\nAmid increased fears that children are now both victims and vectors of the latest Covid-19 variant surge, National Institutes of Health director Francis Collins signaled on Sunday that increasing numbers of children are falling ill in the US.\nHis comments also came as one of America’s largest teachers unions appeared to shift its position on mandatory vaccinations for teachers.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/us-children-covid-delta-latest-surge",
+          "publishedOn": "2021-08-08T17:54:43.000Z",
+          "wordCount": 839,
+          "title": "Fears as more children falling ill in latest US Covid surge and school approaches"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/thousands-flee-greek-island-evia-wildfires-raze-forest-and-homes",
+          "author": "Jon Henley, Bethan McKernan, and Helena Smith in Athens",
+          "description": "Firefighters tackle blazes on two fronts on Evia as heatwave-driven devastation across southern Europe continues\n\nThousands of people have fled wildfires that are destroying vast swathes of pine forest and razing homes on Greece’s second-largest island, Evia, as devastating summer blazes rage from southern Europe to Siberia.\n“We have ahead of us another difficult evening, another difficult night,” Greece’s deputy civil protection minister, Nikos Hardalias, said on Sunday, adding that nearly a week after the blazes started, strong winds were driving two major fire fronts in the north and south of the island.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/thousands-flee-greek-island-evia-wildfires-raze-forest-and-homes",
+          "publishedOn": "2021-08-08T17:50:55.000Z",
+          "wordCount": 1285,
+          "title": "Thousands flee Greek island as wildfires raze forest and homes"
+        },
+        {
+          "id": "https://www.theguardian.com/books/2021/aug/09/gender-is-a-kind-of-haunting-jennifer-mills-explores-the-queer-potential-of-the-ghost-story-in-the-airways",
+          "author": "Walter Marsh",
+          "description": "Miles Franklin-shortlisted author’s new novel follows a ghost who can inhabit different bodies in a reflective take on the genre\nIt’s hardly a spoiler to reveal that the chief protagonist of Jennifer Mills’s latest novel dies. It is fleeting, fragmented, violent, and over by page four – but it is not the end. “Evicted” from their own body, microbiology student Yun’s consciousness soon coalesces, unsteadily at first, into that of another person. And then another, and another, and another.\n“It jumped into my body,” Mills says of the premise of The Airways, which first struck her during a residency in Beijing a decade ago. “I was on the subway one day, I must have just been daydreaming as I usually do, and this thought of a ghost that could jump between bodies almost jumped into me.”\n Continue reading...",
+          "link": "https://www.theguardian.com/books/2021/aug/09/gender-is-a-kind-of-haunting-jennifer-mills-explores-the-queer-potential-of-the-ghost-story-in-the-airways",
+          "publishedOn": "2021-08-08T17:30:29.000Z",
+          "wordCount": 1158,
+          "title": "‘Gender is a kind of haunting’: Jennifer Mills explores the queer potential of the ghost story in The Airways"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/08/the-guardian-view-on-french-covid-pass-protesters-attention-must-be-paid",
+          "author": "Editorial",
+          "description": "Emmanuel Macron’s new health measures are generally backed. But a worryingly large minority no longer trusts the state to act in the interests of all\nBy French standards, the protests which have now taken place across the country on four consecutive weekends have not been huge. On Saturday, an estimated 230,000 marchers filled streets and squares to oppose a new Covid pass which will be required from Monday. Two years ago, by comparison, nearly four times as many turned out to contest President Emmanuel Macron’s proposed pension reforms. Polls indicate that a large majority of French citizens back the new regulations, which mean that visitors to restaurants and other public settings must show proof of vaccination or a negative test. The rules will also make jabs mandatory for health workers and those in some other professions.\nSince Mr Macron signalled his intent to move in this direction last month, Europe has been following suit, although, in England, Boris Johnson has preferred to wait. Germany plans to bring in similar measures within weeks. Italy rolled out its “green pass” on Friday. The public health benefits of increasing vaccination rates and making social contexts as safe as possible are unarguable. Since the Covid pass was announced amid concerns over the spread of the Delta variant, France’s vaccination rate has boomed. Well over 60% of those over the age of 12 have now had a first jab. The constitutional court ruled on Thursday that the pass represented a “balanced trade-off” between public health concerns and individual freedom. Having generally taken popular opinion with him, Mr Macron is entitled to consider the policy a success. But there are good reasons for him – and other European leaders – to pay close attention to the nature of the ongoing dissent.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/08/the-guardian-view-on-french-covid-pass-protesters-attention-must-be-paid",
+          "publishedOn": "2021-08-08T17:30:27.000Z",
+          "wordCount": 785,
+          "title": "The Guardian view on French Covid pass protesters: attention must be paid | Editorial"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/09/australia-lagging-at-the-back-of-the-pack-of-oecd-countries-on-climate-action-analysis-finds",
+          "author": "Adam Morton Climate and environment editor",
+          "description": "Australia ranks 20th or worse in seven of eight categories despite Coalition claim it is leading the way in reducing emissions\n\nClaims by the Morrison government that Australia has done more to cut greenhouse gas emissions than other countries have been challenged by an analysis that found it has gone backwards compared to similar countries over the past 15 years.\nEnergy analyst Dr Hugh Saddler ranked the performance of 23 OECD countries and Russia on eight climate measures, including share of electricity from non-fossil fuels, per capita emissions from transport and overall emissions intensity of each economy.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/09/australia-lagging-at-the-back-of-the-pack-of-oecd-countries-on-climate-action-analysis-finds",
+          "publishedOn": "2021-08-08T17:30:27.000Z",
+          "wordCount": 1084,
+          "title": "Australia ‘lagging at the back of the pack’ of OECD countries on climate action, analysis finds"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/huddersfield-wakefield-super-league-match-report",
+          "author": "Aaron Bower at the John Smith's Stadium",
+          "description": "Huddersfield 22-18 Wakefield\nGiants’ head coach Ian Watson: ‘Pryce is a special talent’\n\nThere is a suggestion that given the state of the Super League table, with Leigh Centurions almost certain to be relegated to the Championship, that clubs such as Huddersfield and Wakefield have nothing more to play for this season. Yet given the post-match reaction of both coaches here, that felt anything like the mood.\nHuddersfield’s head coach, Ian Watson, labelled this comeback win the most satisfying of his time in charge so far, and it is not difficult to see why. Trailing 18-0 after 14 minutes and then losing half-back Oliver Russell to a head injury, the Giants faced the unenviable task of producing a turnaround with just one recognised half-back, who was making only his sixth senior appearance.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/huddersfield-wakefield-super-league-match-report",
+          "publishedOn": "2021-08-08T17:25:38.000Z",
+          "wordCount": 740,
+          "title": "Will Pryce makes his mark as Huddersfield recover to beat Wakefield"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/08/the-guardian-view-on-fruit-bowls-from-ancient-egypt-touching-the-past",
+          "author": "Editorial",
+          "description": "The simplest artefact can spark as much emotion as gold or grand monuments\nA find of ancient fruit baskets – still with their plump doum fruits inside – attracted headlines last week. Around 2,400 years old, they were discovered off the coast of Egypt among the remains of Thonis-Heracleion, the once-busy Mediterranean entrepôt that began to sink into Aboukir Bay sometime in the second century BC.\nThe golden splendours of ancient “treasure” have a more obvious glamour and appeal than a few date-like fruits. One thinks of Sophia Schliemann wearing the spectacular jewellery found at Troy in the 1870s by her husband, Heinrich Schliemann – not a man who will be remembered for his punctilious archaeological technique. The great monuments of antiquity, too, have the capacity to thrill and impress: the Parthenon, or the great citadel of Machu Picchu, or the pyramids of Egypt. But at least as often, it is humble, everyday objects that capture the imagination, that make the onlooker feel they could reach out through a chink in time and touch the past.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/08/the-guardian-view-on-fruit-bowls-from-ancient-egypt-touching-the-past",
+          "publishedOn": "2021-08-08T17:25:27.000Z",
+          "wordCount": 739,
+          "title": "The Guardian view on fruit bowls from ancient Egypt: touching the past | Editorial"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/afghanistan-could-become-terrorist-base-again-uk-general-warns",
+          "author": "Ben Quinn",
+          "description": "Sir Richard Barrons says withdrawal of western troops a 'strategic mistake’ as Taliban make territorial gains\nAfghanistan could once again become a base for international terrorism, according to a former senior UK military commander who has described the withdrawal of western troops as a “strategic mistake”.\nAs the Taliban continued to make sweeping territorial gains, Gen Sir Richard Barrons warned that attacks in Europe could be the outcome of groups re-establishing themselves in the country.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/afghanistan-could-become-terrorist-base-again-uk-general-warns",
+          "publishedOn": "2021-08-08T17:13:44.000Z",
+          "wordCount": 624,
+          "title": "Afghanistan could become terrorist base again, UK general warns"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/blog/2021/aug/08/england-and-indias-lost-day-cannot-detract-from-thrills-of-previous-four",
+          "author": "Emma John at Trent Bridge",
+          "description": "The first match may have ended in a soggy draw but the sides generated enough excitement to suggest this series will provide a welcome advert for Test cricket\nThe batsman hit the bowler straight back over his head, a sweetly timed, powerfully struck shot that surely ranked among the biggest seen in these conditions. It will never be known how far it might have travelled – a six surely, but into the stands or out of the stadium? – because of the wall in the way. As it was, the ball bounced off brick and into the outstretched hand of the fielder standing in a position that somehow combined silly mid-off with long-off. One hand one bounce. The batter was gone.\nIt was the best action the spectators got all day at Trent Bridge. For most of Sunday – excluding two tantalising patches of sunshine – the wet conditions confined the optimistic fans who stuck around to whatever shelter they could find. Umbrellas, awnings and bars came into play – even the huddled trio of chairs under the stairwell in the Radcliffe Road Stand known as the Hadlee Waiting Area, long assumed to be an existential joke understood only by the Notts faithful. And here, on the concourse, where a man called Sunit had constructed a wicket from rucksacks and got the passing kids playing with a soft ball and a plastic bat.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/blog/2021/aug/08/england-and-indias-lost-day-cannot-detract-from-thrills-of-previous-four",
+          "publishedOn": "2021-08-08T17:12:38.000Z",
+          "wordCount": 1083,
+          "title": "England and India’s lost day cannot detract from thrills of previous four | Emma John"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/08/worlds-climate-scientists-to-issue-stark-warning-over-global-heating-threat",
+          "author": "Fiona Harvey Environment correspondent",
+          "description": "IPCC’s landmark report will be most comprehensive assessment yet as governments prepare for pivotal UN talks in November\nThe fires, floods and extreme weather seen around the world in recent months are just a foretaste of what can be expected if global heating takes hold, scientists say, as the world’s leading authority on climate change prepares to warn of an imminent and dire risk to the global climate system.\nThe Intergovernmental Panel on Climate Change (IPCC) will on Monday publish a landmark report, the most comprehensive assessment yet, less than three months before vital UN talks that will determine the future course of life on Earth.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/08/worlds-climate-scientists-to-issue-stark-warning-over-global-heating-threat",
+          "publishedOn": "2021-08-08T17:00:26.000Z",
+          "wordCount": 1172,
+          "title": "World’s climate scientists to issue stark warning over global heating threat"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/tokyo-says-goodbye-to-the-games-with-grace-and-sense-of-relief",
+          "author": "Barney Ronay at the Tokyo Olympic Stadium",
+          "description": "Japan’s Olympics has been troubled but quietly glorious, reminding us the world can be fun\nFarewell then, Tokyo 2020. On a sweltering night at the Olympic Stadium, Japan said goodbye to its troubled, quietly glorious Games with a closing ceremony that was by turns elegant, sombre and hilariously unbound. Not to mention, in the grand Olympic tradition, crammed full of schmaltz and corporate doublespeak.\nAt 10pm local time the IOC president, Thomas Bach, emerged on to his lighted plinth to declare Tokyo 2020 closed – and to offer up something else too, to lobby for its place in history.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/tokyo-says-goodbye-to-the-games-with-grace-and-sense-of-relief",
+          "publishedOn": "2021-08-08T16:49:41.000Z",
+          "wordCount": 1313,
+          "title": "Tokyo says goodbye to the Games with grace and sense of relief | Barney Ronay"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/aug/08/richard-bransons-virgin-atlantic-plans-stock-market-listing",
+          "author": "Sarah Butler",
+          "description": "Move is airline’s attempt to shore up balance sheet after £659m loss due to Covid pandemic\nThe British airline Virgin Atlantic is considering raising funds on the London Stock Exchange in an attempt to shore up its balance sheet.\nThe listing, which is expected to be announced in the autumn, is likely to see the billionaire Sir Richard Branson relinquish overall control of the business. His Virgin Group currently owns 51% of the airline with the US-based Delta Air Lines owning the rest.\n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/aug/08/richard-bransons-virgin-atlantic-plans-stock-market-listing",
+          "publishedOn": "2021-08-08T16:22:55.000Z",
+          "wordCount": 606,
+          "title": "Richard Branson’s Virgin Atlantic plans stock market listing"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/aug/08/vets-caution-that-law-is-clear-and-geronimo-the-alpaca-must-be-put-down",
+          "author": "Robyn Vinter",
+          "description": "Specialists including Defra bovine tuberculosis expert say positive tests indicate danger to public health\nThe row over his fate has captured the public’s imagination – with a petition to save him gathering nearly 100,000 signatures and his friendly, furry face splashing newspaper front pages. But vets have cautioned that the law is clear: Geronimo the alpaca must be put down.\nThe six-year-old animal is facing a death sentence after twice testing positive for bovine tuberculosis (bTB), a deadly respiratory disease that has blighted the countryside for decades.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/aug/08/vets-caution-that-law-is-clear-and-geronimo-the-alpaca-must-be-put-down",
+          "publishedOn": "2021-08-08T16:21:48.000Z",
+          "wordCount": 887,
+          "title": "Vets say law is clear and Geronimo the alpaca must be put down"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/tokyo-2020-olympics-briefing-19",
+          "author": "Martin Belam",
+          "description": "Sign up here and receive the Tokyo 2020 daily briefing\nToday in a nutshell: a dominant marathon display from Eliud Kipchoge, final day gold success for Team GB and for Ireland, the USA’s climb to the top of the medal table, and a closing ceremony that simply said “Thank you”.\nTomorrow’s key moments: that hollow feeling when you put your television on and there’s no Olympics to watch.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/tokyo-2020-olympics-briefing-19",
+          "publishedOn": "2021-08-08T15:54:33.000Z",
+          "wordCount": 2171,
+          "title": "Tokyo 2020 Olympics briefing: farewell and arigato to Japan"
+        },
+        {
+          "id": "https://www.theguardian.com/media/2021/aug/07/tucker-carlson-hungary-viktor-orban-donald-trump",
+          "author": "David Smith in Washington",
+          "description": "Fox News host offers gushing praise for Viktor Orbán, spurring concerns about the erosion of democracy at home\n“In the last few nights in Budapest,” mused Tucker Carlson, US rightwing media star, “I’ve run into a number of Americans who have come here because they want to be around people who agree with them, who agree with you. Do you see Budapest as a kind of capital of this kind of thinking?”\nSitting in a book-lined office, Viktor Orbán, prime minister of Hungary, agreed it was “one of the capitals” producing “very nice ideas”. He went on to praise Donald Trump as “a great friend of Hungary” and laud the former US president’s “America first” foreign policy.\n Continue reading...",
+          "link": "https://www.theguardian.com/media/2021/aug/07/tucker-carlson-hungary-viktor-orban-donald-trump",
+          "publishedOn": "2021-08-08T15:52:52.000Z",
+          "wordCount": 1464,
+          "title": "How Tucker Carlson and the far right embraced Hungary’s authoritarian leader"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/08/dixie-fire-california-blaze-pge-role",
+          "author": "Alexandra Villarreal",
+          "description": "Wildfire’s cause is under investigation but utility company has admitted its equipment may have been linked to the devastation\nAs relatively cool temperatures and higher humidity slowed the Dixie fire raging across northern California on Saturday, attention shifted to the role an already disgraced utility company may have played in the gigantic blaze.\nBy Saturday evening, the Dixie fire covered 447,723 acres and had destroyed 370 structures, including residential, commercial and other buildings. The fire was only 21% contained, and the California Department of Forestry and Fire Protection did not expect full containment until 20 August.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/08/dixie-fire-california-blaze-pge-role",
+          "publishedOn": "2021-08-08T15:43:36.000Z",
+          "wordCount": 631,
+          "title": "Dixie fire: cool weather slows raging California blaze as attention shifts to PG&E role"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/gallery/2021/aug/08/training-for-tokyo-2020-how-athletes-prepared-and-how-they-did-in-pictures",
+          "author": "Steven Bloor and Pejman Faratin",
+          "description": "How Olympians trained for the Olympic Games under the strain of lockdown and how that planning paid off\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/gallery/2021/aug/08/training-for-tokyo-2020-how-athletes-prepared-and-how-they-did-in-pictures",
+          "publishedOn": "2021-08-08T15:27:06.000Z",
+          "wordCount": 1025,
+          "title": "Training for Tokyo: how athletes prepared and how they did – in pictures"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/aug/08/britain-must-not-desert-its-afghan-interpreters",
+          "author": "Letters",
+          "description": "Chris Philp, the immigration compliance minister, outlines the work of the Home Office in safeguarding interpreters, while Barry Young says joined-up thinking is needed and Peter Simm highlights the danger to asylum seekers being told to relocate to Kabul\nInterpreters who assisted British forces in Afghanistan have played a fundamental role, standing side by side with those on the frontline of combat. For that we owe a debt of gratitude – one that we are paying, contrary to the claims of Clive Lewis MP (I saw Afghan interpreters translate so much more than words – now they live in terror, 6 August).\nThere are hundreds of officials working without pause across the country and in Afghanistan to safely and quickly relocate current and former locally employed staff who often risked their lives on our behalf. They are arriving here with their families on a near-daily basis to build a new life. So far, we have enabled over 2,800 people to relocate to Britain, with 1,400 arriving over the last few weeks alone. As we continue to significantly accelerate the pace of relocations due to the deteriorating situation in Afghanistan, hundreds more will follow.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/aug/08/britain-must-not-desert-its-afghan-interpreters",
+          "publishedOn": "2021-08-08T15:22:14.000Z",
+          "wordCount": 1155,
+          "title": "Britain must not desert its Afghan interpreters | Letters"
+        },
+        {
+          "id": "https://www.theguardian.com/education/2021/aug/08/requiescat-in-pace-no-need-to-resurrect-latin-in-schools",
+          "author": "Letters",
+          "description": "Bob Ross is at odds with Tory plans to introduce Latin lessons in state schools\nI had to have a quiet chuckle at the education secretary’s plans to spend £4m on teaching Latin to the sons and daughters of the hoi polloi (Cartoon, 1 August). My first thought was, why not ancient Greek? Then I wondered how the “fortunate” 40 state schools would be selected. And then – simply, why? Is there a pent-up demand by secondary school students to learn Latin while more useful modern languages are struggling to get enough takers to fill a class? \nI have the dubious distinction of having passed O-grade Latin back in the mid-1960s while I was at a local secondary school in Edinburgh. It could be an entertaining way to get “the tawse” by conjugating the Latin verb for “to love” as “Amo, amas, amat, amamus, adaddymus and ababymus”, but otherwise it was a waste of time. I had wanted to learn German.\n Continue reading...",
+          "link": "https://www.theguardian.com/education/2021/aug/08/requiescat-in-pace-no-need-to-resurrect-latin-in-schools",
+          "publishedOn": "2021-08-08T15:21:28.000Z",
+          "wordCount": 410,
+          "title": "Requiescat in pace: no need to resurrect Latin in schools"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/08/people-cant-sleep-rhonda-valley-flood-leaves-climate-fear-wake",
+          "author": "Steven Morris",
+          "description": "Many in south Wales are still suffering from havoc of last year – and say not enough is being done to prevent a repeat\nIn February last year, Storm Dennis wreaked havoc in the Rhondda valley, causing flooding in hundreds of homes and businesses, leaving landslips, ruined roads, smashed bridges and broken hearts in its wake.\nEighteen months on, many people in this close-knit corner of south Wales continue to suffer. “I still have nightmares about the river rising again,” said Katie Whelan, whose end-of-terrace house in the village of Ynyshir, near Pontypridd, was flooded.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/08/people-cant-sleep-rhonda-valley-flood-leaves-climate-fear-wake",
+          "publishedOn": "2021-08-08T15:00:24.000Z",
+          "wordCount": 1257,
+          "title": "‘People can’t sleep’: Rhondda valley flood leaves climate fear in its wake"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/great-to-be-back-tears-london-quarantine-free-travel-france-resumes",
+          "author": "Ben Quinn",
+          "description": "First Eurostar train arrives at St Pancras on Sunday morning since Covid restrictions were lifted\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nNot until the automatic doors of Eurostar arrivals opened could Sue Stevens be sure that her daughter, Laura, had made it back from Paris.\nEighteen bitterly hard months had passed since they had seen each other, while a late moment of bureaucratic confusion at the French departure point had cast some last-minute doubt.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/great-to-be-back-tears-london-quarantine-free-travel-france-resumes",
+          "publishedOn": "2021-08-08T14:59:22.000Z",
+          "wordCount": 1078,
+          "title": "‘Great to be back’: tears in London as quarantine-free travel from France resumes"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/spain-bans-small-boats-from-stretch-of-water-after-orca-encounters",
+          "author": "Ashifa Kassam in Madrid",
+          "description": "Two-week order on coast between Cape Trafalgar and Barbate is second time authorities have taken action\n Spain has ordered small boats to steer clear of a stretch of the country’s southern coast after reports of more than 50 encounters with boisterous orcas, including as many as 25 incidents in which boats had to be towed to shore.\nA two-week prohibition bars most vessels of 15 metres or less from sailing near the coast between Cape Trafalgar and the small town of Barbate. It is the second time in 13 months that Spain’s ministry of transport has taken action to address a spate of extraordinary orca encounters that have baffled scientists.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/spain-bans-small-boats-from-stretch-of-water-after-orca-encounters",
+          "publishedOn": "2021-08-08T14:37:48.000Z",
+          "wordCount": 744,
+          "title": "Spain bans small boats from stretch of water after orca encounters"
+        },
+        {
+          "id": "https://www.theguardian.com/news/gallery/2021/aug/08/mermaids-dolphins-and-divers-the-weekends-best-photos",
+          "author": "Jo Blason",
+          "description": "The Guardian’s picture editors select photo highlights from around the world\n Continue reading...",
+          "link": "https://www.theguardian.com/news/gallery/2021/aug/08/mermaids-dolphins-and-divers-the-weekends-best-photos",
+          "publishedOn": "2021-08-08T14:08:40.000Z",
+          "wordCount": 789,
+          "title": "Dolphins, divers and cruise ship painting: the weekend’s best photos"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/velodrome-domination-slips-away-but-kennys-remain-team-gbs-golden-couple",
+          "author": "William Fotheringham",
+          "description": "Britain did not dominate Tokyo on two wheels as they once did but there is plenty of emerging talent to be excited about\nThis was never going to be an Olympic Games quite like any other. The bike racing in Tokyo reflected that, and within that bubble so did the fortunes of Great Britain’s cyclists. It was a bizarrely apposite conclusion to a Games that had seen a string of one-off episodes on two wheels that Laura Kenny’s luck should run out in the cruellest style in the omnium, a discipline that she has made her own since its inception in 2012, while her husband Jason should become Britain’s most-crowned Olympian with a jaw-dropping gold medal in the keirin.\nSir Chris Hoy, the man Jason Kenny deposed as Olympic match sprint champion in 2012 after a fraught selection battle, compared his nemesis to a predatory big cat that spends most of its time asleep in the sun, turning into a ruthless apex predator at the flick of an eyelid. Kenny’s keirin opponents would concur that you cannot give the man a fraction of an iota of a glimpse of an opening.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/velodrome-domination-slips-away-but-kennys-remain-team-gbs-golden-couple",
+          "publishedOn": "2021-08-08T14:02:01.000Z",
+          "wordCount": 1056,
+          "title": "Velodrome domination slips away but Kennys remain Team GB’s golden couple | William Fotheringham"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/08/new-york-city-summer-city",
+          "author": "Emma Brockes",
+          "description": "It’s the second summer of alternative plans, and the city’s parks, libraries and pools suddenly seem remarkable\nThe rules of New York City’s public swimming pools are stringent: no flotation aids, no coloured T-shirts, no food, no diving – and, most remarkably in this city of punitive cost, no charge. For the space of the summer, the 50-odd outdoor pools across the city’s five boroughs provide relief and recreation for thousands of New Yorkers – and something more nebulous, too. The locker rooms might be shabby, but every few years, when a local news outlet tests the water in a cross section of pools, the results are deeply satisfying and often the same. While the water in the city’s most expensive hotel pools is discovered to be teeming with germs, the public pools are almost always sparklingly clean.\nThis reminder of how good public services in the city can be feels particularly pertinent this summer, the second in a row of altered plans. If last year was the summer of reduced expectations – no one expected to go anywhere and made alternative local arrangements – this year is much choppier, with Covid rules changing seemingly every five minutes and travel plans being repeatedly cancelled. As a result, and by default, many of us have ended up doing something we might not have done for years, which is spending August in the city. New York, famously hostile to life in the summer, is suddenly a great place to be.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/08/new-york-city-summer-city",
+          "publishedOn": "2021-08-08T14:00:23.000Z",
+          "wordCount": 987,
+          "title": "New York City, I’ve been taking you for granted | Emma Brockes"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/aug/08/home-office-records-70-racist-incidents-far-right-asylum-accommodation",
+          "author": "Diane Taylor",
+          "description": "Campaigners say figures for last two years underestimate the true situation at barracks and hotels\nThe Home Office has recorded 70 racist incidents by far-right supporters against asylum seekers in barracks and hotel accommodation, according to a freedom of information response obtained by the Guardian.\nHowever, campaigners supporting asylum seekers in such accommodation say the figure is a significant underestimation of the true picture.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/aug/08/home-office-records-70-racist-incidents-far-right-asylum-accommodation",
+          "publishedOn": "2021-08-08T13:34:29.000Z",
+          "wordCount": 828,
+          "title": "Home Office records 70 racist incidents by far right at asylum accommodation"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2021/aug/08/nhs-still-not-recognising-british-citizens-overseas-covid-jabs-says-peer",
+          "author": "Robyn Vinter",
+          "description": "Lord Paddick accuses government of ‘broken promises’ after Pfizer jabs received in Norway go unrecognised\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nBritons vaccinated abroad are still struggling to get their jabs registered with the NHS, a Lib Dem peer has warned, despite government promises that measures would be in place by the end of last month.\nBrian Paddick, a former London mayoral candidate and a member of the House of Lords, said the government was “yet again, promising things that they fail to deliver” after his GP was unable to register vaccinations he had in Norway, where he has been staying.\n Continue reading...",
+          "link": "https://www.theguardian.com/society/2021/aug/08/nhs-still-not-recognising-british-citizens-overseas-covid-jabs-says-peer",
+          "publishedOn": "2021-08-08T13:13:15.000Z",
+          "wordCount": 755,
+          "title": "NHS still not recognising British citizens’ overseas Covid jabs, says peer"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/team-gb-chief-hails-greatest-achievement-in-olympic-history",
+          "author": "Sean Ingle in Tokyo",
+          "description": "Mark England says fact team’s competitors delivered 65 medals in Tokyo ‘absolutely extraordinary’\nTeam GB’s trailblazing performance in Tokyo has been hailed as “the greatest achievement in British Olympic history” after the young team matched the tally of medals from London 2012 on the final day.\nWith Jason Kenny successfully defending his keirin title to become the first Briton to win seven Olympic gold medals, and boxer Lauren Price also winning middleweight gold, the British team ended fourth in the medal table with 65 overall – 22 of them gold.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/team-gb-chief-hails-greatest-achievement-in-olympic-history",
+          "publishedOn": "2021-08-08T13:04:47.000Z",
+          "wordCount": 1095,
+          "title": "Team GB chief hails ‘greatest achievement in British Olympic history’"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/08/a-new-start-after-60-i-married-for-the-first-time-at-70",
+          "author": "Paula Cocozza",
+          "description": "Antique dealer Deb Thea always thought she would marry – and while she waited for the right person, she created a happy, confident single life. Then, unexpectedly, love came along\nDeb Thea didn’t want a conventional wedding. “I was 70. Walking down the aisle? Wearing white? Come on!” she says. She wore a polka dot dress to marry her boyfriend, Tom Ford, who was 65. Her guests had polka dot ties, polka dot shawls and polka dot dresses.\nThea, who runs an antique shop in Petaluma, California, had always thought she would marry, but didn’t think it would take so long to find the right person. “I had boyfriends and I lived with people,” she says. “But we got to the point where we should go forward or stop, and they just didn’t seem enough to me.”\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/08/a-new-start-after-60-i-married-for-the-first-time-at-70",
+          "publishedOn": "2021-08-08T13:00:22.000Z",
+          "wordCount": 947,
+          "title": "A new start after 60: ‘I married for the first time at 70’"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/08/living-world-time-saplings-oak-slow-ecology-habitats",
+          "author": "George Monbiot",
+          "description": "Planting 10 saplings does not replace a twisted old oak. ‘Slow ecology’ is the only way to preserve and restore ancient habitats\nWe have a slow food movement and a slow travel movement. But we’re missing something, and its absence contributes to our escalating crisis. We need a slow ecology movement, and we need it fast.\nThe majority of the world’s species cannot withstand any significant disruption of their habitat by humans. Healthy ecosystems depend to a great extent on old and gnarly places, that might take centuries to develop, and are rich in what ecologists call “spatial heterogeneity”: complex natural architecture. They need, for example, giant trees, whose knotty entrails are split and rotten; great reefs of coral or oysters or honeycomb worms; braiding, meandering rivers full of snags and beaver dams; undisturbed soils reamed by roots and holes. The loss of these ancient habitats is one of the factors driving the global shift from large, slow-growing creatures to the small, short-lived species able to survive our onslaughts. Slow ecology would protect and create our future ancient habitats.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/08/living-world-time-saplings-oak-slow-ecology-habitats",
+          "publishedOn": "2021-08-08T13:00:22.000Z",
+          "wordCount": 1182,
+          "title": "The gift we should give to the living world? Time, and lots of it | George Monbiot"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/readers-reply-which-sport-gives-you-the-best-all-round-skill-set",
+          "author": null,
+          "description": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\nWhich sport gives you the best all-round skill set/fitness regime? James Bunwell, Droitwich Spa\nSend new questions to nq@theguardian.com.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/readers-reply-which-sport-gives-you-the-best-all-round-skill-set",
+          "publishedOn": "2021-08-08T13:00:22.000Z",
+          "wordCount": 1748,
+          "title": "Readers reply: which sport gives you the best all-round skill set?"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/tokyo-2020-olympics-final-medal-table-usa-china-gb",
+          "author": "Tom Lutz in New York",
+          "description": "Americans end 2020 Games with 39 golds, one ahead of China\nHosts Japan finish third with Team GB in fourth place\nTeam USA also top table for most overall medals, with 113\nView the final Tokyo 2020 medal table here\n\nTeam USA maintained their traditional place at the top of the Olympic medal table, although it took a late run of medals – and the help of a Welsh boxer – on the final day in Tokyo to lift them above China.\nThe US had entered Sunday with two fewer golds than China but victory for Jennifer Valente in the women’s omnium and a seventh successive title for the women’s basketball team – arguably the greatest dynasty in Olympic history – put the two countries level on 38 golds each. The Americans then edged ahead after they beat Brazil in the women’s volleyball final. China could have equalled the US gold tally in the women’s middleweight boxing final but Great Britain’s Lauren Price easily beat Li Qian on a points decision.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/tokyo-2020-olympics-final-medal-table-usa-china-gb",
+          "publishedOn": "2021-08-08T12:58:28.000Z",
+          "wordCount": 581,
+          "title": "Volleyball gold edges USA past China on final Tokyo Olympics medal table"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/08/uk-health-department-to-continue-with-home-working-in-september",
+          "author": "Aubrey Allegretti",
+          "description": "Exclusive: DHSC scraps timetable requiring civil servants to be in offices for up to eight days a month from September\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nSajid Javid’s health department has abandoned plans to end civil servants’ ability to work from home full-time.\nStaff at the Department of Health and Social Care (DHSC) were told this week that the requirement for them to be working in Whitehall between four and eight days every month, meant to come into force from September, had been scrapped.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/08/uk-health-department-to-continue-with-home-working-in-september",
+          "publishedOn": "2021-08-08T12:41:29.000Z",
+          "wordCount": 825,
+          "title": "UK health department plan for return to office working put on hold"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/aug/08/halifax-latest-to-slash-mortgage-rate-amid-flurry-of-rate-cutting",
+          "author": "Sarah Butler",
+          "description": "Lender to offer ultra-low rate on two-year fixed deal on loans worth up to 60% of home value\nHalifax has fired the latest salvo in the price war between mortgage lenders with the launch of a two-year fixed-rate deal priced at 0.83%.\nThe announcement of the ultra-low rate, which is available via mortgage brokers from Monday to those wishing to take out a loan worth up to 60% of the value of their home, comes amid a flurry of rate cutting by some of the UK’s biggest lenders.\n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/aug/08/halifax-latest-to-slash-mortgage-rate-amid-flurry-of-rate-cutting",
+          "publishedOn": "2021-08-08T12:34:00.000Z",
+          "wordCount": 568,
+          "title": "Halifax launches mortgage at 0.83% amid flurry of rate cutting"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/aug/08/instagram-artists-leaving-social-media-tiktok-shopping",
+          "author": "Amelia Tait",
+          "description": "The social media platform was once a favourite of artists and photographers, but a shift towards TikTok-type videos and shopping could leave them looking for a new home online\nIn late July, hobbyist photographer and self-proclaimed “sunrise hunter” Sam Binding conducted an experiment. After visiting Somerset Lavender Farm to catch the sun peeking over the purple blossoms, the 40-year-old from Bristol uploaded the results to both Instagram and Twitter. Two days later, he used the apps’ built-in analytics tools to assess the impact of his shots. On Instagram, a total of 5,595 people saw his post – just over half of his 11,000 followers. On Twitter, his post was seen by 5,611 people, despite the fact he has just 333 followers on the site.\nThis confirmed Binding’s hunch that although most people believe that Instagram is a place to share photos and Twitter is a place to share words, that may no longer be the case. When it launched in 2010, Instagram courted the artistic community, inviting respected designers to be among its initial users and naming its very first filter X-Pro II, after an analogue photo-developing technique. In her 2020 book No Filter: The Inside Story of Instagram, technology reporter Sarah Frier documents how Instagram co-founder Kevin Systrom wanted Instagram to be an outlet for artists (in a high-school essay, Systrom wrote that he liked how photography could “inspire others to look at the world in a new way”).\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/08/instagram-artists-leaving-social-media-tiktok-shopping",
+          "publishedOn": "2021-08-08T12:00:21.000Z",
+          "wordCount": 2251,
+          "title": "Why Instagram’s creatives are angry about its move to video"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/08/labour-accuses-philip-hammond-breaking-ministerial-code",
+          "author": "Aubrey Allegretti Political correspondent",
+          "description": "Former Tory chancellor reportedly wrote to Treasury to advocate for a bank he is a paid adviser for\nThe former chancellor Philip Hammond has been accused by Labour of breaking the ministerial code, after reportedly writing to the Treasury to advocate for a bank he is a paid adviser for.\nThe former MP, who is now a Conservative peer, became the latest figure embroiled in questions over lobbying, following a government-commissioned review which found the rules regarding access and influence of politicians and senior civil servants “worked well”.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/08/labour-accuses-philip-hammond-breaking-ministerial-code",
+          "publishedOn": "2021-08-08T11:58:07.000Z",
+          "wordCount": 569,
+          "title": "Labour accuses Philip Hammond of breaking ministerial code"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/spanish-village-seeks-unesco-world-heritage-status-for-outdoor-chats",
+          "author": "Ashifa Kassam in Madrid",
+          "description": "Mayor of Algar (pop 1,400) says the tradition is the ‘opposite of social media’ and good for mental health\nIt’s a nightly summer ritual across much of Spain: as the sweltering heat of the day eases off, chairs are hauled out to the street for an alfresco chat. Now an enterprising village in southern Spain is seeking to have the tradition recognised by the United Nations as a cultural treasure.\nThe aim is to protect the centuries-old custom from the encroaching threat of social media and television, said José Carlos Sánchez, the mayor of Algar, a town of about 1,400 people. “It’s the opposite of social media,” he told the Guardian. “This is about face-to-face conversations.”\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/spanish-village-seeks-unesco-world-heritage-status-for-outdoor-chats",
+          "publishedOn": "2021-08-08T11:46:14.000Z",
+          "wordCount": 705,
+          "title": "Spanish village seeks Unesco world heritage status for outdoor chats"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/un-condemns-child-marriage-zimbabwe-girl-dies-after-giving-birth",
+          "author": "Reuters",
+          "description": "Death of Memory Machaya, 14, who gave birth at church shrine, prompts outrage among citizens and activists\nThe United Nations has condemned the practice of child marriage in Zimbabwe following the death of a 14-year-old girl after she gave birth at a church shrine, an incident that caused outrage among citizens and rights activists.\nThe case has brought to the fore the practice of child marriage within Zimbabwe’s apostolic churches, which also allow polygamy.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/un-condemns-child-marriage-zimbabwe-girl-dies-after-giving-birth",
+          "publishedOn": "2021-08-08T11:08:21.000Z",
+          "wordCount": 561,
+          "title": "UN condemns child marriage in Zimbabwe as girl dies after giving birth"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/08/how-camley-street-brought-nature-to-the-heart-of-londons-kings-cross-conservation",
+          "author": "Patrick Barkham",
+          "description": "Hidden next to the canal at the centre of London’s King’s Cross is Camley Street Natural Park. It is a tiny haven providing a breath of fresh air for both wildlife and local residents. But our cities need many more…\nBeyond the plastic grass and polished concrete of King’s Cross’s Granary Square there is an unexpected enclave of trees. Step through a pair of tall wrought-iron gates salvaged from a vanished goods yard, and the grizzle of taxis and squeal of cornering trains is replaced by the unexpected song of a blackcap. City odours – of diesel and grilled meat – are superseded by a scent of damp earth and sickly sweet privet.\nIn the last decade, the post-industrial desolation behind London’s Kings Cross has been redeveloped and woven into an immaculate modern urban fabric of luxury office blocks and expensive boutiques. But the really priceless feature is a tatty explosion of greenery called Camley Street Natural Park.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/08/how-camley-street-brought-nature-to-the-heart-of-londons-kings-cross-conservation",
+          "publishedOn": "2021-08-08T11:00:20.000Z",
+          "wordCount": 1966,
+          "title": "How Camley Street brought nature to the heart of the capital"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/aug/08/team-gb-olympics-successes-insight-uk-economy",
+          "author": "Larry Elliott",
+          "description": "There are lessons to be learned from how and why GB Olympians have gone from under-performer to globally competitive in 25 years\nForget the feelgood factor. The warm glow generated by Team GB winning gold for three-day eventing or the modern pentathlon will quickly fade. Anybody who thinks sporting success will prompt a mini-economic boom is deluded.\nThat, though, doesn’t mean the Tokyo Olympics have no bearing on the economy and its performance. There are important lessons to be learned from how and why Great Britain’s athletes have gone from serial under-performers to globally competitive in the past 25 years.\n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/aug/08/team-gb-olympics-successes-insight-uk-economy",
+          "publishedOn": "2021-08-08T10:07:21.000Z",
+          "wordCount": 1167,
+          "title": "Team GB’s successes can give us insight into the country’s economy"
+        },
+        {
+          "id": "https://www.theguardian.com/tv-and-radio/2021/aug/08/actor-niamh-algar-raised-by-wolves-deceit-censor-interview",
+          "author": "Rebecca Nicholson",
+          "description": "From The Virtues to Raised By Wolves, the Irish actor has a knack for complex roles. As she stars in a new British horror and a TV drama, she discusses working with Shane Meadows and boxing her way on to Ridley Scott’s radar\nNiamh Algar is sitting in front of a stunning, world-famous view. “Look at that,” she says, sweeping her arm away from her camera, towards a massive vista of Buckingham Palace. The Irish actor, 29, is holed up in a hotel in London, and the royal residence is in fact a spectacular bit of wallpaper. She is halfway through compulsory quarantine, having just returned from filming the sci-fi series Raised By Wolves in South Africa. She’s had a bright and busy few years, bouncing from acclaimed dramas to blockbusters, via indie films and a Guy Ritchie caper, so it’s little wonder she’s happy to have a few days off. “I was saying to a friend last night, it’s kind of nice because no one’s able to get to you. It’s actually a nice decompression time.”\nShe has recently finished work on two particularly intense roles. In new four-part TV drama Deceit she plays the undercover officer known as “Lizzie James”, who took part in the doomed honeytrap Operation Edzell in an attempt to ensnare the killer of Rachel Nickell, the 23-year-old woman who was murdered on Wimbledon Common in 1992. “I wasn’t aware of the story, so I had to educate myself on that,” says Algar. The real “Lizzie James” has lifelong anonymity, but Algar talked to other undercover officers about their work, and spent a lot of time researching police in the early 90s.\n Continue reading...",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/aug/08/actor-niamh-algar-raised-by-wolves-deceit-censor-interview",
+          "publishedOn": "2021-08-08T10:00:19.000Z",
+          "wordCount": 1663,
+          "title": "Actor Niamh Algar: ‘Broken characters are the more rewarding ones’"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/aug/08/activision-blizzard-lawsuit-women-sexual-harassment",
+          "author": "Kari Paul",
+          "description": "California’s legal action could mark step towards fixing culture of harassment, experts say\nFor women at Activision Blizzard, one of the world’s most famous video game companies, showing up to work meant navigating near daily episodes of humiliation, sexual harassment, and even physical abuse, according to a bombshell lawsuit that has prompted a reckoning within the gaming industry.\nThe claims paint a disturbing picture of life for female employees: rampant sexual harassment, gender discrimination, retaliation, and a “frat boy” workplace culture where men objectified women’s bodies and openly joked about rape.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/08/activision-blizzard-lawsuit-women-sexual-harassment",
+          "publishedOn": "2021-08-08T10:00:18.000Z",
+          "wordCount": 1606,
+          "title": "Activision Blizzard scandal a ‘watershed moment’ for women in the gaming industry"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/call-centre-uk-firms-accused-intrusively-monitoring-home-workers-teleperformance",
+          "author": "Peter Walker",
+          "description": "Unions say Teleperformance also asked some staff based overseas to give biometric and medical data\nA multinational call centre used by dozens of leading UK companies has been criticised for what unions have called the intrusive monitoring of home-working staff and their families, as well as asking workers to hand over biometric and medical data.\nUnions say Teleperformance, which also answers calls for a series of UK government departments, is “pushing workers’ boundaries” over long-term home working amid coronavirus, and accuse the company of having unfairly targeted several staff who objected.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/call-centre-uk-firms-accused-intrusively-monitoring-home-workers-teleperformance",
+          "publishedOn": "2021-08-08T09:56:55.000Z",
+          "wordCount": 915,
+          "title": "Call centre used by UK firms accused of intrusively monitoring home workers"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/gallery/2021/aug/08/tokyo-olympics-2020-final-day-in-pictures",
+          "author": "Pejman Faratin",
+          "description": "The best images from the final day of action in Tokyo, including cycling, volleyball and waterpolo\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/gallery/2021/aug/08/tokyo-olympics-2020-final-day-in-pictures",
+          "publishedOn": "2021-08-08T09:46:00.000Z",
+          "wordCount": 858,
+          "title": "Tokyo Olympics 2020: final day – in pictures"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/aug/08/nigel-slaters-recipes-for-couscous-with-apricots-and-mozzarella-with-tomatoes",
+          "author": "Nigel Slater",
+          "description": "Ripe fruit and a crisp herby topping for summer salads\nFirst thing in the morning, while the kettle comes to the boil, I turn the fruits that have been slowly ripening on a white dish on the kitchen counter. Each fruit – a peach, an apricot or nectarine – gets a gentle squeeze with the whole hand (never a poke with a thumb – that I witness all too often in the shops) and, more importantly, a deep sniff. When ripe, the scent of the peaches is often reminiscent of roses. Smell rather than touch is often the best way to judge if they are ready to eat.\nWhen ripe, the scent of the peaches is often reminiscent of roses\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2021/aug/08/nigel-slaters-recipes-for-couscous-with-apricots-and-mozzarella-with-tomatoes",
+          "publishedOn": "2021-08-08T09:30:18.000Z",
+          "wordCount": 1120,
+          "title": "Nigel Slater’s recipes for couscous with apricots, and mozzarella with tomatoes"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/if-you-talk-you-live-well-the-remote-sardinian-village-famed-for-longevity",
+          "author": "Angela Giuffrida in Perdasdefogu, Sardinia",
+          "description": "Books, clean air and socialising thought to have helped the latest five mark their 100th birthdays in Perdasdefogu this year\nIf there’s one thing the remote mountain village of Perdasdefogu needs to ensure it always has a steady supply of, it’s birthday candles. Already this year, 500 have been needed to decorate the birthday cakes of five residents who turned 100.\nEach milestone usually means a celebration involving the entire town. The mayor, Mariano Carta, presents a medal to the centenarian, who more often than not can recall details of their life over the past century with remarkable lucidity.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/if-you-talk-you-live-well-the-remote-sardinian-village-famed-for-longevity",
+          "publishedOn": "2021-08-08T09:27:44.000Z",
+          "wordCount": 1371,
+          "title": "‘If you talk, you live well’: the remote Sardinian village with eight centenarians"
+        },
+        {
+          "id": "https://www.theguardian.com/education/2021/aug/08/tories-squandering-olympic-legacy-as-school-pe-declines",
+          "author": "Michael Savage",
+          "description": "Sport England reveals that in some regions a third of children are active for less than 30 minutes a day\nSuccessive Tory-led governments have been accused of squandering the sporting legacy left by the 2012 Olympics in London, amid evidence that falling amounts of school time are being used for PE, and a third of children in several parts of England are active for less than 30 minutes a day.\nOfficial figures show that the share of school hours spent on PE has suffered from a slow and steady decline since 2013, from 8.4% of school time to 7.7%. New figures also reveal that, heading into the pandemic, about a third of children and young people in London, the north-west, the West Midlands and Yorkshire and the Humber were active for, on average, less than 30 minutes a day, according to Sport England.\n Continue reading...",
+          "link": "https://www.theguardian.com/education/2021/aug/08/tories-squandering-olympic-legacy-as-school-pe-declines",
+          "publishedOn": "2021-08-08T09:15:17.000Z",
+          "wordCount": 797,
+          "title": "Tories ‘squandering Olympic legacy’ as school PE declines"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/08/andrew-bridgens-mantra-urination-urination-urination",
+          "author": "Stewart Lee",
+          "description": "Conservative MP Andrew Bridgen knows the real reason for empty shelves is working-class people going to university\nDid the Conservative MP Andrew Bridgen cultivate lagoons of urine in his rural Leicestershire constituency? In 2014, the Environment Agency claimed lagoons at the Measham depot of his vegetable packaging and distribution company, AB Produce, emitted a pervasive urine smell. “It smells just like urine all the time – first thing in the morning until last thing at night,” a villager said. By 2016, more than 400 people had complained about Bridgen’s urine lagoons, which he claimed contained liquefied vegetables; they were asked to score Bridgen’s odour from one (“very faint odour”) to six (“the strongest odour you could ever encounter, which could make you physically ill”). Though the issue was resolved, whenever the Conservatives need a stink, the Creature from the Yellow Lagoon can be relied upon to kick one up.\nIn February, Disney decided to flag, but not censor, dated content in old Muppet Shows. Viewers were warned, for example, that Johnny Cash sang in front of a Confederate battle flag, now blacklisted by American retailers after Confederate battle flag fan Dylann Roof shot dead nine black churchgoers in Charleston. Bridgen, a Tamagotchi Farage, mechanically declared: “I would like to know which bunch of muppets thought this one up… If this continues kids won’t be able to watch any TV programmes which are not newly made. Is nothing safe?” The shows, previously archived, were in fact newly available, with brief statements before contentious but unaltered episodes. It will soon be illegal to be white.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/08/andrew-bridgens-mantra-urination-urination-urination",
+          "publishedOn": "2021-08-08T09:00:17.000Z",
+          "wordCount": 1213,
+          "title": "Tory values? Urination, urination, urination | Stewart Lee"
+        },
+        {
+          "id": "https://www.theguardian.com/books/2021/aug/08/how-the-art-of-the-insane-inspired-the-surrealists-and-was-twisted-by-the-nazis",
+          "author": "Charlie English",
+          "description": "The author of an acclaimed new book tells how Hitler used works by psychiatric patients in his culture war\nOn a winter’s day in 1898, a stocky young man with a handlebar moustache was hurrying along the banks of a canal in Hamburg, north Germany. Franz Karl Bühler was in a panic, fleeing a gang of mysterious agents who had been tormenting him for months. There was only one way to escape, he thought. He must swim for it. So he plunged into the dark water, close to freezing at this time of year, and struck out for the far side. When he was hauled on to the bank, soaked and shivering, it became clear to passersby that there was something odd about the man. There was no sign of his pursuers. He was confused, perhaps insane. So he was taken to the nearby Friedrichsberg “madhouse”, as it was known then, and taken inside. He would remain in the dubious care of the German psychiatric system for the next 42 years, one of hundreds of thousands of patients who lived near-invisible lives behind the asylum walls.\nBühler’s incarceration disturbed him, but it also marked the beginning of a remarkable story, one in which he played a leading role. It reveals the debt art owes to mental illness, and the way that connection was used to wage history’s most destructive culture war.\n Continue reading...",
+          "link": "https://www.theguardian.com/books/2021/aug/08/how-the-art-of-the-insane-inspired-the-surrealists-and-was-twisted-by-the-nazis",
+          "publishedOn": "2021-08-08T08:45:17.000Z",
+          "wordCount": 1689,
+          "title": "How the ‘art of the insane’ inspired the surrealists – and was twisted by the Nazis"
+        },
+        {
+          "id": "https://www.theguardian.com/tv-and-radio/2021/aug/08/jennifer-coolidge-the-white-lotus-interview",
+          "author": "Michael Hogan",
+          "description": "The Hollywood star on almost saying no to her new hit HBO drama White Lotus, doing sex scenes in her 50s – and pretending to be a Hemingway\nBoston-born Jennifer Coolidge, 59, trained at the American Academy of Dramatic Arts and joined improv comedy troupe the Groundlings. She’s a regular in director Christopher Guest’s mockumentary films, including Best in Show, A Mighty Wind and For Your Consideration. She broke into mainstream Hollywood comedy with American Pie and Legally Blonde, while her TV roles include sitcoms Joey and 2 Broke Girls. She now stars in HBO drama The White Lotus, which comes to Sky Atlantic on 16 August.\nYou’re talking from your house in New Orleans. The decor is quite unusual, isn’t it?\nFrom my movies, people assume it’ll be all pink couches and fluffy rugs. They’re surprised I live in this very old, dark house with creepy oil portraits on the walls. It’s gloomy and cavernous. I have an antique automaton called Signor Blitz. When people come round for the first time, they feel like they’re on a haunted house tour or a fairground ride. Sofia Coppola shot [southern gothic film] The Beguiled here. I throw a Halloween party every year. But hey, it’s good to confound expectations.\n Continue reading...",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/aug/08/jennifer-coolidge-the-white-lotus-interview",
+          "publishedOn": "2021-08-08T08:30:17.000Z",
+          "wordCount": 1480,
+          "title": "Jennifer Coolidge: ‘I was fatalistic… I assumed Covid was going to win’"
+        },
+        {
+          "id": "https://www.theguardian.com/education/2021/aug/08/thousands-of-pupils-easy-prey-for-gangs-when-schools-reopen",
+          "author": "Michael Savage",
+          "description": "Former children’s commissioner says the authorities are unprepared for sharp rise in exclusions\nMinisters are completely unprepared to deal with the sharp rise in exclusions, and the subsequent exploitation of thousands of children, that could happen when schools reopen next month, the former children’s commissioner has said.\nIn a stark warning about the potential number of children who have fallen “off grid” since the start of the pandemic, Anne Longfield said that tens of thousands more children could be exploited by gangs and criminals because the state had failed to keep track of them.\n Continue reading...",
+          "link": "https://www.theguardian.com/education/2021/aug/08/thousands-of-pupils-easy-prey-for-gangs-when-schools-reopen",
+          "publishedOn": "2021-08-08T08:30:16.000Z",
+          "wordCount": 853,
+          "title": "Thousands of pupils ‘easy prey for gangs’ when schools reopen"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/amia-srinivasan-the-right-to-sex-interview",
+          "author": "Rachel Cooke",
+          "description": "With her debut book, The Right to Sex, a 36-year-old Oxford don is dazzling everyone from Vogue to Prospect magazine. She discusses porn, gender dysphoria – and why her students are no snowflakes\nIf All Souls is one of the most inordinately beautiful colleges in Oxford – its bone-white gothic, best peered at by mere mortals from nearby Radcliffe Square, is the work of the great Nicholas Hawksmoor – it’s also one of the oddest and most rarefied. Famously, it has no student body. Each year, however, a small number of recent graduates who would like to become so-called prize fellows may apply to take a famously difficult and inscrutable exam during which, as a tour guide I followed earlier put it, they must “write an essay on a single word, like coconut”. As my eavesdropping also revealed, TE Lawrence, AKA Lawrence of Arabia, passed this exam, but Harold Wilson failed it.\nIn her lovely, wood-panelled room in All Souls – its current tenant wears Adidas sneakers and likes a good martini, but it still makes me think of patched corduroy and sherry – Amia Srinivasan laughs heartily. “Right,” she says. “Those guides. They always come up with things like: everyone here is a priest, or everyone is a man. Or they tell people: ‘Stephen Hawking is in there right now.’ At least the exam thing is sort of true.” Having taken it successfully herself in 2009 – she had to write around the word “reproduction” – Srinivasan was a prize fellow at the college until 2016, when she became a lecturer at UCL (the one-word riff component was abandoned the following year). Now, though, she’s back. Last January, she took her up her post as the Chichele professor of social and political theory at All Souls, a job once held by Isaiah Berlin. She is both the first woman, and the first person of colour, to hold it. At just 36, she is also its youngest ever incumbent.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/amia-srinivasan-the-right-to-sex-interview",
+          "publishedOn": "2021-08-08T08:00:17.000Z",
+          "wordCount": 3100,
+          "title": "Amia Srinivasan: ‘Sex as a subject isn’t weird. It’s very, very serious’"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/britains-covid-experts-neil-ferguson-sage-are-under-attack-but-they-are-just-doing-their-jobs",
+          "author": "Fiona Fox",
+          "description": "Those who attack Neil Ferguson and Sage’s pandemic predictions only expose their ignorance about science\n• Coronavirus – latest updates\n• See all our coronavirus coverage\nIt feels like open season on Professor Neil Ferguson right now. Sections of the media and several columnists delight in castigating the epidemiologist, or “Professor Lockdown”, for being “doomster in chief”, constantly predicting catastrophe and then back-pedalling when the worst numbers don’t materialise.\nOpponents of Covid restrictions blame Ferguson and his team at Imperial College London for persuading Boris Johnson to shake off his libertarian instincts and take us into lockdown. One presenter on new channel GB News described Ferguson as a “numpty” on air, and the very mention of his name attracts groans in some circles.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/britains-covid-experts-neil-ferguson-sage-are-under-attack-but-they-are-just-doing-their-jobs",
+          "publishedOn": "2021-08-08T08:00:16.000Z",
+          "wordCount": 1155,
+          "title": "Britain’s Covid experts Neil Ferguson Sage are under attack, but they are just doing their jobs"
+        },
+        {
+          "id": "https://www.theguardian.com/artanddesign/2021/aug/08/tate-donor-warns-ill-take-back-my-20m-francis-bacon-collection",
+          "author": "Dalya Alberge",
+          "description": "Barry Joule, a close friend of the artist, says the gallery has not kept to a pledge to stage exhibitions of the works\nWhen more than 1,200 sketches, photographs and documents from the studio of Francis Bacon were donated to the Tate in 2004, it was described as one of the most generous gifts the gallery had ever received, estimated to be worth £20m. Now the donor is threatening to cancel the gift, accusing the gallery of reneging on pledges to stage exhibitions of the material.\nBarry Joule, a longstanding friend of Bacon, had wanted the items to go to the Tate, as it had been the artist’s favourite gallery. Over the years, he kept expecting the Tate to do justice to it with an exhibition, as he says they had planned on accepting the gift. He wrote repeatedly to curatorial staff, asking when the show would happen.\n Continue reading...",
+          "link": "https://www.theguardian.com/artanddesign/2021/aug/08/tate-donor-warns-ill-take-back-my-20m-francis-bacon-collection",
+          "publishedOn": "2021-08-08T07:30:15.000Z",
+          "wordCount": 1197,
+          "title": "Tate donor warns: ‘I’ll take back my £20m Francis Bacon collection’"
+        },
+        {
+          "id": "https://www.theguardian.com/science/2021/aug/08/dark-matter-one-last-push-to-crack-the-biggest-secret-in-the-universe",
+          "author": "Robin McKie, Science Editor",
+          "description": "Scientists are pinning hopes on elaborate detectors to track the elusive material that holds galaxies together\nDeep underground, scientists are closing in on one of the most elusive targets of modern science: dark matter. In subterranean laboratories in the US and Italy, they have set up huge vats of liquid xenon and lined them with highly sensitive detectors in the hope of spotting subatomic collisions that will reveal the presence of this elusive material.\nHowever, researchers acknowledge that the current generation of detectors are reaching the limit of their effectiveness and warn that if they fail to detect dark matter with these types of machines, they could be forced to completely reappraise their understanding of the cosmos.\n Continue reading...",
+          "link": "https://www.theguardian.com/science/2021/aug/08/dark-matter-one-last-push-to-crack-the-biggest-secret-in-the-universe",
+          "publishedOn": "2021-08-08T07:15:15.000Z",
+          "wordCount": 1130,
+          "title": "Dark matter: one last push to crack the biggest secret in the universe"
+        },
+        {
+          "id": "https://www.theguardian.com/film/2021/aug/08/dev-patel-the-allure-of-the-job-is-to-change-the-slumdog-actor-talks-to-alex-moshakis",
+          "author": "Alex Moshakis",
+          "description": "From Slumdog’s quick-witted hero to a medieval warrior in The Green Knight, Dev Patel has always sought to be an everyman\nDev Patel was enjoying the ride, but people were saying the horse was too small. It was the winter of 2019. Patel was in Ireland, preparing for his latest film, The Green Knight, in which he spends long periods on horseback, slogging through wilderness. The Green Knight is directed by the American filmmaker David Lowery, who, while casting around, “got hooked on the magnificent image of Dev in armour, astride a horse,” he told me recently. The armour looked good in rehearsals, but the horse? “I was like, ‘Look! It’s amazing! Look how good I am!’” Patel recalls. “And then I’d watch the video back and be like, ‘OK, this is really embarrassing.’” The horse’s name was Sparkles. “She looked like a Shetland pony. I would sit on her and, literally, my toes would be scraping along the ground.” Eventually he was upgraded to a larger animal: “This wonderful horse called Armani. Real attitude. I’d steal apples from the hotel lobby and feed them to him.”\nPatel, in a grey jumper, his dark hair pushed back, is speaking over Zoom from Adelaide, where he is staying with his girlfriend, the Australian actor Tilda Cobham-Hervey. We have been discussing his acting process, which he describes, glibly, as “90% panic, 10% it just happens.” “On my first day I got food poisoning,” he goes on. “Finally, after all this prep, Day One comes and I’m up this bloody mountain, it’s freezing cold, I’m swamped in armour and then…” He shakes his head. “I’m about to shit myself on this horse.” He had to return to his trailer, terrified he’d let everyone down, his neuroses firing. “David’s worried. All the producers are, like, ‘What’s going on? Who is this guy?’”\n Continue reading...",
+          "link": "https://www.theguardian.com/film/2021/aug/08/dev-patel-the-allure-of-the-job-is-to-change-the-slumdog-actor-talks-to-alex-moshakis",
+          "publishedOn": "2021-08-08T07:00:16.000Z",
+          "wordCount": 2498,
+          "title": "Dev Patel: ‘The allure of the job is to change’"
+        },
+        {
+          "id": "https://www.theguardian.com/global-development/2021/aug/08/the-vanishing-peril-haunts-the-canaries-migrant-freedom-route",
+          "author": "Sam Jones in Gran Canaria",
+          "description": "Every year thousands of refugees from conflict, climate and instability in Africa board vessels in search of a new life in Europe but hundreds never arrive \nAt 6.30am on Friday 28 May, three fishermen at work four miles off the southern coast of Tobago spotted a large white boat adrift on the dawn waters of the Caribbean.\nAs they drew closer, the trio saw the boat’s shape was far from local, and noticed a strong smell coming from inside it. The body the fishermen glimpsed at the bow was enough to confirm their suspicions. They called the coastguard who, unable to dispatch a vessel, asked them to tow the boat ashore at Belle Garden beach.\n Continue reading...",
+          "link": "https://www.theguardian.com/global-development/2021/aug/08/the-vanishing-peril-haunts-the-canaries-migrant-freedom-route",
+          "publishedOn": "2021-08-08T07:00:16.000Z",
+          "wordCount": 2865,
+          "title": "‘I’d never seen a boat come in with so many bodies’: mortal cost of Atlantic migrant route"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/lauren-price-strikes-boxing-gold-to-win-britains-final-medal-of-tokyo-games",
+          "author": "Tumaini Carayol at Kokukigan Arena",
+          "description": "Price beats Li Qian for GB’s second boxing gold of Olympics\n‘I am just over the moon, dream come true,’ says Welshwoman\n\nAs the unanimous judges’ decision was announced in her favour, exactly as she and everyone else knew it would be, Lauren Price used her first moments as an Olympic champion to point up to the sky and stare proudly above.\nPrice was thinking only of her grandfather. Along with her grandmother 27 years ago, Derek and Linda had taken her in at three days old after her biological parents gave her up. They provided her with the love and foundation that allowed her to thrive. Last December, having had dementia that robbed him of his vitality, he died.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/lauren-price-strikes-boxing-gold-to-win-britains-final-medal-of-tokyo-games",
+          "publishedOn": "2021-08-08T06:31:40.000Z",
+          "wordCount": 1085,
+          "title": "Lauren Price strikes boxing gold to win Britain’s final medal of Tokyo Games"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/08/jeremy-corbyn-could-be-reinstated-as-labour-mp-under-leftwing-challenge-to-starmer",
+          "author": "Michael Savage",
+          "description": "Local party branches are being lobbied to back conference move to reinstate  whip to the former leader\nSupporters of Jeremy Corbyn have drawn up an “urgent” plan that would hand party members the powers to reinstate the former leader as a Labour MP.\nIn a sign of the tensions within the party over Corbyn’s suspension, figures on the left are circulating a change to Labour rules that would give members the final say over disciplinary action taken against MPs.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/08/jeremy-corbyn-could-be-reinstated-as-labour-mp-under-leftwing-challenge-to-starmer",
+          "publishedOn": "2021-08-08T06:15:13.000Z",
+          "wordCount": 962,
+          "title": "Jeremy Corbyn could be reinstated as Labour MP under leftwing challenge to Starmer"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/08/gentleman-joe-versus-the-maga-champion-machiavelli-would-die-laughing",
+          "author": "Simon Tisdall",
+          "description": "The longer President Biden plays the nice guy, the more harm Donald Trump will do to America’s democracy and international standing\nNine months after the election he comprehensively lost, the spectre of Donald Trump – darkly menacing, subversive and apparently immune from prosecution – continues to cast a shadow over US democracy and America’s global standing, distorting policy and poisoning political life. How can this be? Why is this horror movie still running?\nTrumpism, like other fascist variants, is a disease, a blight – a noxious far-right populist-nationalist miasma that taints and rots all it touches. Older Europeans share a folk memory of fascism. But too many Americans just don’t get it. The will to stamp out this sickness before it returns in more virulent form is alarmingly lacking.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/08/gentleman-joe-versus-the-maga-champion-machiavelli-would-die-laughing",
+          "publishedOn": "2021-08-08T06:10:13.000Z",
+          "wordCount": 1161,
+          "title": "Gentleman Joe versus the Maga champion? Machiavelli would die laughing…"
+        },
+        {
+          "id": "https://www.theguardian.com/travel/2021/aug/08/10-best-city-break-hotels-britain-uk",
+          "author": "Annabelle Thorpe",
+          "description": "Designer hotels, chic boutiques and arty boltholes for getaways from Bristol to Edinburgh\nScotland’s first member of the Design Hotels group, Market Street won new hotel of the year at the 2020 Scottish Hotel Awards. It was rewarded for its innovative architecture, and slick locals-meet-visitors vibe. Its X-factor is the top-floor lounge and reception – ensuring that your check-in experience comes with panoramic views of the city – along with the Nor’ Loft champagne bar, where breakfast and afternoon tea are also served. Rooms are comfortably unfussy and have a complimentary minibar and luxury vegan bathroom treats. Edinburgh’s picturesque old town is on your doorstep. \n• Doubles from £141 B&B, marketstreethotel.co.uk\n Continue reading...",
+          "link": "https://www.theguardian.com/travel/2021/aug/08/10-best-city-break-hotels-britain-uk",
+          "publishedOn": "2021-08-08T06:00:15.000Z",
+          "wordCount": 1109,
+          "title": "10 of the best hotels for a British city break"
+        },
+        {
+          "id": "https://www.theguardian.com/education/2021/aug/08/public-schoolboys-boris-johnson-sad-little-boys-richard-beard",
+          "author": "Richard Beard",
+          "description": "Our elite schools foster emotional austerity and fierce clique loyalty. Here a privately educated writer of the prime minister’s generation reveals the lasting damage public schools do\n\nScroll down for a Q&A with Richard Beard\n\nI had a feeling I couldn’t immediately place. I wanted to go out but wasn’t allowed. Shelves were emptying at the nearest supermarket and instead of fresh fruit and vegetables I was eating British comfort food – sausages and mash, pie and beans. My freedom to make decisions like an adult was limited. I wondered when I’d see my mum again.\nMarch 2020, first week of the first lockdown: I was 53 years old and felt like I was back at boarding school. Which wouldn’t have mattered, but for the fact that at a time of national crisis my generation of boarding-school boys found themselves in charge.\n Continue reading...",
+          "link": "https://www.theguardian.com/education/2021/aug/08/public-schoolboys-boris-johnson-sad-little-boys-richard-beard",
+          "publishedOn": "2021-08-08T06:00:15.000Z",
+          "wordCount": 4398,
+          "title": "Why public schoolboys like me and Boris Johnson aren’t fit to run our country"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/pride-and-anxiety-mingle-in-japan-as-olympic-medal-tally-and-covid-cases-rise",
+          "author": "Justin McCurry in Izu",
+          "description": "Outdoor events have drawn huge turnouts in Tokyo despite public concern over coronavirus\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nJapan broke two records last week. On Thursday, the day its athletes took their medal haul to a level not seen in the country’s Olympic history, the host city reported 5,042 coronavirus cases – the highest daily total since the start of the pandemic.\nJapan has continued to widen the gap between its Tokyo 2020 medal count and Rio, where it won 41. Now, with 56, it is third in the overall table behind China and the US on the eve of the closing ceremony.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/pride-and-anxiety-mingle-in-japan-as-olympic-medal-tally-and-covid-cases-rise",
+          "publishedOn": "2021-08-08T06:00:13.000Z",
+          "wordCount": 1254,
+          "title": "Pride and anxiety mingle in Japan as Olympic medal tally and Covid cases rise"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/08/sunday-with-lesley-manville-champagne-on-a-sunday-is-always-a-treat-",
+          "author": "Michael Segalov",
+          "description": "The actor describes her pleasant laid-back day of rest with kitchen karaoke and friends\nHow does Sunday start? With a gasp as I wake up, followed by that relief of remembering I’ve no work commitments. I try to lie in until 9am, then make a fresh ginger and lemon drink; clear and cleansing. I’ll pop to the local bakery and luxuriate in my treats. And Radio 4 is on, as it remains all morning.\nDo you work? We tend not to film, but there’s always Monday morning. I’ll often punctuate Sundays by reading scripts, but somehow I don’t mind it. I’m not great at working in concentrated spurts, I’m best in bite-size pieces: a half hour stint followed by a croissant suits me.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/08/sunday-with-lesley-manville-champagne-on-a-sunday-is-always-a-treat-",
+          "publishedOn": "2021-08-08T05:45:13.000Z",
+          "wordCount": 538,
+          "title": "Sunday with Lesley Manville: ‘Champagne on a Sunday is always a treat’"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/aug/08/jay-rayner-restaurant-review-burnt-orange-in-brighton-delivers-on-its-smoky-promise",
+          "author": "Jay Rayner",
+          "description": "Heat-blistered dishes raise the temperature at Burnt Orange in Brighton\nBurnt Orange, 59 Middle Street, Brighton, East Sussex BN1 1AL (01273 929923). Starters £4-£10, mains £8-£19, desserts £4-£7, wines from £22\nBrown foods are the best. We know this. Brown foods are about caramelised sugars and the Maillard reaction; they’re hefty flavours, emphasised and accentuated. They conjure images of prehistoric campfires and the lick of the flame before the lick of the tongue. So much about Brighton’s Burnt Orange, which opened in June, is calculated to trigger these lustful, crisped and crispy thoughts. The name was given to a shade of orange in 1915 and is, say web sources I’ve decided to trust, designed to evoke thoughts of leaping flames.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2021/aug/08/jay-rayner-restaurant-review-burnt-orange-in-brighton-delivers-on-its-smoky-promise",
+          "publishedOn": "2021-08-08T05:00:13.000Z",
+          "wordCount": 1607,
+          "title": "Burnt Orange, Brighton: ‘Delivers on its smoky promise’ – restaurant review"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/08/ask-philippa-perry-my-brother-has-two-new-children-and-it-is-making-me-sad",
+          "author": "Philippa Perry",
+          "description": "When you want to be a parent and can’t, this is a loss to be mourned, says Philippa Perry\nThe question I’m a 48-year-old woman in a loving relationship. I don’t have any children. I have two brothers – my younger one has four children with his partner. The other, who is older than me and gay (and my half-brother), has recently gone abroad with his partner and had two children via a surrogate, with both fathers having had a biological child each.\nI’ve always supported people’s rights in principle, especially gay rights, yet this has opened a chasm of sadness in me, not having had children. It also makes me feel like the odd one out among my siblings as they are both now busy with their respective families.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/08/ask-philippa-perry-my-brother-has-two-new-children-and-it-is-making-me-sad",
+          "publishedOn": "2021-08-08T05:00:13.000Z",
+          "wordCount": 1200,
+          "title": "My brother has two new children – and it’s making me sad"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/macron-tells-critics-vaccine-passport-will-protect-all-our-freedoms",
+          "author": "Kim Willsher in Paris",
+          "description": "French protests expected to enter fourth week but president’s hardline strategy is succeeding\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nWhen the Great Plague struck Marseille in 1720, killing more than half of the city’s population, travellers were ordered to carry a “bill of health” and ships arriving at the Mediterranean port underwent a 40-day cordon sanitaire or quarantine. As a gateway for trade, the city authorities struggled to find a delicate balance between halting the spread of the disease and damaging vital commerce.\nThree hundred years on, President Emmanuel Macron is walking an equally tricky tightrope just eight months before he seeks re-election in April 2022. And unlike the ancient Marseillais, Macron has to answer to social media.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/macron-tells-critics-vaccine-passport-will-protect-all-our-freedoms",
+          "publishedOn": "2021-08-08T05:00:12.000Z",
+          "wordCount": 1153,
+          "title": "Macron tells critics: vaccine passport will protect all our freedoms"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/07/california-drought-water-mendocino-tourism",
+          "author": "Maanvi Singh in Mendocino",
+          "description": "Lush Mendocino draws nearly 2m visitors a year. But drought is threatening to sink its key industry\nOn many mornings, the village of Mendocino vanishes into a thick white fog that covers its seaside cliffs, redwood trees and quaint Victorian houses.\nCarved into California’s northern coast, the historic hamlet’s rugged beaches, scenic hikes, charming bed-and-breakfasts and boutique galleries draw in 1.8m visitors each year.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/07/california-drought-water-mendocino-tourism",
+          "publishedOn": "2021-08-08T05:00:12.000Z",
+          "wordCount": 1699,
+          "title": "The California tourist town that’s running out of water: ‘It’s a shock’"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/08/helpturkey-hashtag-under-investigation-for-spreading-fear-about-wildfires",
+          "author": "Agence France-Presse",
+          "description": "Stung by claims of a bungled response to devastating fires, president Recep Tayyip Erdoğan says criticism is orchestrated by foreign powers\nProsecutors in Turkey have launched an investigation into a social media hastag critical of the government’s allegedly bungled response to the country’s devastating wildfires, accusing it of spreading “anxiety and fear”.\nThe hashtag HelpTurkey exploded when rightwing president Recep Tayyip Erdoğan was pictured on a tour of the damaged region under heavy police escort, tossing bags of tea to locals out of a moving bus in the middle of the night while a megaphone announced his presence.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/08/helpturkey-hashtag-under-investigation-for-spreading-fear-about-wildfires",
+          "publishedOn": "2021-08-08T04:21:35.000Z",
+          "wordCount": 761,
+          "title": "HelpTurkey hashtag under investigation for ‘spreading fear’ about wildfires"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/08/jason-kenny-wins-seventh-gold-to-become-most-decorated-british-olympian",
+          "author": "Justin McCurry at Izu Velodrome",
+          "description": "Cycling great defends men’s keirin gold at Tokyo 2020\nKenny also becomes first Briton to win nine Olympic medals\n\nJason Kenny has become Britain’s most decorated Olympian after winning gold in the men’s keirin at Tokyo 2020, a victory that has put on hold talk of an end to his glittering career on the track.\nKenny, who conceded he was “struggling” during the men’s sprint earlier in the week, now has seven golds, one more than his fellow keirin specialist Sir Chris Hoy. Those, plus two silvers, have also taken him past Sir Bradley Wiggins, who is on eight medals.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/08/jason-kenny-wins-seventh-gold-to-become-most-decorated-british-olympian",
+          "publishedOn": "2021-08-08T03:33:34.000Z",
+          "wordCount": 1083,
+          "title": "Jason Kenny’s seventh gold makes him most decorated GB Olympian"
+        },
         {
           "id": "https://www.theguardian.com/sport/live/2021/aug/07/tokyo-olympics-closing-ceremony-marathon-cycling-boxing-basketball-live",
           "author": "Tom Lutz",
