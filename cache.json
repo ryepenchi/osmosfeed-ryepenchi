@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346418",
+          "author": "Chris Coyier",
+          "description": "Brian Kardell shares a bit about the progress of bringing \"Tabs\" to HTML. We kinda think we know what they are, but you have to be really specific when dealing with specs and defining them. It's tricky.\nThe post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/SpicySections.html",
+          "publishedOn": "2021-08-16T23:31:01.000Z",
+          "wordCount": 1914,
+          "title": "Tabs in HTML?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346686",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed dug into shape “cutouts” the other day. Imagine a shape with another smaller shape carved out of it. In his typical comprehensive way, Ahmad laid out the situation well—looking at tricky situations that complicate things. \nThe first thing …\nThe post Cutouts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ishadeed.com/article/thinking-about-the-cut-out-effect/",
+          "publishedOn": "2021-08-16T20:49:09.000Z",
+          "wordCount": 2944,
+          "title": "Cutouts"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346318",
+          "author": "Alvaro Montoro",
+          "description": "HTML is not a programming language.\nI’ve heard that sentence so many times and it’s tiring. Normally, it is followed by something like, It doesn’t have logic, or, It is not Turing complete,.so… obviously it is not a programming …\nThe post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-is-not-a-programming-language/",
+          "publishedOn": "2021-08-16T14:44:35.000Z",
+          "wordCount": 3453,
+          "title": "HTML is Not a Programming Language?"
+        },
+        {
           "id": "https://css-tricks.com/?p=346665",
           "author": "Chris Coyier",
           "description": "Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. \nReminds …\nThe post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -505,6 +532,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
+          "author": "hello@smashingmagazine.com (Cache Merril)",
+          "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
+          "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
+          "publishedOn": "2021-08-16T06:55:00.000Z",
+          "wordCount": 2960,
+          "title": "How To Develop Your Business’ Technology Roadmap",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
           "author": "hello@smashingmagazine.com (Janet John)",
           "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
@@ -819,6 +860,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6119348e72231b077cdb0a55",
+          "author": null,
+          "description": "Are you preparing for coding interviews? I designed a crash course series to help you out.  I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the second course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,",
+          "link": "https://www.freecodecamp.org/news/coding-interview-tree-traversal-crash-course-the-only-one-youll-ever-need/",
+          "publishedOn": "2021-08-16T23:49:03.000Z",
+          "wordCount": 1639,
+          "title": "Coding Interview Tree Traversal Crash Course – The Only One You&#x27;ll Ever Need"
+        },
+        {
+          "id": "6114c87172231b077cdae3f2",
+          "author": null,
+          "description": "Let's begin with a quick question: How did you land on this article and this site today?  Well, quite literally, by clicking or tapping on a link, right? That's how powerful this element is – it will get you to any part of the Internet just by clicking on a link.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-beginners/",
+          "publishedOn": "2021-08-16T23:33:49.000Z",
+          "wordCount": 1475,
+          "title": "What is a Hyperlink? HTML Links Explained with Examples"
+        },
+        {
+          "id": "611a2ac772231b077cdb0e58",
+          "author": null,
+          "description": "If you're a JavaScript beginner, you might be struggling to understand what a promise really is.  I recently published this as a thread on Twitter and was blown away by the responses. So I decided to expand this into an introductory tutorial on JavaScript promises. I have read a lot",
+          "link": "https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/",
+          "publishedOn": "2021-08-16T22:56:20.000Z",
+          "wordCount": 1738,
+          "title": "What is a Promise? JavaScript Promises for Beginners"
+        },
+        {
+          "id": "61167e3d72231b077cdafc14",
+          "author": null,
+          "description": "There are many repetitive tasks that we have to do every day. And they can be a bit boring, difficult, and monotonous.  But instead of laboring away at those daily tasks, you can delegate them so someone or something else does them for you. That way, you can have more",
+          "link": "https://www.freecodecamp.org/news/use-github-actions-to-automate-android-development/",
+          "publishedOn": "2021-08-16T20:18:40.000Z",
+          "wordCount": 2038,
+          "title": "How to Use GitHub Actions to Automate Android App Development"
+        },
+        {
+          "id": "611772ea72231b077cdafd56",
+          "author": null,
+          "description": "Whenever you visit a website, you'll probably click on something like a link or button.  Links take you to a certain part of the page, another page of the website, or another website entirely. Buttons, on the other hand, are usually manipulated by JavaScript events so they can trigger certain",
+          "link": "https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/",
+          "publishedOn": "2021-08-16T17:58:05.000Z",
+          "wordCount": 2613,
+          "title": "HTML Button onclick – JavaScript Click Event Tutorial"
+        },
+        {
+          "id": "6107bffb3306a507d1bfc543",
+          "author": null,
+          "description": "If you are analysing data in Excel and need to set the value of a cell conditionally, you can use an IF statement to do so. The syntax is IF(logical_test, [value_if_true], [value_if_false]), where: logical_test is an expression that evaluates to TRUE or FALSE,",
+          "link": "https://www.freecodecamp.org/news/if-statement-excel-if-function-examples/",
+          "publishedOn": "2021-08-16T16:10:37.000Z",
+          "wordCount": 808,
+          "title": "IF Statement Excel – If Function Examples"
+        },
+        {
+          "id": "6106498a3306a507d1bfbff1",
+          "author": null,
+          "description": "You have just decided to learn how to code and you want to pursue a career in web development. But what exactly is web development? Where can you start learning? How much do web developers make? How do you get a job as a web developer? When I first started",
+          "link": "https://www.freecodecamp.org/news/what-is-web-development-how-to-become-a-web-developer-career-path/",
+          "publishedOn": "2021-08-16T16:10:01.000Z",
+          "wordCount": 1538,
+          "title": "What is Web Development? How to Become a Web Developer [2021 Career Path]"
+        },
+        {
+          "id": "6114b68972231b077cdae2e6",
+          "author": null,
+          "description": "Node.js is one of the most popular back-end technologies out there right now. It is friendly, robust, and well-maintained and it's not going anywhere anytime soon.  To help you learn how to use it effectively, in this article we will create a simple server using Node with Babel configured",
+          "link": "https://www.freecodecamp.org/news/setup-babel-in-nodejs/",
+          "publishedOn": "2021-08-16T13:58:10.000Z",
+          "wordCount": 1038,
+          "title": "How to Setup Babel in Node.js"
+        },
+        {
+          "id": "6040a6a7a7946308b768148c",
+          "author": null,
+          "description": "Are you struggling to learn to code? If you are, I want to help. So I have collected some tips from my personal experience to guide you so that you won't struggle unnecessarily again.‌‌ Why is Learning to Code Hard?Learning to code can be very hard especially for beginners.",
+          "link": "https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/",
+          "publishedOn": "2021-08-16T13:58:01.000Z",
+          "wordCount": 2566,
+          "title": "Why Learning to Code is Hard – And How to Make it Easier"
+        },
+        {
+          "id": "6114ce1f72231b077cdae411",
+          "author": null,
+          "description": "Have you ever noticed the \"HTTP\" or \"HTTPS\" at the beginning of a URL in your browser? Well, what is HTTP and what is HTTPS? How are they different?  In order to understand the differences, it helps to demistify to meaning of these two terms and",
+          "link": "https://www.freecodecamp.org/news/what-is-https-http-vs-https-meaning-and-how-it-works/",
+          "publishedOn": "2021-08-16T13:57:44.000Z",
+          "wordCount": 1813,
+          "title": "What is HTTPS? HTTP vs HTTPS Meaning and How it Works"
+        },
         {
           "id": "610655c93306a507d1bfc0e6",
           "author": null,
@@ -1744,6 +1875,789 @@
       "feedUrl": "https://www.theguardian.com/mostviewed/rss",
       "siteUrl": "https://www.theguardian.com/uk",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/world/live/2021/aug/17/afghanistan-live-news-us-says-kabul-airport-reopens-as-biden-defends-withdrawal",
+          "author": "Helen Sullivan",
+          "description": "‘I stand squarely behind my decision,’ says Biden; Kabul airport reopens with US in charge of air traffic control; Taliban patrol Kabul\n\nKabul airport: footage appears to show Afghans falling from plane\nWho are the Taliban and how will they govern this time?\nExpected Afghan influx reopens divisions over refugees in Europe\n‘We see silence filled with fear’: female Afghan journalists plead for help\nWest has two weeks to evacuate, say sources\nUS troops to stay until Americans and eligible Afghans evacuated, says Biden\n\n 1.56am BST \nThis is a worthwhile report from the ground in Kabul – outside the airport. \nCNN speaks to Taliban fighters as they take over Kabul @clarissaward reports pic.twitter.com/3ouNT4Bmbc\n 1.48am BST \nBiden has also addressed terrorism fears, saying on Twitter, “Today the terrorist threat has metastasized beyond Afghanistan. We conduct effective counterterrorism missions against terrorist groups in multiple countries where we don’t have a permanent military presence. If necessary, we will do the same in Afghanistan.” \n Continue reading...",
+          "link": "https://www.theguardian.com/world/live/2021/aug/17/afghanistan-live-news-us-says-kabul-airport-reopens-as-biden-defends-withdrawal",
+          "publishedOn": "2021-08-17T00:56:32.000Z",
+          "wordCount": 4098,
+          "title": "Afghanistan live news: Biden defends withdrawal as Taliban patrol Kabul"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/17/uk-homes-low-carbon-hydrogen-economy-jobs",
+          "author": "Jillian Ambrose Energy correspondent",
+          "description": "Government sets out plan for low-carbon economy that could also create thousands of jobs\nAbout 3 million households in the UK could begin using low-carbon hydrogen to heat their homes and cook rather than fossil fuel gas under government proposals to attract at least £4bn of investment to the hydrogen economy by 2030.\nThe government has published its long-awaited plans for a UK-wide hydrogen economy, which it says could be worth £900m and create more than 9,000 high-quality jobs by the end of the decade, rising to £13bn and 100,000 new jobs by 2050.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/17/uk-homes-low-carbon-hydrogen-economy-jobs",
+          "publishedOn": "2021-08-16T23:01:01.000Z",
+          "wordCount": 806,
+          "title": "Millions of UK homes could be heated with hydrogen by 2030"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/16/afghanistan-withdrawal-joe-biden-crisis",
+          "author": "David Smith in Washington",
+          "description": "President shifts blame to his predecessor, Donald Trump, and the unwillingness of Afghan forces to fight the Taliban\n\nUS politics – live coverage\n\nA defiant Joe Biden has insisted that he stands “squarely behind” his decision to pull US forces rapidly out of Afghanistan while attempting to shift blame for events unfolding there to his predecessor, Donald Trump, and the unwillingness of Afghan forces to fight the Taliban.\nBiden is facing the biggest crisis of his presidency after the stunning fall of Afghanistan to the extremist insurgent force caught his administration flat-footed and raised fears of a humanitarian catastrophe.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/16/afghanistan-withdrawal-joe-biden-crisis",
+          "publishedOn": "2021-08-16T22:59:19.000Z",
+          "wordCount": 1186,
+          "title": "Defiant Biden stands ‘squarely behind’ decision to withdraw from Afghanistan"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/16/reanne-evans-snubs-ex-partner-mark-allen-before-british-open-grudge-match",
+          "author": "Aaron Bower",
+          "description": "Evans refuses pre-match handshake with Allen\nAllen eventually wins tightly fought first-round encounter 3-2\n\nAny notion that the most extraordinary grudge match in snooker history would fail to live up to the pre-game billing was dispelled before a ball had even been potted. Snooker has had its fair share of eagerly anticipated showdowns in recent times but none have had a backdrop and subplot quite like this one. In the end, the match delivered just as much as the drama did.\nHow Barry Hearn, snooker’s grand supremo and lover of any off-baize action that generates publicity, must have grinned when Reanne Evans refused Mark Allen’s offer of a handshake before the break-off in their first-round match at the British Open in Leicester. There is, of course, way more to this story than ranking points, prize money or head-to-head meetings on the table but even that lit the touch-paper in a way nobody could have imagined.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/16/reanne-evans-snubs-ex-partner-mark-allen-before-british-open-grudge-match",
+          "publishedOn": "2021-08-16T22:56:26.000Z",
+          "wordCount": 803,
+          "title": "Reanne Evans snubs ex-partner Mark Allen before British Open grudge match"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/16/naomi-osaka-in-tears-during-first-press-conference-since-french-open",
+          "author": "Agencies",
+          "description": "Reporter accused Osaka of using media when it suits her\nOsaka: ‘I’m figuring it out at the same time as you are’\n\nNaomi Osaka broke down in tears in her first press conference since withdrawing from the French Open for mental health reasons. The four-times grand slam champion pulled out of Roland Garros on 31 May after being threatened with expulsion over refusing to fulfil media duties.\nThe 23-year-old missed Wimbledon but returned to action for the Olympics in her native Japan, and agreed to take part in her first press conference in almost three months on Monday.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/16/naomi-osaka-in-tears-during-first-press-conference-since-french-open",
+          "publishedOn": "2021-08-16T22:11:19.000Z",
+          "wordCount": 701,
+          "title": "Naomi Osaka in tears during first press conference since French Open"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/afghanistan-kabul-airport-joe-biden-taliban-deaths",
+          "author": "Julian Borger in Washington",
+          "description": "US president makes televised address and warns Taliban of ‘devastating’ response to any attempt to attack operation\nJoe Biden has said that US troops in Kabul would stay long enough to evacuate American citizens and eligible Afghan allies, and warned the Taliban there would be a “devastating” response to any attempt to attack or disrupt the operation.\n Related: Defiant Biden stands ‘squarely behind’ decision to withdraw from Afghanistan  \n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/afghanistan-kabul-airport-joe-biden-taliban-deaths",
+          "publishedOn": "2021-08-16T22:10:12.000Z",
+          "wordCount": 1413,
+          "title": "US troops to stay until Americans and eligible Afghans evacuated, says Biden"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/16/three-quarters-g20-earth-close-to-tipping-point-global-survey-climate-crisis",
+          "author": "Jonathan Watts",
+          "description": "Global survey finds 74% also want climate crises and protecting nature prioritised over jobs and profit\nThree-quarters of people in the world’s wealthiest nations believe humanity is pushing the planet towards a dangerous tipping point and support a shift of priorities away from economic profit, according to a global survey.\nThe Ipsos Mori survey for the Global Commons Alliance (GCA) also found a majority (58%) were very concerned or extremely concerned about the state of the planet. \n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/16/three-quarters-g20-earth-close-to-tipping-point-global-survey-climate-crisis",
+          "publishedOn": "2021-08-16T22:01:00.000Z",
+          "wordCount": 1201,
+          "title": "Humans ‘pushing Earth close to tipping point’, say most in G20"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/16/lake-mead-drought-reservoir-water-level-cuts",
+          "author": "Maanvi Singh",
+          "description": "Officials issue first-ever declaration of tier 1 shortage at Lake Mead as it falls to lowest level since its creation\nOfficials have declared a dire water shortage at Lake Mead, the US’s largest reservoir, triggering major water cuts in Arizona and other western states. The US Bureau of Reclamation’s first-ever declaration of a “tier 1” shortage represents an acknowledgment that after a 20-year drought, the reservoir that impounds the Colorado River at the has receded to its lowest levels since it was created in the 1930s.\nAlready, the lake is at about 35% capacity – the white “bathtub ring” that lines its perimeter indicates where the water level once was. The lake’s level is projected to fall even lower by the end of the year, prompting cutbacks in January 2022, the Bureau of Reclamation announced Monday.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/16/lake-mead-drought-reservoir-water-level-cuts",
+          "publishedOn": "2021-08-16T21:46:14.000Z",
+          "wordCount": 963,
+          "title": "Biggest US reservoir declares historic shortage, forcing water cuts across west"
+        },
+        {
+          "id": "https://www.theguardian.com/science/2021/aug/16/swiss-researchers-calculate-pi-to-new-record-of-628tn-figures",
+          "author": "AFP in Geneva",
+          "description": "Supercomputer calculation took 108 days and nine hours – 3.5 times as fast as previous record\nSwiss researchers have calculated the mathematical constant pi to a new world-record level of exactitude, hitting 62.8tn figures using a supercomputer.\n“The calculation took 108 days and nine hours,” the Graubuenden University of Applied Sciences said in a statement.\n Continue reading...",
+          "link": "https://www.theguardian.com/science/2021/aug/16/swiss-researchers-calculate-pi-to-new-record-of-628tn-figures",
+          "publishedOn": "2021-08-16T21:39:14.000Z",
+          "wordCount": 359,
+          "title": "Swiss researchers calculate pi to new record of 62.8tn figures"
+        },
+        {
+          "id": "https://www.theguardian.com/weather/2021/aug/16/haiti-braces-for-storm-grace-as-pm-warns-earthquake-death-toll-could-rise",
+          "author": "Tom Phillips and Jean Daniel Delone in Port-au-Prince and Karen McVeigh",
+          "description": "Tropical depression could pass over areas already hit by Saturday’s quake that killed at least 1,419\nMedical teams and aid workers were racing to save lives and provide food and shelter on Monday amid fears that the official death toll from Saturday’s earthquake could rise further and a tropical depression bore down on the crisis-stricken Caribbean country.\nThe official death toll rose on Monday to 1,419, and at least 6,000 were injured by the 7.2-magnitude quake – a tremor even more powerful than the 7.0-magnitude earthquake that killed more than 200,000 Haitians in 2010 and levelled much of Port-au-Prince.\n Continue reading...",
+          "link": "https://www.theguardian.com/weather/2021/aug/16/haiti-braces-for-storm-grace-as-pm-warns-earthquake-death-toll-could-rise",
+          "publishedOn": "2021-08-16T21:15:26.000Z",
+          "wordCount": 1135,
+          "title": "Haiti braces for storm as officials fear quake death toll could rise"
+        },
+        {
+          "id": "https://www.theguardian.com/tv-and-radio/2021/aug/16/the-white-lotus-review-a-magnificently-monstrous-look-at-how-the-other-half-live",
+          "author": "Lucy Mangan",
+          "description": "Rich guests – including a spaced-out Jennifer Coolidge – rub shoulders with downtrodden workers on a holiday from hell, in Mike White’s superb satire about inequality\nThe White Lotus is Big Little Lies with another two and a half turns of the screw – an equally sumptuously set miniseries with a mystery fatality at its heart. But this time, its subject is the monstrousness of affluence rather than mere snobbery.\nWe open with newlywed Shane (Jake Lacy) batting away questions from a friendly couple in an airport departure lounge about where his wife is, as he gazes down at cargo labelled “Human remains” that is being loaded on to their flight. Then we flash back a week to his arrival (with his starry-eyed wife Rachel – Alexandra Daddario) at the exclusive White Lotus spa in Hawaii, as part of a similarly Waspy group of guests.\n Continue reading...",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/aug/16/the-white-lotus-review-a-magnificently-monstrous-look-at-how-the-other-half-live",
+          "publishedOn": "2021-08-16T21:05:47.000Z",
+          "wordCount": 1070,
+          "title": "The White Lotus review – a magnificently monstrous look at how the other half live"
+        },
+        {
+          "id": "https://www.theguardian.com/music/2021/aug/16/bob-dylan-accusations-sexual-abuse-lawsuit",
+          "author": "Adrian Horton",
+          "description": "A lawsuit, filed Friday, alleges the Nobel laureate plied a girl with drugs and alcohol and abused her over six weeks in 1965\nA new lawsuit alleges that Bob Dylan, the Nobel-winning folk singer-songwriter, plied a 12-year-old girl with drugs and alcohol before sexually abusing her in 1965.\nThe lawsuit alleges that the Times They Are A-Changin’ singer “befriended and established an emotional connection with the plaintiff”, identified in Manhattan supreme court papers, obtained by the Guardian, only as “JC” and groomed her over the course of six weeks in April and May 1965.\n Continue reading...",
+          "link": "https://www.theguardian.com/music/2021/aug/16/bob-dylan-accusations-sexual-abuse-lawsuit",
+          "publishedOn": "2021-08-16T21:00:54.000Z",
+          "wordCount": 576,
+          "title": "Bob Dylan accused of sexually abusing a 12-year-old in 1965"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/blog/2021/aug/16/england-beaten-bullied-by-team-moulded-in-virat-kohli-image",
+          "author": "Jonathan Liew at Lord's",
+          "description": "Victory came in the modern India way – with a swagger and without taking a backward step\nOllie Robinson emerges from the darkness of the Long Room on his way out to the middle. England are 90 for seven and Robinson is about to face the hat-trick ball from Mohammed Siraj. All around the ground, India fans are in raptures. Standing at first slip, Virat Kohli is waving his arms, conducting them like an orchestra. The prevailing smell is of English blood.\nAs Robinson descends the pavilion steps, a couple of India players in tracksuits are coming back in the opposite direction, having just been out on the field delivering drinks. Robinson stops and waits for them to step aside. They do not step aside. Robinson waits. They wait. Eventually, after a fashion, they sort of awkwardly squeeze past each other. The whole encounter lasts barely a couple of seconds and yet as a motif for this bruising, absorbing final day it is hard to beat.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/blog/2021/aug/16/england-beaten-bullied-by-team-moulded-in-virat-kohli-image",
+          "publishedOn": "2021-08-16T20:18:46.000Z",
+          "wordCount": 1112,
+          "title": "England beaten and bullied by a team moulded in Virat Kohli’s image | Jonathan Liew"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/there-are-no-women-kabul-street-stayed-home-fear-beaten-taliban-fighters",
+          "author": "Guardian reporter in Kabul and Emma Graham-Harrison",
+          "description": "In the Afghan capital women stayed home in fear of being beaten by the Taliban for not covering themselves\n\nAfghanistan live news: troops work to restart Kabul flights\n\nThe streets of Kabul were emptied of women on Monday, the first full day of Taliban rule across Afghanistan, as Taliban gunmen patrolled in cars seized by police, confiscated guns from security guards and urged shopkeepers and government employees back to work.\nChaos unfolded at the airport, where troops used guns and helicopters to clear the runways, and several people died in frantic last-minute attempts to escape by clinging to departing planes.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/there-are-no-women-kabul-street-stayed-home-fear-beaten-taliban-fighters",
+          "publishedOn": "2021-08-16T19:30:19.000Z",
+          "wordCount": 1044,
+          "title": "‘There are no women in the streets’ – the day life changed in Kabul"
+        },
+        {
+          "id": "https://www.theguardian.com/football/2021/aug/16/two-board-members-leave-mauritius-fa-over-handling-of-investigation",
+          "author": "Ed Aarons and Romain Molina",
+          "description": "Phone was allegedly recording; two board members resign\nPresident Samir Sobha told to ‘take responsibility’\n\nThe president of the Mauritius Football Association has denied it is in turmoil after two board members stepped down over its handling of accusations a mobile phone in video recording mode was hidden in the women’s toilets at the association’s headquarters.\nPolice are continuing to investigate the claims made by the administrative secretary, Mila Sinnasamy, that the mobile phone discovered on 30 July was concealed in a blue basket placed in the water tank of the -women’s toilet at the MFA’s headquarters in Trianon, 15km from the capital, Port Louis.\n Continue reading...",
+          "link": "https://www.theguardian.com/football/2021/aug/16/two-board-members-leave-mauritius-fa-over-handling-of-investigation",
+          "publishedOn": "2021-08-16T19:20:23.000Z",
+          "wordCount": 654,
+          "title": "Mauritius’s FA in turmoil as police investigate phone in women’s toilets"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/picture/2021/aug/16/steve-bell-on-the-war-on-terror-cartoon",
+          "author": "Steve Bell",
+          "description": "Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/picture/2021/aug/16/steve-bell-on-the-war-on-terror-cartoon",
+          "publishedOn": "2021-08-16T19:00:44.000Z",
+          "wordCount": 387,
+          "title": "Steve Bell on the war on terror – cartoon"
+        },
+        {
+          "id": "https://www.theguardian.com/stage/2021/aug/16/rituel-review-multistory-edinburgh",
+          "author": "Róisín O'Brien",
+          "description": "MultiStory, Edinburgh\nLife moves fast in Matsena Productions’ piece, which charts boyhood and the clumsiness of adolescence\nPerfectly suited to the new outdoor stage of MultiStory, Rituel, from Matsena Productions, is a captivating journey through the ebullience of childhood and into the clumsiness of adolescence. It’s devised and performed by Shane David-Joseph, Johnny Hail, Charlie Layburn, and Anthony and Kel Matsena, with the last two leading the creative process.\nAfter casually welcoming a drifting audience that filter in and orders drinks to their bubbled seats – this is no ordinary Edinburgh fringe – the cast ripple into action. Performing as toddlers who subsequently grow into young men, they race from playground antics to puberty and drunken misadventures with boyish flair.\n Continue reading...",
+          "link": "https://www.theguardian.com/stage/2021/aug/16/rituel-review-multistory-edinburgh",
+          "publishedOn": "2021-08-16T19:00:44.000Z",
+          "wordCount": 538,
+          "title": "Rituel review – toddlers become teenagers in a captivating show"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/aug/16/zakia-khudadadis-hopes-of-becoming-first-afghan-female-paralympian-dashed",
+          "author": "Paul MacInnes",
+          "description": "Taliban takeover strands team for Tokyo in Afghanistan\nKhudadadi (taekwondo) and Hossain Rasouli (discus) miss out\n\nAfghanistan will not compete at this month’s Paralympics in Tokyo, after the team were unable to leave Kabul as a result of the Taliban’s conquest of the country.\nZakia Khudadadi had been set to become the country’s first female Paralympian when the taekwondo fighter was named alongside the discus thrower Hossain Rasouli in a two-person team. On Monday, however, it was confirmed that neither athlete had been able to take their scheduled flight out of the country.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/aug/16/zakia-khudadadis-hopes-of-becoming-first-afghan-female-paralympian-dashed",
+          "publishedOn": "2021-08-16T18:55:59.000Z",
+          "wordCount": 473,
+          "title": "Zakia Khudadadi’s hopes of becoming first Afghan female Paralympian dashed"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/greece-wildfires-evacuation-alerts-athens",
+          "author": "Associated Press in Athens",
+          "description": "No injuries have been reported but Greek media said a few buildings had been damaged\nFanned by strong winds, two large new wildfires have erupted in Greece, triggering evacuation alerts for villages south-east and north-west of Athens – only days after blazes consumed large tracts of forest north of the Greek capital.\nNo injuries have been reported but Greek media said a few buildings had been damaged.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/greece-wildfires-evacuation-alerts-athens",
+          "publishedOn": "2021-08-16T18:48:28.000Z",
+          "wordCount": 735,
+          "title": "Two new wildfires in Greece trigger evacuation alerts for villages"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2021/aug/16/no-evidence-covid-vaccine-raise-risk-miscarriage-uk-health-regulator-says",
+          "author": "Natalie Grover Science correspondent",
+          "description": "UK health regulator also says data does not support link between jabs and changes to menstrual periods\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nThere is no evidence to suggest that Covid-19 vaccines raise the risk of miscarriage and stillbirth or affect fertility and the ability to have children, the UK’s health regulator said on Monday.\nData gathered so far also does not support a link between changes to menstrual periods and Covid vaccines, according to the Medicines and Healthcare products Regulatory Agency (MHRA). It said the menstrual changes reported post-vaccine were mostly transient in nature: “The number of reports of menstrual disorders and vaginal bleeding is low in relation to both the number of people who have received Covid vaccines to date and how common menstrual disorders are generally.”\n Continue reading...",
+          "link": "https://www.theguardian.com/society/2021/aug/16/no-evidence-covid-vaccine-raise-risk-miscarriage-uk-health-regulator-says",
+          "publishedOn": "2021-08-16T18:46:02.000Z",
+          "wordCount": 671,
+          "title": "No evidence Covid vaccine raises risk of miscarriage, MHRA says"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/the-guardian-view-on-afghanistan-unnecessary-suffering",
+          "author": "Editorial",
+          "description": "A reckless western withdrawal timetable has let a people down\nEarlier this year, a bipartisan panel appointed by the US Congress advised against the “precipitous withdrawal” of American troops from Afghanistan. The panel warned of grave consequences if Joe Biden allowed himself to be driven by dates and a strict timeline, rather than a realistic assessment of conditions on the ground. Mr Biden, who had inherited a 1 May exit deadline from Donald Trump, ignored this advice, naming instead a new date. All US forces would be gone by 11 September, exactly two decades after the invasion prompted by the al-Qaida attack on the World Trade Center.\nA timetable bound up with domestic political symbolism has handed over Afghanistan to the Taliban and millions of Afghans to a frightening and unstable future. In the spring, a Biden administration official said: “We went to Afghanistan to deliver justice to those who attacked us on September 11th … We believe we achieved that objective some years ago.” These words were presumably intended to convey a pragmatic determination to end a “forever war”, as well as a neat sense of narrative closure. Today they read like an insular, inward-looking rationale for an abdication of responsibility that will scar the Biden presidency.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/the-guardian-view-on-afghanistan-unnecessary-suffering",
+          "publishedOn": "2021-08-16T18:29:47.000Z",
+          "wordCount": 818,
+          "title": "The Guardian view on Afghanistan: unnecessary suffering | Editorial"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/the-guardian-view-on-spiders-season-of-the-web",
+          "author": "Editorial",
+          "description": "Many people have mixed feelings about arachnids, but like many more popular animals they need our help\nMuch less visible for most of the year, spiders make their presence felt in late August and through the early autumn. This is the mating season of some of the most common varieties, when male house spiders come out of hidden corners to look for females, and garden spiders reach adult size and spin their biggest, most dazzling webs.\nYet while the spider is familiar, the star of one of the great children’s books, Charlotte’s Web, and a fixture of nursery rhymes and Halloween decor, its relationship with humans is complicated. Fear of spiders, arachnophobia, is common and has serious impacts on the lives of sufferers. Its prevalence appears unrelated to any rational assessment of risk. Spiders in the UK are almost all harmless. Farmland species perform valuable ecosystem services, by predating on insects that are our competitors for crops. But they have proved durable repositories of human anxieties – with a cultural association with witches and wickedness dating back to the middle ages.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/the-guardian-view-on-spiders-season-of-the-web",
+          "publishedOn": "2021-08-16T18:25:23.000Z",
+          "wordCount": 771,
+          "title": "The Guardian view on spiders: season of the web | Editorial"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/16/bob-woodward-peril-donald-trump-trilogy-books",
+          "author": "Martin Pengelly in New York",
+          "description": "New book Peril follows Fear and Rage, and is based on hundreds of interviews as well as diaries, secret orders and phone transcripts\n\nUS politics – live coverage\n\nWashington Post reporter Bob Woodward’s third book about Donald Trump will be called Peril, completing a trilogy begun with Fear and Rage. According to its publisher, it will also include sections on the first months of Joe Biden’s presidency.\nWoodward rose to fame in the early 1970s, working with Carl Bernstein to uncover the Watergate scandal which brought down Richard Nixon. Peril is another co-production, this time with Robert Costa, also on staff at the Post.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/16/bob-woodward-peril-donald-trump-trilogy-books",
+          "publishedOn": "2021-08-16T18:18:12.000Z",
+          "wordCount": 939,
+          "title": "Bob Woodward’s third book in Trump trilogy to cover handling of pandemic"
+        },
+        {
+          "id": "https://www.theguardian.com/artanddesign/2021/aug/16/artists-pull-work-from-whitworth-gallery-after-palestine-statement-removal",
+          "author": "Damien Gayle",
+          "description": "Solidarity message removed from exhibition by Forensic Architecture after UK Lawyers for Israel campaign\nA Turner prize-nominated investigative group has said it is pulling an exhibition of its work at the Whitworth gallery in Manchester after a statement of solidarity with Palestine was removed from the display.\nPart of the exhibition addresses violence used by Israeli forces against Palestinians and was accused of being “incendiary and by its very nature one-sided” by UK Lawyers For Israel (UKLFI) which advocates for Israeli causes.\n Continue reading...",
+          "link": "https://www.theguardian.com/artanddesign/2021/aug/16/artists-pull-work-from-whitworth-gallery-after-palestine-statement-removal",
+          "publishedOn": "2021-08-16T18:13:43.000Z",
+          "wordCount": 932,
+          "title": "Artists pull work from Whitworth gallery after Palestine statement removal"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/polish-appeals-court-overturns-ruling-against-holocaust-historians",
+          "author": "Staff and agencies in Warsaw",
+          "description": "Case has raised questions about freedom to research Poland’s wartime past\nA Polish appeals court has overturned a ruling against two leading Holocaust historians accused of defamation, in a closely watched case that raised questions about the freedom to research Poland’s second world war past.\nThe civil case was brought against Prof Barbara Engelking and Prof Jan Grabowski for a book they co-edited about the complicity of Catholic Poles in the genocide of Jews during Nazi Germany’s occupation of Poland.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/polish-appeals-court-overturns-ruling-against-holocaust-historians",
+          "publishedOn": "2021-08-16T18:09:01.000Z",
+          "wordCount": 713,
+          "title": "Polish appeals court overturns ruling against Holocaust historians"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/16/boris-johnson-under-pressure-resettlement-scheme-for-afghans",
+          "author": "Rowena Mason, Jessica Elgot and Lisa O'Carroll",
+          "description": "Tories and Labour MPs call for asylum in UK for refugees amid fears high-profile women will be targeted\n\nFollow Afghanistan live news\n\nBoris Johnson is coming under pressure from his own MPs to urgently set up a new resettlement scheme for Afghan refugees, amid fears that people with links to the west and high-profile women will be targeted by the Taliban.\nDamian Green, the former cabinet minister, led Conservative calls for the UK to allow refugees safe passage to Britain, while Labour leader Keir Starmer and SNP leader Nicola Sturgeon pressed for a programme to accommodate them.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/16/boris-johnson-under-pressure-resettlement-scheme-for-afghans",
+          "publishedOn": "2021-08-16T18:03:18.000Z",
+          "wordCount": 1028,
+          "title": "Boris Johnson under pressure to set up resettlement scheme for Afghans"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/aug/16/geronimo-the-alpacas-future-to-be-decided-at-hearing-says-vet",
+          "author": "Kaamil Ahmed",
+          "description": "Defra agrees to hearing with owner of UK alpaca, which has twice tested positive for bovine tuberculosis\nAn alpaca that faces being destroyed after testing positive for bovine tuberculosis has been given a temporary reprieve, the animal’s vet has said.\nThe government had twice turned down requests to save Geronimo, but Dr Iain McGill said the Department for Food, Environment and Rural Affairs (Defra) had now agreed to a hearing with owner Helen Macdonald.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/aug/16/geronimo-the-alpacas-future-to-be-decided-at-hearing-says-vet",
+          "publishedOn": "2021-08-16T18:01:05.000Z",
+          "wordCount": 622,
+          "title": "Geronimo the alpaca’s future to be decided at hearing, says vet"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/16/green-party-former-deputy-leader-and-bristol-councillor-make-leadership-bid",
+          "author": "Jessica Elgot Chief political correspondent",
+          "description": "Carla Denyer, former candidate for Bristol West, and Norwich councillor Adrian Ramsey announce joint ticket\nA former aide to Caroline Lucas and the leader of England’s largest Green council group will run on another joint ticket to lead the party after the departure of its co-leaders Siân Berry and Jonathan Bartley.\nCarla Denyer, the party’s candidate for Bristol West, where the Greens achieved one of their highest swings at the last general election, will stand with former deputy leader Adrian Ramsay for the leadership, which is being contested by two other joint tickets.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/16/green-party-former-deputy-leader-and-bristol-councillor-make-leadership-bid",
+          "publishedOn": "2021-08-16T17:50:54.000Z",
+          "wordCount": 714,
+          "title": "Green party: former deputy leader and Bristol councillor make leadership bid"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/aug/16/relatives-of-wounded-angry-about-return-of-plymouth-gunmans-licence",
+          "author": "Matthew Weaver",
+          "description": "Jake Davison shot dead five people and also wounded a 55-year-old woman and her son after police reinstated his gun licence\nFamily of a mother and son who were shot through their front door by the Plymouth attacker have voiced anger at police for reinstating his gun licence weeks before the mass shooting.\nJake Davison, 22, shot dead five people including his mother on Thursday before turning the gun on himself. He also shot and wounded a 55-year-old woman and her son, 33, who lived near the house Davison shared with his mother in the suburb of Keyham.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/aug/16/relatives-of-wounded-angry-about-return-of-plymouth-gunmans-licence",
+          "publishedOn": "2021-08-16T17:33:39.000Z",
+          "wordCount": 932,
+          "title": "Relatives of wounded angry about return of Plymouth gunman’s licence"
+        },
+        {
+          "id": "https://www.theguardian.com/stage/2021/aug/17/the-ultimate-shutdown-what-if-we-could-avoid-climate-crisis-by-sleeping-for-a-year",
+          "author": "Walter Marsh",
+          "description": "When playwright Finegan Kruckemeyer imagined a worldwide circuit breaker for the climate in 2019, he wasn’t expecting it to hit so close to home\nIn the opening scenes of Hibernation, a minister from Australia’s ruling conservative party updates the parliament of 2030 on the unfolding climate crisis. Regional Australia is riddled with ghost towns, whole nations are underwater, and there’s a flood of climate refugees lapping at our still-shut borders. “Everybody is the victim of what is happening to our planet,” spits the unsubtly named Warwick Joyce (Mark Saturno), “and everybody is the culprit”.\nHis answer? A miracle sleeping agent first developed for the colonisation of space that can plunge human beings into a deep, perfect slumber. But rather than using the gaseous drug to aid an exodus from our doomed planet, Joyce says, why not force the entire human race to sleep – to collectively take our foot off the gas – for one year?\n Continue reading...",
+          "link": "https://www.theguardian.com/stage/2021/aug/17/the-ultimate-shutdown-what-if-we-could-avoid-climate-crisis-by-sleeping-for-a-year",
+          "publishedOn": "2021-08-16T17:30:43.000Z",
+          "wordCount": 1058,
+          "title": "The ultimate shutdown: what if we could avoid climate crisis by sleeping for a year?"
+        },
+        {
+          "id": "https://www.theguardian.com/football/blog/2021/aug/16/gerard-pique-barcelona-pay-cut-memphis-depay",
+          "author": "Sid Lowe",
+          "description": "A day after his sacrifice enabled the signing of Eric García and Memphis Depay, Piqué headed home the latter’s free-kick\nGerard Piqué was 13 or 14 the day the Barcelona manager came to tea. When his grandfather proudly introduced him as the future Camp Nou centre-back, Louis van Gaal walked over and without a word pushed him to the floor. Standing over him, he looked down at this kid lying there and delivered a devastating verdict: you’re too weak to play for Barcelona.\nTwenty-one years, 567 games, eight leagues, eight cups and four European Cups later, a World Cup and a Euros too, he’s not just still standing; he’s carrying the club on his shoulders. Well, someone has to.\n Continue reading...",
+          "link": "https://www.theguardian.com/football/blog/2021/aug/16/gerard-pique-barcelona-pay-cut-memphis-depay",
+          "publishedOn": "2021-08-16T17:29:41.000Z",
+          "wordCount": 2047,
+          "title": "Gerard Piqué shows his Barcelona colours as pay cut helps set up victory | Sid Lowe"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/16/cooling-consumerism-could-save-the-climate",
+          "author": "Letters",
+          "description": "Bill Kingdom says the battle against Covid provides lessons in how to cut consumption to ease global warming. Plus letters from Sue Dalley, David Hughes and Dave Hunter  \nIn Adam Tooze’s article (By pushing for more oil production, the US is killing its climate pledges, 13 August), he surmised that economic activity and fossil fuel consumption are hardwired together. It may be more that economic activity and energy consumption are hardwired together – and thus the need to move to renewables or low-carbon energy sources. That must be part of the strategy, along with as yet unavailable technical solutions such as carbon capture.\nHowever, we seem to tiptoe around the consumption part of any strategy. Lower consumption results in lower carbon emissions. The government has managed to exert strong influence over personal actions during the Covid pandemic using a myriad of three-word slogans. We need a similar push linked to consumption and climate change. \nBill Kingdom\nOxford\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/16/cooling-consumerism-could-save-the-climate",
+          "publishedOn": "2021-08-16T17:23:40.000Z",
+          "wordCount": 742,
+          "title": "Cooling consumerism could save the climate | Letters"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/hongkongers-need-more-help-to-settle-in-the-uk",
+          "author": "Letters",
+          "description": "Hongkongers escaping China’s repression are being denied fair access to homes and jobs in the UK, says Sarah Champion\nYour article (UK not doing enough to support those fleeing Hong Kong, advocacy group says, 8 August) demonstrates the current failure of the British government to plan for Hongkongers arriving in the UK under the British National (Overseas) visa scheme.\nRepresentatives from the Ministry of Housing, Communities and Local Government recently told the all-party parliamentary group on Hong Kong that they had written to regulators and professional associations calling for a unified way of assessing qualifications from BN(O) status holders.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/hongkongers-need-more-help-to-settle-in-the-uk",
+          "publishedOn": "2021-08-16T17:21:31.000Z",
+          "wordCount": 388,
+          "title": "Hongkongers need more help to settle in the UK | Letter"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2021/aug/16/my-mum-told-me-to-bolton-16-and-17-year-olds-get-covid-vaccine",
+          "author": "Josh Halliday and Niamh McIntyre",
+          "description": "Government plans to offer jabs to all in this age group in England within the next week\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nFor some teenagers, the promise of a Deliveroo discount was enough to tempt them to get the Covid vaccine. For others, staying in their parents’ good books was far more important.\n“My mum told me to,” said one 17-year-old after receiving her first vaccine along with her friends in Bolton on Monday afternoon. Arsalan Azhar, 18, said he too was just obeying orders: “We would like to have some incentives,” he said. “But it was due to my parents. They will be more relaxed now.”\n Continue reading...",
+          "link": "https://www.theguardian.com/society/2021/aug/16/my-mum-told-me-to-bolton-16-and-17-year-olds-get-covid-vaccine",
+          "publishedOn": "2021-08-16T17:15:09.000Z",
+          "wordCount": 818,
+          "title": "‘My mum told me to’: Bolton 16- and 17-year-olds get Covid vaccine"
+        },
+        {
+          "id": "https://www.theguardian.com/football/blog/2021/aug/16/manchester-city-lack-a-ruthless-streak-and-know-harry-kane-can-provide-it",
+          "author": "Jacob Steinberg",
+          "description": "Defeats in Champions League final, Community Shield and at Spurs have exposed a familiar failing but are City prepared to spend £160m to solve it?\nThe roles were reversed at the Tottenham Hotspur Stadium on Sunday. By the end, with Tottenham sticking to Nuno Espírito Santo’s plan after Son Heung-min’s clever breakaway goal, it was Manchester City who looked like they needed to become the Harry Kane team. Spurs had found a way to play without Kane, striking on the counterattack, and City had allowed the game to run away from them, their lack of conviction in attack a worry despite the presence of a £100m signing making his first start.\nEarly days, of course, and it is fair to acknowledge that Pep Guardiola’s side were not at full strength when they began the defence of their title. Context matters in spite of City’s vast resources and allowances must be made for the absence of Phil Foden, the rustiness of Kevin De Bruyne, and Guardiola levelling the playing field by picking Nathan Aké and Benjamin Mendy when John Stones, Kyle Walker and Aymeric Laporte were available.\n Continue reading...",
+          "link": "https://www.theguardian.com/football/blog/2021/aug/16/manchester-city-lack-a-ruthless-streak-and-know-harry-kane-can-provide-it",
+          "publishedOn": "2021-08-16T17:09:20.000Z",
+          "wordCount": 1255,
+          "title": "Manchester City lack a ruthless streak and know Harry Kane can provide it | Jacob Steinberg"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/swift-taliban-takeover-proves-us-and-uk-analysis-badly-wrong",
+          "author": "Dan Sabbagh Defence and security editor",
+          "description": "Analysis: Joe Biden and Boris Johnson five weeks ago claimed Afghan government would not fall so easily\n\nDesperate crowds at Kabul airport as Afghans try to escape Taliban – latest updates\n\nJoe Biden could not have been clearer: a Taliban takeover of Afghanistan was “not inevitable”, the US president said on 8 July. Boris Johnson, the UK prime minister, was equally confident – “there is no military path to victory for the Taliban” – he told MPs earlier that day, five weeks ago.\nThe president said he trusted “the capacity of the Afghan military”, who were better trained, better equipped and “more competent in terms of conducting war”. The prime minister agreed: “I do not believe that the Taliban are guaranteed the kind of victory that we sometimes read about.”\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/swift-taliban-takeover-proves-us-and-uk-analysis-badly-wrong",
+          "publishedOn": "2021-08-16T17:04:12.000Z",
+          "wordCount": 880,
+          "title": "Swift Taliban takeover proves US and UK analysis badly wrong"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/japan-economy-covid-restrictions-ease-economic-output",
+          "author": "Phillip Inman",
+          "description": "Economic output defies expectations to expand in Q2 – but analysts warn of contraction risk\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nJapan’s economy recovered strongly in the second quarter to join the turnaround seen across G7 countries as the easing of lockdown restrictions sent consumers rushing to the shops.\nBeating the expectations of City analysts, the world’s third largest economy also capitalised on global trade’s return to health with a surge in exports.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/japan-economy-covid-restrictions-ease-economic-output",
+          "publishedOn": "2021-08-16T16:48:48.000Z",
+          "wordCount": 653,
+          "title": "Japan’s economy bounces back as Covid restrictions ease"
+        },
+        {
+          "id": "https://www.theguardian.com/books/2021/aug/16/instagram-user-accused-of-capitalising-off-ijeoma-oluos-anti-racist-book",
+          "author": "Alison Flood",
+          "description": "The white woman behind the popular Instagram account @soyouwanttotalkabout has apologised after claims that she has co-opted the black author’s brand\nThe white woman behind an Instagram account with almost three million followers has apologised for the “harm” she caused to bestselling black author Ijeoma Oluo.\nOluo’s examination of race in America, So You Want to Talk About Race, was published in 2018, and hit the bestseller charts in the wake of the killing of George Floyd last summer. Jessica Natale’s similarly-named Instagram account @soyouwanttotalkabout was launched in February 2020, tackling topics such as voting rights, gun reform and the sentencing of Derek Chauvin, laying out information in a series of slide-shows in muted tones. By April this year, Natale had landed a book deal with Little, Brown, and revealed her previously-concealed identity.\n Continue reading...",
+          "link": "https://www.theguardian.com/books/2021/aug/16/instagram-user-accused-of-capitalising-off-ijeoma-oluos-anti-racist-book",
+          "publishedOn": "2021-08-16T16:19:00.000Z",
+          "wordCount": 839,
+          "title": "Instagram user accused of capitalising from Ijeoma Oluo’s anti-racist book"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/aug/16/meggitt-sale-could-net-city-bankers-lawyers-and-prs-over-200m",
+          "author": "Rob Davies",
+          "description": "Documents reveal who would benefit from purchase of UK aerospace firm by Parker Hannifin\nAn army of City bankers, lawyers and public relations advisers are expected to be paid more than £200m for the sale of the UK aerospace firm Meggitt to its US rival Parker Hannifin.\n Related: Ultra Electronics agrees £2.6bn takeover by rival defence firm Cobham \n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/aug/16/meggitt-sale-could-net-city-bankers-lawyers-and-prs-over-200m",
+          "publishedOn": "2021-08-16T16:08:34.000Z",
+          "wordCount": 524,
+          "title": "Meggitt sale could net City bankers, lawyers and PRs over £200m"
+        },
+        {
+          "id": "https://www.theguardian.com/tv-and-radio/2021/aug/16/john-oliver-ansomware-attacks",
+          "author": "Adrian Horton",
+          "description": "Last Week Tonight host delves into the increasingly common and destructive surge of ransomware attacks on governments, companies and private citizens\nOn Last Week Tonight, John Oliver delved into the murky, increasingly common and destructive world of cyberattacks, particularly ransomware attacks in which hackers infiltrate a network, seize critical data, and demand a ransom to unlock it.\n Continue reading...",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/aug/16/john-oliver-ansomware-attacks",
+          "publishedOn": "2021-08-16T15:51:46.000Z",
+          "wordCount": 1111,
+          "title": "John Oliver on ransomware attacks: ‘It’s in everyone’s interest to get this under control’"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/pop-star-kris-wu-arrested-beijing-suspicion-rape",
+          "author": "Associated Press in Beijing",
+          "description": "Singer earlier denied accusation made by teenager that he had sexually assaulted her while she was drunk\nThe Chinese-Canadian pop star Kris Wu has been arrested on suspicion of rape in a high-profile case that followed an accusation that the singer had sexually assaulted a 17-year-old while she was drunk and lured young women into sexual relationships.\nThe prosecutor’s office of the Beijing district of Chaoyang said in a one-sentence statement that Wu’s arrest was formally approved but gave no details of the charges.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/pop-star-kris-wu-arrested-beijing-suspicion-rape",
+          "publishedOn": "2021-08-16T15:46:24.000Z",
+          "wordCount": 513,
+          "title": "Pop star Kris Wu arrested in Beijing on suspicion of rape"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/hate-speech-inquiries-launched-in-france-over-antisemitic-protest-banners",
+          "author": "Kim Willsher in Paris",
+          "description": "Police looking into placards seen at demonstrations against Covid health pass\nFrench prosecutors have launched hate speech and incitement of violence investigations into antisemitic banners seen at demonstrations against the country’s coronavirus health pass, which is now required for many daily activities.\nAt recent anti-health-pass demonstrations, protesters have brandished placards featuring syringes forming swastikas, wearing yellow stars or carrying banners bearing the word “Qui?” (who?), which has emerged as the latest antisemitic slogan of the far right and conspiracy theorists.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/hate-speech-inquiries-launched-in-france-over-antisemitic-protest-banners",
+          "publishedOn": "2021-08-16T15:44:12.000Z",
+          "wordCount": 1096,
+          "title": "Hate speech inquiries launched in France over antisemitic protest banners"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/16/weve-taken-a-heavy-beating-is-there-any-hope-for-the-sandwich-bar",
+          "author": "Hilary Osborne",
+          "description": "Lockdown and home working have brought huge challenges to giants such as Pret a Manger and small family-run independents. Will they ever get all of their customers back?\nWill, a personal assistant working in London, used to avoid coffee shops before lockdown. But since life started getting back to normal he has signed up for a subscription with Pret a Manger. “I didn’t buy much coffee out before lockdowns, but £20 for unlimited coffee has me popping into the nearby Pret every morning for a black filter and maybe a croissant,” he says. He’s back in the office full-time now. “I usually bring my lunch from home, but if I’m running late or forgot ,I’ll grab a sandwich with my morning coffee, too.”\nElsewhere in the capital, Daisy Baldwin, a 34-year-old communications manager, has also started buying food and drink during the working day. “I never spent money on lunch or coffee – or very occasionally as a rare treat – but now I am working from home I like to support my local cafes by buying a sandwich, juice or even an ice-cream one or two times a week,” she says. “Saving the cost of commuting means I can afford to splash out a bit more and I feel more connected to my local community than pre-pandemic.”\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/16/weve-taken-a-heavy-beating-is-there-any-hope-for-the-sandwich-bar",
+          "publishedOn": "2021-08-16T15:42:19.000Z",
+          "wordCount": 2441,
+          "title": "‘We’ve taken a heavy beating’: is there any hope for the sandwich bar?"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/16/is-the-future-of-the-irish-pub-alcohol-free",
+          "author": null,
+          "description": "A dry bar in Dublin has been such a success that its owners are exporting the idea to the Middle East – and eyeing up the US and Australia. Will it catch on?\nName: Irish pubs.\nAppearance: Clovery, ubiquitous.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/16/is-the-future-of-the-irish-pub-alcohol-free",
+          "publishedOn": "2021-08-16T15:14:44.000Z",
+          "wordCount": 695,
+          "title": "Is the future of the Irish pub alcohol-free?"
+        },
+        {
+          "id": "https://www.theguardian.com/film/2021/aug/16/a-new-world-order-review-dystopian-thriller-daniel-raboldt",
+          "author": "Phil Hoad",
+          "description": "Daniel Raboldt’s low-budget but visually impressive film has more than a whisper of A Quiet Place about it, as two survivors fight their robotic overlords without making any noise\nThis plucky Kickstarter-funded German sci-fi from director Daniel Raboldt comes with a distinct whisper of A Quiet Place, as well as Luc Besson’s almost dialogue-free film The Last Battle. Taking place in a war-against-the-machines future, its purist approach poses a few storytelling challenges, leaving its two protagonists at times gesticulating at each other as if in a post-apocalyptic game of charades.\nTomasz (Stefan Ebel) is a survivor in a man v machine conflict in which the latter are decidedly on top. He hunkers down in an abandoned house in the wilderness, setting up a perimeter forcefield to protect himself. That done, there’s not much to do other than get high on a weird blue narcotic. But out inspecting his generators one day, he’s waylaid by Lilja (Siri Nase), a fierce-eyed woman in a pair of Uggs (which, like cockroaches, appear able to survive armageddon). He wakes up bound and gaffer-taped, with her furiously soldering robot parts as though she’s trying to root out their secrets.\n Continue reading...",
+          "link": "https://www.theguardian.com/film/2021/aug/16/a-new-world-order-review-dystopian-thriller-daniel-raboldt",
+          "publishedOn": "2021-08-16T15:00:39.000Z",
+          "wordCount": 567,
+          "title": "A New World Order review – silence is survival in dystopian thriller"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/aug/16/teslas-autopilot-us-investigation-crashes-emergency-vehicles",
+          "author": "Dominic Rushe",
+          "description": "• Investigators to review 765,000 vehicles made since 2014\n• NHTSA identifies 11 crashes involving first responder vehicles\nThe US government has opened a formal investigation into Tesla’s driver-assistance system known as Autopilot after a series of collisions with parked emergency vehicles.\nThe investigation covers 765,000 vehicles, almost everything that Tesla has sold in the US since the start of the 2014 model year. Of the crashes identified by the National Highway Traffic Safety Administration (NHTSA) as part of the investigation, 17 people were injured and one was killed.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/16/teslas-autopilot-us-investigation-crashes-emergency-vehicles",
+          "publishedOn": "2021-08-16T14:56:34.000Z",
+          "wordCount": 932,
+          "title": "Tesla’s Autopilot faces US investigation after crashes with emergency vehicles"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/bathers-in-spain-catch-suspect-after-drug-boat-runs-aground-on-beach-suspected-smugglers-cannabis",
+          "author": "Ashifa Kassam in Madrid",
+          "description": "Beachgoers give chase, with more than 700kg of cannabis found onboard vessel, say police\nIt was meant to be a leisurely break as Spain sweltered through record-breaking temperatures. But beachgoers in the southern province of Granada inadvertently found themselves in pursuit of a pair of alleged drug smugglers after a cannabis-laden boat careened on to their pebbled shore.\nThe chase began on Saturday evening after maritime police spotted a suspicious boat off Melicena beach. Police boat in tow, the small vessel headed full tilt towards the beach, seemingly oblivious to the bathers, chairs and umbrellas that dotted the shoreline.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/bathers-in-spain-catch-suspect-after-drug-boat-runs-aground-on-beach-suspected-smugglers-cannabis",
+          "publishedOn": "2021-08-16T14:37:42.000Z",
+          "wordCount": 703,
+          "title": "Bathers in Spain catch suspect after ‘drug boat’ runs aground on beach"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/uk-academic-sues-university-losing-role-critical-race-theory-row-leeds-beckett",
+          "author": "Haroon Siddique Legal affairs correspondent",
+          "description": "Aysha Khanom claims discrimination after Leeds Beckett accused her of using ‘racist language’ in tweets\nAn academic is suing Leeds Beckett University after she was dropped from her advisory role over tweets calling a mixed-race man a “house negro”, alleging the decision was discriminatory because of her belief in critical race theory and Black radicalism.\nThe university ended its association with the academic adviser Aysha Khanom after accusing her of “racist language” in relation to tweets using the terms “house negro” and “coconut” – the former in a question.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/uk-academic-sues-university-losing-role-critical-race-theory-row-leeds-beckett",
+          "publishedOn": "2021-08-16T14:15:17.000Z",
+          "wordCount": 801,
+          "title": "UK academic sues university after losing role in critical race theory row"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/16/cherie-blair-backs-campaign-for-garrick-club-to-admit-women",
+          "author": "Amelia Gentleman",
+          "description": "Female lawyers protest against men-only rule at networking institution used by senior judges and politicians\nCherie Blair has joined a campaign to force the men-only Garrick club to admit women, as a growing number of female lawyers protest against the unfairness of rules that exclude them from a networking institution used by senior judges and politicians.\nSigning a petition calling on the club to change its membership rules, Blair recalled watching her fellow trainee barrister and future husband Tony Blair being admitted into the club in 1976, while she was shut outside. She described the lack of progress as “outrageous”.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/16/cherie-blair-backs-campaign-for-garrick-club-to-admit-women",
+          "publishedOn": "2021-08-16T14:10:15.000Z",
+          "wordCount": 923,
+          "title": "Cherie Blair backs campaign for Garrick club to admit women"
+        },
+        {
+          "id": "https://www.theguardian.com/music/2021/aug/16/how-we-made-one-week-barenaked-ladies",
+          "author": "Interviews by Rich Pelley",
+          "description": "‘When the label told us it was going to be the lead track, I said: “You can’t do that. We’re a serious band”’ \nI joined Reprise Records in 1995, based in New York, and was assigned to help Barenaked Ladies make their fourth record. I had just signed They Might Be Giants, who I considered to be the cream of the smarty-pants, alternative music scene. So I thought: “Hmmm. Barenaked Ladies? What are we going to do here?”\n Continue reading...",
+          "link": "https://www.theguardian.com/music/2021/aug/16/how-we-made-one-week-barenaked-ladies",
+          "publishedOn": "2021-08-16T13:55:36.000Z",
+          "wordCount": 1183,
+          "title": "Barenaked Ladies: how we made One Week"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/16/plan-to-ban-phones-from-classrooms-is-out-of-touch-say-uk-school-leaders",
+          "author": "Rachel Hall",
+          "description": "Schools already have pupils’ mobile phone use under control, say leaders in response to government plans\nSchool and college leaders have condemned the government’s plan to ban mobile phones from classrooms as outdated and out of touch, arguing that schools should be allowed to decide on appropriate rules.\nResponding to a Department for Education (DfE) consultation on student behaviour, the Association of School and College Leaders said education leaders already had student mobile phone use under control and warned that some students, such as those caring for a relative, may be disadvantaged by a strict approach.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/16/plan-to-ban-phones-from-classrooms-is-out-of-touch-say-uk-school-leaders",
+          "publishedOn": "2021-08-16T13:51:28.000Z",
+          "wordCount": 666,
+          "title": "Plan to ban phones from classrooms is out of touch, say UK school leaders"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/20-years-invasion-afghanistan-unnecessary-post-imperial-fantasy",
+          "author": "Simon Jenkins",
+          "description": "Western involvement in the country was a post-imperial fantasy that has led to the current ghastly situation\nThe fall of Kabul was inevitable. It marks the end of a post-imperial western fantasy. Yet the west’s reaction beggars belief. Call it a catastrophe, a humiliation, a calamitous mistake, if it sounds good. All retreats from empire are messy. This one took 20 years, but the end was at least swift.\nThe US had no need to invade Afghanistan. The country was never a “terrorist state” like Libya or Iran. It was not at war with the US; indeed the US had aided its rise to power against the Russians in 1996. The Taliban had hosted Osama bin Laden in his mountain lair through his friendship with the Taliban leader, Mullah Omar. At an immediate post-9/11 “loya jirga” in the southern city of Kandahar, younger leaders pressed the mullah to expel Bin Laden. Pakistan would probably have forced his surrender sooner or later. After the 2001 invasion the US defence secretary Donald Rumsfeld demanded that George Bush “punish and get out”. \n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/20-years-invasion-afghanistan-unnecessary-post-imperial-fantasy",
+          "publishedOn": "2021-08-16T13:37:37.000Z",
+          "wordCount": 845,
+          "title": "It has taken 20 years to prove the invasion of Afghanistan was totally unnecessary | Simon Jenkins"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2021/aug/16/nhs-england-hospital-warning-over-potential-roof-collapse-concrete-plank-catastrophic-consequence",
+          "author": "Rachel Hall",
+          "description": "Initial risk assessment at one hospital predicted ‘almost certain’ failure of outdated concrete planks\nNHS England hospitals have sounded the alarm over materials used in roofs that reached the end of their lifespan more than a decade ago, with one hospital forced to restrict the use of some operating theatres to patients under 120kg (19st).\nSeveral hospitals are warning of the potential for roof collapses due to structural weaknesses in the reinforced concrete planks used in their construction between the 1960s and 1980s, which have a 30-year lifespan.\n Continue reading...",
+          "link": "https://www.theguardian.com/society/2021/aug/16/nhs-england-hospital-warning-over-potential-roof-collapse-concrete-plank-catastrophic-consequence",
+          "publishedOn": "2021-08-16T13:35:22.000Z",
+          "wordCount": 738,
+          "title": "Warning over potential roof collapses at NHS England hospitals"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/i-used-to-tut-at-people-who-need-glasses-to-read-a-menu-then-i-joined-them-",
+          "author": "Zoe Williams",
+          "description": "I’d like to blame lockdown for my failing eyesight. But my friends keep mentioning my age\nSome time over the past 18 months, I went from having perfect vision – the kind of vision that means, “Here, let me have a look” is your catchphrase, and that makes you mock your friends for the font size on their mobiles – to being unable to even read a menu. You have no idea how much I wanted to add a sweary prefix before “menu”.\nI always thought people were attention-seeking when they went through that performance of getting their glasses out at the table. Come on, it’s going to be garlic bread, soup and chicken liver pate. Surely you could have guessed that? I didn’t realise how it would feel when the text was swimming about indistinguishably or how rare it is these days that the first sentence is “garlic bread”. Now I realise it’s just as likely to be bread with a medjool date whipped butter, or garlic bread with a cheesy crust. In my pride, I have spent ages ordering things that weren’t there.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/i-used-to-tut-at-people-who-need-glasses-to-read-a-menu-then-i-joined-them-",
+          "publishedOn": "2021-08-16T13:31:26.000Z",
+          "wordCount": 934,
+          "title": "I used to tut at people who need glasses to read a menu. Then I joined them …"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/gallery/2021/aug/16/sea-slug-smuggling-and-a-bat-mural-mondays-best-photos",
+          "author": null,
+          "description": "The Guardian’s picture editors select photo highlights from around the world\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/gallery/2021/aug/16/sea-slug-smuggling-and-a-bat-mural-mondays-best-photos",
+          "publishedOn": "2021-08-16T12:55:04.000Z",
+          "wordCount": 628,
+          "title": "Sea slug smuggling and a bat mural: Monday’s best photos"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/16/south-texas-covid-vaccine-carlos-sanchez",
+          "author": "Carlos Sanchez",
+          "description": "Since my hospitalization, and as Hidalgo county sees a surge in cases, protests against the vaccine are triggering\nI was stunned by the comment as I walked into a recent press conference to warn our south Texas community that, after all we’ve been through for the past 18 months, we need to remain vigilant as new variants of Covid-19 are causing a surge in hospitalizations.\n“You were pretty sick last year,” said a doctor at the press conference, a friend who had treated me when I was hospitalized for 10 days with Covid-19 last July. “I didn’t think you were going to make it. You almost died.”\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/16/south-texas-covid-vaccine-carlos-sanchez",
+          "publishedOn": "2021-08-16T12:27:43.000Z",
+          "wordCount": 1647,
+          "title": "Texas anti-vaxxers’ calls for personal freedom dismiss my nearly fatal bout with Covid"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/england-northern-ireland-new-rules-self-isolation-covid",
+          "author": "Ben Quinn and Natalie Grover",
+          "description": "Fully vaccinated people no longer have to self-isolate if they are close contacts of a positive Covid case\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nEngland and Northern Ireland have, from Monday, followed Scotland and Wales in relaxing rules so that people who are fully vaccinated no longer have to self-isolate if they are close contacts of people testing positive for Covid-19.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/england-northern-ireland-new-rules-self-isolation-covid",
+          "publishedOn": "2021-08-16T12:12:00.000Z",
+          "wordCount": 1073,
+          "title": "What are England and Northern Ireland’s new rules on self-isolation?"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/aug/16/thomasina-miers-recipe-aubergine-parmigiana-spinach-ricotta",
+          "author": "Thomasina Miers",
+          "description": "Layers of grilled aubergine, wilted spinach, ricotta and mozzarella, all drenched in a rich, savoury tomato sauce\nI adore parmigiana di melanzane, with its layers of sweetly acidic tomato sauce, grilled-until-collapsing aubergine and generous amounts of oozing, stringy cheese. It can, though, feel a little rich to have all on its own, and decidedly too much work for a midweek side dish. While you can get around this easily enough by serving it with a delicious salad, when spinach and chard are bursting out of the ground, I love to wilt them in a little oil and add them in layers to give extra goodness to this comforting dish.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2021/aug/16/thomasina-miers-recipe-aubergine-parmigiana-spinach-ricotta",
+          "publishedOn": "2021-08-16T12:00:36.000Z",
+          "wordCount": 875,
+          "title": "Thomasina Miers’ recipe for aubergine parmigiana with spinach and ricotta | The simple fix"
+        },
+        {
+          "id": "https://www.theguardian.com/tv-and-radio/2021/aug/16/car-crash-tv-why-simon-cowells-take-on-top-gear-is-the-last-thing-we-need",
+          "author": "Michael Hogan",
+          "description": "With The X Factor now consigned to the dustbin of television history, Cowell is said to be releasing his inner Jeremy Clarkson with a motoring show. Haven’t we suffered enough? \nSimon Cowell and Jeremy Clarkson. Sneery Si and shouty Jezza. Together they bestrode 00s primetime, the dad-jeaned embodiment of a midlife crisis. Now the terribly haired pair seem to be morphing into a sort of two-headed televisual monster. Haven’t we suffered enough?\nYou could almost hear a nation’s eyes rolling in unison at the news that Simon Cowell is preparing to launch a new motoring show. According to the tabloids, The Karaoke Sauron (copyright Marina Hyde) is developing a rival to the BBC’s long-running Top Gear.\n Continue reading...",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/aug/16/car-crash-tv-why-simon-cowells-take-on-top-gear-is-the-last-thing-we-need",
+          "publishedOn": "2021-08-16T11:53:53.000Z",
+          "wordCount": 879,
+          "title": "Car crash TV: why Simon Cowell’s take on Top Gear is the last thing we need"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/16/rewilding-should-we-bring-the-lynx-back-to-britain-aoe",
+          "author": "Phoebe Weston",
+          "description": "Reintroducing the big cats could control deer numbers and enrich ecosystems but farmers and the public need reassurance, say experts\nThe maverick rewilder Derek Gow is wearing an extremely small pair of coral pink shorts as he introduces his three new Eurasian lynxes. He looks like Tiger King’s Joe Exotic on the wrong side of the Atlantic.\nThe shy new arrivals are joining a menagerie of animals at his rewilding project in Devon. They are in a large pen with a four-metre-high fence but Gow, like a growing number of conservationists, wants to see lynxes prowling freely in the countryside.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/16/rewilding-should-we-bring-the-lynx-back-to-britain-aoe",
+          "publishedOn": "2021-08-16T11:47:02.000Z",
+          "wordCount": 2189,
+          "title": "Rewilding: should we bring the lynx back to Britain?"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/aug/16/kevin-clarke-death-police-watchdog-reopens-investigation",
+          "author": "Diane Taylor",
+          "description": "Mentally ill man was heard saying ‘I can’t breathe’ while being restrained by Met officers in London\nThe Independent Office for Police Conduct (IOPC) has reopened its investigation into the circumstances surrounding the death of Kevin Clarke, a mentally ill black man who could be heard saying the words “I can’t breathe” while he was being restrained by police shortly before he died.\nThe watchdog has admitted the words heard on police body-cam footage were not explored with the police officers when they were interviewed by IOPC officials.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/aug/16/kevin-clarke-death-police-watchdog-reopens-investigation",
+          "publishedOn": "2021-08-16T11:16:20.000Z",
+          "wordCount": 812,
+          "title": "Kevin Clarke death: police watchdog reopens investigation"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/aug/16/tv-out-for-two-more-weeks-in-north-yorkshire-after-mast-fire",
+          "author": "Josh Halliday North of England correspondent",
+          "description": "Television and radio services disrupted for up to 500,000 people including elderly and isolated\nElderly and isolated people are among thousands who face being without television or radio for nearly three weeks after a fire at a Yorkshire transmission mast.\nTelevision and radio services have been disrupted for up to 500,000 people across North Yorkshire and north-east England since Bilsdale mast caught fire last Tuesday.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/aug/16/tv-out-for-two-more-weeks-in-north-yorkshire-after-mast-fire",
+          "publishedOn": "2021-08-16T10:36:48.000Z",
+          "wordCount": 502,
+          "title": "TV out for two more weeks in North Yorkshire after mast fire"
+        },
+        {
+          "id": "https://www.theguardian.com/world/gallery/2021/aug/16/the-fall-of-kabul-in-pictures",
+          "author": null,
+          "description": "Desperate crowds gather at the airport as people try to escape after the Afghan capital fell to the Taliban on Sunday\n\nLatest updates from Kabul\n Continue reading...",
+          "link": "https://www.theguardian.com/world/gallery/2021/aug/16/the-fall-of-kabul-in-pictures",
+          "publishedOn": "2021-08-16T10:31:20.000Z",
+          "wordCount": 1129,
+          "title": "The fall of Kabul – in pictures"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/us-climate-change-americans-census-data",
+          "author": "David Sirota and Julia Rock",
+          "description": "As the climate changes, census data shows that Americans are shifting from safer areas of the US to the regions most at risk of heating and flooding\nScience has provided America with a decent idea of which areas of our country will be most devastated by climate change, and which areas will be most insulated from the worst effects. Unfortunately, it seems that US population flows are going in the wrong direction – new census data shows a nation moving out of the safer areas and into some of the most dangerous places of all.\nTo quote Planes, Trains and Automobiles: we’re going the wrong way.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/us-climate-change-americans-census-data",
+          "publishedOn": "2021-08-16T10:19:33.000Z",
+          "wordCount": 1082,
+          "title": "Parts of the US are getting dangerously hot. Yet Americans are moving the wrong way | David Sirota and Julia Rock"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/tiktok-facebook-tech-future-chinese-video-app",
+          "author": "Chris Stokel-Walker",
+          "description": "The swift rise of the Chinese video-sharing app could have ramifications for all of us and how we live, both online and off\nAgainst the backdrop of a global pandemic that has kept millions of people inside with nothing but their phones for company, the short-form video-sharing app TikTok has quietly ascended to the top ranks of tech. TikTok was the world’s most downloaded app last year, and according to App Annie, a mobile analytics company, in March 2020 alone, users spent as much time on it as there has been since the stone age: 2.8bn hours, or nearly 320,000 years. Last month, TikTok became the first app not owned by Facebook to cross the 3bn download mark. For context, there are 5.3bn mobile phone users worldwide.\nBy now, you’ll almost certainly know the name TikTok, even if you’ve never used it, perhaps through word of mouth from nagging children or grandchildren, or the sheer bombardment of TV adverts over the past year. Parent company ByteDance turned over $34bn in revenue in 2020, and clearly isn’t shy about spending it to acquire new users: at the Euros this summer, for instance, TikTok’s logo was emblazoned on every advertising hoarding in sight.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/tiktok-facebook-tech-future-chinese-video-app",
+          "publishedOn": "2021-08-16T10:15:33.000Z",
+          "wordCount": 1253,
+          "title": "TikTok is the new Facebook – and it is shaping the future of tech in its image  | Chris Stokel-Walker"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/aug/16/rachel-roddy-recipe-ricotta-gnocchi-sage-lemon",
+          "author": "Rachel Roddy",
+          "description": "There are thousands of names for pasta, but before all came those joyful, humble lumps of dough known as gnocchi. How do you like yours?\n“In the beginning was the gnocco.” When I first read that line by Corrado Barberis, president of Italy’s National Institute of Rural Sociology, I got slightly hysterical. Let me explain: it was last summer, inordinately hot, and I was holed up in a dark room writing a book about pasta, or rather 50 stories about 50 shapes, and things were not going well. In fact, they were going very badly, and I hated the book, myself and everyone I could hear having what sounded like the time of their lives in the piazza below.\nAfter looking for the answer on social media, then feeling even worse, I picked up the masterpiece that is Oretta Zanini de Vita’s Encyclopedia Of Pasta. Now, I should add that at the time we were working our way through The Hobbit and Lord of the Rings double trilogy at home, so I may have been influenced by that when I opened it looking for a sign.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2021/aug/16/rachel-roddy-recipe-ricotta-gnocchi-sage-lemon",
+          "publishedOn": "2021-08-16T10:00:34.000Z",
+          "wordCount": 1003,
+          "title": "Rachel Roddy’s recipe for ricotta gnocchi with sage and lemon | A kitchen in Rome"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/16/how-we-met-i-couldnt-hear-a-word-she-was-saying-but-she-was-phenomenally-beautiful",
+          "author": "Lizzie Cernik",
+          "description": "Anita, 26, and Taylor, 27, met at a bar in Boston in 2018. Having endured a hit-and-run incident and a case of Covid, they plan to set up home together while they continue to study\nIn 2018, Anita was enjoying life in Boston and, on Halloween, she went out for drinks. “My friend started talking to someone, but I wasn’t interested in joining their conversation,” she says. Luckily, she spotted someone else to distract her. “I saw this very attractive guy with a warm smile and went to speak to him.”\nTaylor, who had also been out with friends, was gearing up to go home. When Anita approached him, he was instantly drawn to her. “I couldn’t hear a word she was saying over the noise of the bar, but I thought she was phenomenally beautiful, so I tried to keep showing my interest,” he says. They went downstairs, where it was quieter, to continue their conversation. “I loved how tall he is. I’m 5ft 9in and he’s 6ft 5in,” says Anita.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/16/how-we-met-i-couldnt-hear-a-word-she-was-saying-but-she-was-phenomenally-beautiful",
+          "publishedOn": "2021-08-16T10:00:34.000Z",
+          "wordCount": 899,
+          "title": "How we met: ‘I couldn’t hear a word she was saying – but she was phenomenally beautiful’"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/nhs-doctor-patient-care-waiting-times-pandemic",
+          "author": "Peter Endicott",
+          "description": "As a junior doctor, I’ve seen the serious knock-on effects of the backlog of 5.5 million people waiting for care in England\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nIt’s embarrassing to tell a patient being discharged from hospital that they can’t be seen for months. Or assure them that you will check with the clinic booking team, when you know there is no capacity. It’s demoralising to work long hours in A&E only to have more people waiting for treatment than when you started your shift. To know so much of your work in the emergency room would be unnecessary if outpatient services were not stretched beyond their limits.\nDamaging waiting times have existed for years, caused by the government’s refusal to properly fund the NHS. Waiting times for GP and hospital appointments were the second most common reason given in a 2019 King’s Fund study about why patients were dissatisfied with the NHS. The pandemic has exacerbated this problem. Some 1.2 million people in England have now been waiting over six months for essential services, a figure that is almost five times higher than it was in 2019.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/nhs-doctor-patient-care-waiting-times-pandemic",
+          "publishedOn": "2021-08-16T09:50:33.000Z",
+          "wordCount": 1222,
+          "title": "NHS doctors know too well how waiting times damage all aspects of patient care | Peter Endicott"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/16/let-them-be-kids-is-free-range-parenting-the-key-to-healthier-happier-children",
+          "author": "Emine Saner",
+          "description": "Now more than ever, children are cooped up indoors and monitored 24/7. But how can they build confidence and social skills if adults never let them out of their sight?\nShe describes herself as having been a “fairly cautious” parent before the pandemic, but Shannon now worries about her children’s safety more than ever. “The pandemic has made me more paranoid and fearful of other people,” she says. She has two sons, aged seven and four, and she’s anxious about them falling ill “because they are too young to get vaccinated”. When her elder son’s school reopened last year, she kept him at home. “We don’t go inside other people’s houses, and, if we have play dates, we do them outside,” she says. As a hospital chaplain in Indiana, Shannon has seen people dying of Covid, so her fear is understandable.\nThere have been benefits – her sons are closer than ever – but she acknowledges the downsides. “That social aspect of their development is something I’m definitely worried about. There’s a part of me that’s like: ‘Let them be kids,’ and there’s a part of me that’s like: ‘I need to keep them safe.’”\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/16/let-them-be-kids-is-free-range-parenting-the-key-to-healthier-happier-children",
+          "publishedOn": "2021-08-16T09:00:33.000Z",
+          "wordCount": 2439,
+          "title": "‘Let them be kids!’ Is ‘free-range’ parenting the key to healthier, happier children?"
+        },
+        {
+          "id": "https://www.theguardian.com/travel/2021/aug/16/britain-re-enactors-return-to-battlefields-after-covid-photo-essay",
+          "author": "Alexander Turner",
+          "description": "They bring our history to life, and add drama and spectacle to summer days out. Now, after 18 months on the sidelines, armies of re-enactors are back in all their full period-costume glory\n‘We are historical interpreters: we are here so people don’t have to read the book,” says Aidan Turnbull, from the comfort of an open 15th-century toilet in the grounds of Dover Castle. Turnbull, an expert in medieval intestinal parasites, is dressed as a gong farmer – a nocturnal emptier of cesspits, who would remove human waste or “night soil” from Tudor latrines.\nThough the effects of Covid-19 on the UK’s community of medieval knights, Roman centurions and Crimea nurses has not made headlines, many re-enactors have been without work since March 2020. Armed with some thankfully odourless props and boundless enthusiasm, Turnbull and his fellow re-enactors are clearly thrilled to be back sharing their passion for British history with the public.\n Continue reading...",
+          "link": "https://www.theguardian.com/travel/2021/aug/16/britain-re-enactors-return-to-battlefields-after-covid-photo-essay",
+          "publishedOn": "2021-08-16T09:00:32.000Z",
+          "wordCount": 1640,
+          "title": "Britain’s re-enactors return to the battlefields after lockdown – a photo essay"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/16/southern-water-sewage-destroying-protected-chichester-harbour",
+          "author": "Sandra Laville",
+          "description": "Campaigners say Chichester harbour at risk of environmental ruin from dumping of raw sewage\nDischarges of raw sewage by Southern Water into a protected natural harbour risk causing an environmental catastrophe, say campaigners.\nChichester harbour in West Sussex is one of the most highly protected marine environments in the country. But the latest analysis from Natural England shows that 80% of its protected habitats are in an unfavourable or declining condition.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/16/southern-water-sewage-destroying-protected-chichester-harbour",
+          "publishedOn": "2021-08-16T08:22:32.000Z",
+          "wordCount": 1099,
+          "title": "Southern Water sewage is destroying protected harbour, say activists"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/australians-with-family-in-afghanistan-tell-of-despair-survivor-guilt",
+          "author": "Mostafa Rachwani",
+          "description": "The Afghan diaspora has been aghast watching the events in their home country unfold from afar, and talk of their fear, helplessness and disappointment\nAustralians with family in Afghanistan have shared their despair and anger at the unfolding chaos in Kabul, saying they feel powerless as they watch on.\nAs the Taliban took control of the country with lightning speed, members of the Afghan diaspora have been watching on with the rest of the world, hanging on to every update and attempting to comfort their friends and family in Kabul.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/australians-with-family-in-afghanistan-tell-of-despair-survivor-guilt",
+          "publishedOn": "2021-08-16T08:08:23.000Z",
+          "wordCount": 1232,
+          "title": "Australians with family in Afghanistan tell of despair, survivor guilt"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/blog/2021/aug/16/a-shift-of-mindset-and-language-will-let-us-take-more-from-olympics-of-the-future",
+          "author": "Cath Bishop",
+          "description": "It’s time to ditch the old cliches and to change the way we think about Olympic athletes, who are humans rather than robots\nChris Boardman signalled the shift when he summed up British Cycling’s performance at the Tokyo Olympics: “Fewer medals but a better story.” What could he mean? We all know sporting performance pushes forward. Innovation never stops as athletes look deeper and search further to raise their game. The new territory this time is fresh vocabulary, human stories and different thinking.\nThe Paralympics are poised to begin, the Beijing Winter Olympics follow next year, with Paris 2024 not so far away. Olympians of different ages and from different nations are challenging us to shift our mindsets and broaden the lens on what we see and take from the Games. Our language as spectators, journalists, politicians or sports leaders needs checking. There was a new vernacular spoken in the performance arenas of Tokyo. Take your favourite most-quoted phrases and question whether an athlete would say them any more. Here’s three to start:\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/blog/2021/aug/16/a-shift-of-mindset-and-language-will-let-us-take-more-from-olympics-of-the-future",
+          "publishedOn": "2021-08-16T07:00:30.000Z",
+          "wordCount": 1257,
+          "title": "A shift of mindset will let us take more from Olympics of the future | Cath Bishop"
+        },
+        {
+          "id": "https://www.theguardian.com/stage/2021/aug/16/joan-rivers-and-barbra-streisand-the-myth-of-their-lesbian-play",
+          "author": "Ryan Gilbey",
+          "description": "Before they were superstars, Joan Rivers kissed and tried to kill a young Barbra Streisand on stage – or so she claimed. Now her tall tale has inspired drama The Funny Girls\nIn the late 1950s, a 25-year-old struggling actor named Joan Molinsky – later to become better known as the acerbic comedian Joan Rivers – landed a small part as a lesbian stalker in an off-off-Broadway play called Seaweed. “The primary qualification for being cast,” her biographer Leslie Bennetts later wrote, seemed to be “that she had lots of relatives who would come see her in a play”. The significance of Seaweed from a historical point of view is that she was starring opposite another superstar-in-waiting, whom she described in her memoir Enter Talking as “a skinny high school girl with a large nose and a pin that said, ‘Go Erasmus!’”.\nThis was 17-year-old Barbra Streisand, who played her unlucky victim. Rivers recalled “a big love scene in which I told Barbra I loved her very much and she rejected me and I had a knife in my hand and tried to kill her and then myself”. It’s delicious to imagine these two future divas in a clinch in some airless New York attic in front of an audience “sitting there in overcoats … coughing, like a tubercular ward”, as Rivers put it.\n Continue reading...",
+          "link": "https://www.theguardian.com/stage/2021/aug/16/joan-rivers-and-barbra-streisand-the-myth-of-their-lesbian-play",
+          "publishedOn": "2021-08-16T07:00:30.000Z",
+          "wordCount": 1145,
+          "title": "Joan Rivers and Barbra Streisand: the myth of their lesbian play"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/16/covid-culture-wars-children-risk-politicians",
+          "author": "Ed Pilkington",
+          "description": "Rightwing politicians leave parents of vulnerable children with an impossible dilemma: send children to school where others are unmasked, or keep them home – again\nTen days ago Robyn McCarthy was eagerly preparing for the return of her six-year-old son to in-person classes at his Miami public school at the start of the new school year. After 18 months of grueling lockdown at home, learning through Zoom, it was finally time for the boy to re-enter the world outside.\n“We were excited and we were ready,” McCarthy said. “We’d bought the uniforms, we had the masks all ready to go. We felt confident that the school would do a great job in keeping our son and everybody else safe.”\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/16/covid-culture-wars-children-risk-politicians",
+          "publishedOn": "2021-08-16T07:00:30.000Z",
+          "wordCount": 1755,
+          "title": "Children caught in Covid culture wars as US politicians defy health advice"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/aug/16/guantanamo-detainee-mansoor-adayfi",
+          "author": "Poppy Noor",
+          "description": "After endless years during which he was routinely tortured, Mansoor Adayfi, who now lives in Serbia, asks: ‘What if that had been American boys?’\n\nWhen a shackled Mansoor Adayfi was lumped on to a heap of shivering, naked bodies in the pitch black, a hood over his head and muffs around his ears, he assumed he was going to die. He had just been conducting research in Afghanistan, and was expecting to begin university at the end of the year. Instead, he was accused of being an al-Qaida leader, kidnapped by Afghan warlords and handed over to the CIA.\nHe was kept in a prison camp in Afghanistan, then shipped to Guantánamo Bay. He remained hopeful. Aged 18, coming from a tribal area of Yemen with no electricity or running water, Adayfi did not know much about US values, but he assumed some principles held true in most of the world: that every person should be innocent until proven guilty; that if you have nothing to hide you should tell the truth; and that all humans, regardless of who they are, have rights.\n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/aug/16/guantanamo-detainee-mansoor-adayfi",
+          "publishedOn": "2021-08-16T07:00:30.000Z",
+          "wordCount": 2066,
+          "title": "‘The US should be held accountable’: Guantánamo survivor on the war on terror’s failure"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/16/rhik-samadder-tries-silent-disco-meditation-a-man-in-socks-and-a-bandana-is-romancing-a-tree",
+          "author": "Rhik Samadder",
+          "description": "A dance-based ‘soul journey’ – in the middle of Clapham Common? While I stream with sweat and onlookers laugh, I can’t stop worrying about what I’m having for dinner\nI’m shaking my pelvis with brio, when a goldendoodle ambles up. Don’t you poo, I think. Then again, doing what comes naturally is the point of today. My friend Beth has invited me to try 5Rhythms: a silent disco movement meditation class on Clapham Common. I didn’t understand any of those words, but said yes­, because this column has turned my life into a second-tier Jim Carrey film­. Now I’m in deep with the hippies. To my left, a man in socks and a bandana is romancing a tree. A nearby game of touch rugby has paused so its players can laugh at us. This is my nightmare.\n5Rhythms was developed in the 1970s by Gabrielle Roth, a New York theatre artist, but moved mainstream in the last 15 years, adopted by the wellness crowd. The practice involves dancing to five distinct moods of music, in a specific sequence known as the wave, which corresponds to different aspects of the self. The resulting “soul journey” is designed to unlock unlimited creativity and wholeness in the psyche of the dancer. Assuming they buy into the new-age framework, that is. My own personal five rhythms are lazy, dissatisfied, hungry, laughing and a freeform malaise I refer to as Kenneth.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/16/rhik-samadder-tries-silent-disco-meditation-a-man-in-socks-and-a-bandana-is-romancing-a-tree",
+          "publishedOn": "2021-08-16T06:00:29.000Z",
+          "wordCount": 1212,
+          "title": "Rhik Samadder tries … silent disco meditation: ‘A man in socks and a bandana is romancing a tree’"
+        },
+        {
+          "id": "https://www.theguardian.com/artanddesign/2021/aug/16/the-last-nomad-hippies-a-photo-essay",
+          "author": "Roberto Palomo",
+          "description": "The hippy movement may have been in decline since its 1960s heyday, but there are still Europeans who choose an alternative lifestyle. During the pandemic, when many people are considering whether there might be a different way to live rather than returning to old ways, journalist Roberto Palomo journeys through Portugal with some of those who are living outside established society\nThe pandemic disrupted so many people’s plans, including mine. As a freelance reporter, my scheduled trip through South America in search of stories disappeared and I had to look for alternatives. In spite of everything, I got a job during lockdown in a logistics warehouse and was able to save some money. Once the restrictions began to relax, I bought an old van and, with the help of some friends, adapted it to make it my new home for the next months.\nI am from Badajoz, a small city in the south-west of Spain a few kilometres from the Portuguese border. I have been visiting Portugal since I was a child but I never had the opportunity to explore the neighbouring country in more depth. With the world paralysed, this was my chance.\n Continue reading...",
+          "link": "https://www.theguardian.com/artanddesign/2021/aug/16/the-last-nomad-hippies-a-photo-essay",
+          "publishedOn": "2021-08-16T06:00:29.000Z",
+          "wordCount": 1023,
+          "title": "The last nomad hippies – a photo essay"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/right-culture-tories",
+          "author": "Kojo Koram",
+          "description": "The Tories see culture as something that needs to be protected, but it’s a shifting landscape transformed by each generation\nThe culture war, much like the war on drugs or the war on terror, is a metaphorical state that seems fated to go on for ever. The left blames the right for instigating a cynical distraction from its economic and public health failures; the right insists it is merely acting in self-defence after years of clandestine advances by the left. The indefinite nature of this battle stems from a general failure to define what is being fought over, or to determine what is meant by culture, where it comes from or why it matters.\nOne of the people who thought hardest about the idea of “culture” that so preoccupies today’s culture warriors was Stuart Hall, the sociologist and founding figure of British cultural studies. Hall arrived in Britain from Jamaica in 1951 to find a rigidly hierarchical society that was undergoing profound social changes in the aftermath of the second world war. The “Windrush generation” had been recruited from the far corners of a fragmenting empire to help rebuild a devastated mother country, bringing with them new music, food and language that would reshape Britain’s atmosphere. At the same time, television, cinema and radio were spreading a new, irreverent image of British culture around the world, while the rise of the welfare state and increasing disposable income among working people meant the audiences for art and sport were growing just as their barriers of entry began to lower. \n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/right-culture-tories",
+          "publishedOn": "2021-08-16T06:00:28.000Z",
+          "wordCount": 1286,
+          "title": "Here’s what the right gets wrong about culture: it’s not fixed, it’s a living thing | Kojo Koram"
+        },
+        {
+          "id": "https://www.theguardian.com/culture/2021/aug/16/cammie-toloui-camera-sex-worker-photojournalist",
+          "author": "Diane Smyth",
+          "description": "Turning her camera on her customers, the sex worker and photojournalist  exposed the male gaze to itself – and opened up a world of shame and desire\n“As a rebellious preteen, I sat down and made a list of my life goals,” writes Cammie Toloui in her photobook 5 Dollars for 3 Minutes. “It was pretty simple: 1. Sex. 2. Drugs. 3. Rock’n’roll.”\nBorn in the San Francisco Bay Area in the Summer of Love, Toloui was in the right place to hit these targets, and by 1990 was a member of a feminist punk band, Yeastie Girlz, and working at the Lusty Lady strip club. Stripping was part-rebellion and part-necessity because Toloui was studying photojournalism at San Francisco State University and the Lusty Lady paid well, but when she was given an assignment to shoot her own life, it also became a project. Deciding not to photograph herself or her colleagues, because female nudes have been seen so many times before, she trained her camera on the customers.\n Continue reading...",
+          "link": "https://www.theguardian.com/culture/2021/aug/16/cammie-toloui-camera-sex-worker-photojournalist",
+          "publishedOn": "2021-08-16T05:00:28.000Z",
+          "wordCount": 1637,
+          "title": "‘We always see sex from the man’s view’: Cammie Toloui, the peep show performer who peeped back"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/aug/16/three-two-win-how-to-adapt-to-hybrid-home-and-office-working",
+          "author": "Alexandra Topping",
+          "description": "Experts offer their advice on how companies and staff can move to a more flexible model of work\nWorking 3:2, what a way to make a living – but a new way that may take a little getting used to, according to experts.\nAs coronavirus restrictions lift, many companies whose staff have worked from home for 18 months are asking those workers to dust off their bras and smart trousers and return to the office part-time.\n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/aug/16/three-two-win-how-to-adapt-to-hybrid-home-and-office-working",
+          "publishedOn": "2021-08-16T05:00:28.000Z",
+          "wordCount": 1116,
+          "title": "Three, two, win? How to adapt to hybrid home and office working"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/aug/16/west-midlands-mayor-tells-pm-red-wall-voters-want-to-see-delivery",
+          "author": "Aubrey Allegretti",
+          "description": "Andy Street says the region’s new Tory voters need concrete policies to match Boris Johnson’s ‘levelling up’ pledge\nBoris Johnson has been urged by one of the most senior Conservative figures outside London to match the symbolism of his “levelling up” pledge with concrete policies.\nAndy Street, the mayor of the West Midlands, said the prime minister had shown he was “not for turning” in the face of Tory heartland MPs worried the party would neglect its traditional voters, but pressed him to set out a “full policy platform” in the coming months.\nFresh from securing an increased majority in the May local elections as one of the few Conservative metro mayors, Street cautioned that the swathes of “red wall” voters who backed the party for the first time in 2019 “want to see delivery”.\nThe former John Lewis managing director also called on ministers not to rely totally on public spending to boost the life chances of those in impoverished areas, instead saying that leveraging significant investment by private businesses was “the only way out of this country’s economic challenge”.\nSpeaking from Wolverhampton College, Street conceded the idea behind levelling up was “not completely new”, instead pioneered by former prime minister David Cameron – meaning it had already been “in action” for several years.\nHowever, he praised Johnson for vowing to make it “the defining mission of his government” and admitted that while a landmark speech Johnson gave in Coventry last month on his priorities as the UK emerged from the pandemic did not contain everything he wanted to hear, he was confident those announcements would come.\nStreet said: “He could easily have turned his back on that after Covid. But actually, no, he’s leaning right into it. And he’s also telling his party – and this was what was so important – that that is what the Conservative government’s going to do.\n\n Related: The cost of Boris Johnson’s ‘levelling up’: £2tn, says UK thinktank \n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/aug/16/west-midlands-mayor-tells-pm-red-wall-voters-want-to-see-delivery",
+          "publishedOn": "2021-08-16T05:00:28.000Z",
+          "wordCount": 922,
+          "title": "West Midlands mayor tells PM: ‘Red wall voters want to see delivery’"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/16/clive-myrie-on-politics-personality-mastermind",
+          "author": "Sam Wollaston",
+          "description": "The BBC newsreader takes over the venerable quiz show next week. He discusses fighting for viewers, dealing with online abuse – and making his parents proud\nThere is one correct way to start an interview with the new host of Mastermind: turn the tables on him – put him in the chair, under the spotlight. He hasn’t prepared a specialist subject, though, so I pick one for him, an easy one: the life and work of Clive Myrie, gleaned from previous interviews and the internet. There may be errors, but I can accept only the answer on the card. It will lead to topics for discussion. He is up for it, he says, although his face says: “WTF?”\nThe setting – a meeting room at the BBC’s New Broadcasting House – isn’t perfect. The lighting is all wrong. There are chairs, but not the chair. At least I can play the theme on my phone. Bam baba bam, bam baba bam, da da …\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/16/clive-myrie-on-politics-personality-mastermind",
+          "publishedOn": "2021-08-16T05:00:28.000Z",
+          "wordCount": 2872,
+          "title": "‘I’m not a news robot reading an Autocue’: Clive Myrie on politics, personality and Mastermind"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/aug/16/uk-net-zero-delay-has-left-room-for-climate-sceptics-attacks-says-tory-peer",
+          "author": "Rowena Mason Deputy political editor",
+          "description": "Lord Deben says he is ‘pressing very hard’ to get details of strategy published as Cop26 approaches\nBoris Johnson’s delay in publishing the net zero emissions strategy has left a space for climate sceptics to “complain, attack and undermine” on cost grounds, and other countries could do with seeing more “proper leadership” from the UK before Cop26, the government’s independent climate adviser has said.\nLord Deben, the Conservative peer and chair of the climate change committee, said critics of the net zero policy had been vocal in the public debate because “it hasn’t been put into context by the government”.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2021/aug/16/uk-net-zero-delay-has-left-room-for-climate-sceptics-attacks-says-tory-peer",
+          "publishedOn": "2021-08-16T05:00:27.000Z",
+          "wordCount": 1019,
+          "title": "UK net zero delay has left room for sceptics’ attacks, says government climate adviser"
+        },
+        {
+          "id": "https://www.theguardian.com/law/2021/aug/16/landmark-uk-court-ruling-due-in-bride-price-dispute",
+          "author": "Amelia Hill",
+          "description": "Woman has taken her ex-husband and his parents to court seeking full payment of her mahr\nA landmark judgment that could bring part of UK law into line with sharia law’s position on “bride price” payments is to be announced this week in the central London county court, in a case backed by a women’s charity.\nA bride price – or mahr – is one of the important aspects of an Islamic marriage contract. It is a gift, or a promise of a gift, to the wife by the husband. It is agreed between the parents or guardians of the bride and the groom verbally or in writing shortly before the couple’s marriage.\n Continue reading...",
+          "link": "https://www.theguardian.com/law/2021/aug/16/landmark-uk-court-ruling-due-in-bride-price-dispute",
+          "publishedOn": "2021-08-16T05:00:27.000Z",
+          "wordCount": 910,
+          "title": "Landmark UK court ruling due in ‘bride price’ dispute"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/16/world-billions-covid-vaccine-doses-africa-unprotected",
+          "author": "Gordon Brown",
+          "description": "While western governments get ready to administer booster shots, millions in Africa are still completely unprotected\n\nGordon Brown hits out at EU’s ‘neocolonial approach’ to Covid vaccine supplies\n\nIn a shocking symbol of the west’s failure to honour its promise of equitable vaccine distribution, millions of Covid vaccines manufactured in Africa that should have saved the lives of Africans have been shipped to Europe in recent weeks. Indeed I have learned from African leaders that, this month and next, about 10m single-shot Johnson & Johnson (J&J) vaccines filled and finished at the Aspen factory in South Africa will be exported to Europe, at the very time that Africa is grappling with its deadliest wave of Covid-19 infections yet.\nCompared with the swift development of the pathbreaking Covid vaccines, getting shots into all the world’s arms should be straightforward. But vaccine nationalism – and Europe’s neocolonial approach to global health – is dividing the world into rich and protected people, who live, and those who are poor, unprotected and at risk of dying.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/16/world-billions-covid-vaccine-doses-africa-unprotected",
+          "publishedOn": "2021-08-16T04:00:26.000Z",
+          "wordCount": 1433,
+          "title": "The world is making billions of Covid vaccine doses, so why is Africa not getting them? | Gordon Brown"
+        },
+        {
+          "id": "https://www.theguardian.com/news/audio/2021/aug/16/after-icu-a-covid-patient-meets-one-of-the-doctors-who-saved-his-life-podcast",
+          "author": "Presented by Rachel Humphreys with Sirin Kale; produced by Hannah Moore and Rudi Zygadlo; executive producers Archie Bland and Phil Maynard",
+          "description": "Karl Gray, a 60-year-old Salvation Army minister from north London is reunited with Dr Susan Jain, an intensive care consultant who helped save his life\nMore than a quarter of Covid patients admitted to hospital in England during the early months of the pandemic died of the disease. ICU staff were so concerned about the effects this data was having on patients that some put up posters reading: “Most people leave here alive.” \nOne of those who did was Karl Gray, a 60-year-old Salvation Army minister from north London. He was admitted to Homerton hospital, in Hackney, in the UK’s first wave on 4 April. He couldn’t breathe. The last thing he remembers is the ambulance reversing into the bay. The rest is blank.\n Continue reading...",
+          "link": "https://www.theguardian.com/news/audio/2021/aug/16/after-icu-a-covid-patient-meets-one-of-the-doctors-who-saved-his-life-podcast",
+          "publishedOn": "2021-08-16T02:00:23.000Z",
+          "wordCount": 664,
+          "title": "After ICU: a Covid patient meets one of the doctors who saved his life"
+        },
         {
           "id": "https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates",
           "author": "Helen Sullivan",
@@ -9422,6 +10336,15 @@
           "title": "Savoy’s American Bar appoints first woman as head bartender in 95 years"
         },
         {
+          "id": "https://www.theguardian.com/all-in-all-together/2021/aug/06/covid-travel-abroad-your-essential-guide-to-staying-safe",
+          "author": "Rosie Mullender",
+          "description": "Travel has changed, so if you’re planning a trip overseas, these are the steps you need to take – from meeting the rules of your destination to managing your return to the UK\nThe success of the UK’s vaccination programme means the country is gradually opening up, and some people are busy making plans to travel abroad. To keep everyone safe from Covid-19, there are a few steps you need to take before booking your trip, from checking the rules relating to your destination to organising coronavirus tests before and after you return to the UK.\nThe Foreign Office has a detailed breakdown of everything you need to help you prepare at gov.uk/foreign-travel-advice, with separate travel guidance for England, Scotland, Wales and Northern Ireland. Here’s what you need to know before you pack your suitcase.\n Continue reading...",
+          "link": "https://www.theguardian.com/all-in-all-together/2021/aug/06/covid-travel-abroad-your-essential-guide-to-staying-safe",
+          "publishedOn": "2021-08-06T11:44:52.000Z",
+          "wordCount": 1810,
+          "title": "Summer holidays: what are the new rules for Covid-safe travel abroad?"
+        },
+        {
           "id": "https://www.theguardian.com/world/2021/aug/06/chinese-uproar-as-state-tv-host-calls-gold-medal-winner-a-manly-woman",
           "author": "Helen Davidson in Taipei",
           "description": "Shot put champion Gong Lijiao quizzed about boyfriends and settling down into ‘a woman’s life’\nThe Chinese state media channel CCTV has been roundly criticised after a TV anchor described an Olympic medallist as a “manly woman” and asked her if she had plans for “a woman’s life”.\nGong Lijiao, 32, won a gold medal in the women’s shot put on Sunday with a personal best of 20.58 metres. It was the first gold medal in a field event for any Chinese athlete ever, and the first gold for an Asian athlete in shot put.\n Continue reading...",
@@ -9681,6 +10604,15 @@
           "publishedOn": "2021-08-05T10:30:00.000Z",
           "wordCount": 686,
           "title": "Cyprus’s haunting new underwater sculpture park – in pictures"
+        },
+        {
+          "id": "https://www.theguardian.com/the-connected-family/2021/aug/05/laid-back-parent-or-a-nervous-worrier-take-our-quiz-to-find-out-your-parenting-style",
+          "author": "Andrzej Łukowski",
+          "description": "From sleepovers and shopping to soft play, how much independence do you give your kids?\nWhatever your parenting style, feel connected to your child with Neo, the smart kids’ watch. Find out more at Vodafone\n Continue reading...",
+          "link": "https://www.theguardian.com/the-connected-family/2021/aug/05/laid-back-parent-or-a-nervous-worrier-take-our-quiz-to-find-out-your-parenting-style",
+          "publishedOn": "2021-08-05T09:07:49.000Z",
+          "wordCount": 366,
+          "title": "Laid-back parent or a nervous worrier? Take our quiz to find out your parenting style"
         },
         {
           "id": "https://www.theguardian.com/news/audio/2021/aug/05/why-belarus-olympic-sprinter-krystsina-tsimanouskayaref-used-to-go-home-podcast",
